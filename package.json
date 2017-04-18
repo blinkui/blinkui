@@ -1,0 +1,35 @@
+{
+    "name": "blinkUI",
+    "version": "1.0.0",
+    "description": "Web and interface design in the blink of an eye.",
+    "author": "Damian Gerbaulet",
+    "license": "MIT",
+    "devDependencies": {
+        "postcss-cli": "^3.1.1",
+        "postcss-import": "^9.1.0",
+        "postcss-cssnext": "^2.10.0",
+        "autoprefixer": "^6.7.7",
+        "cssnano": "^3.10.0"
+    },
+    "scripts": {
+        "css": "postcss src/blink.css --use postcss-import postcss-cssnext --output css/blink.css",
+        "minify": "postcss css/blink.css --use cssnano --output css/blink.min.css",
+        "start": "npm run css && npm run minify"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/blinkui/blinkui.git"
+    },
+    "keywords": [
+        "blinkUI",
+        "boilerplate",
+        "css",
+        "oocss",
+        "functional css",
+        "postcss"
+    ],
+    "bugs": {
+        "url": "https://github.com/blinkUI/blinkUI/issues"
+    },
+    "homepage": "https://blinkui.github.io/"
+}
