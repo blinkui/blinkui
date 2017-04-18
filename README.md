@@ -3,6 +3,12 @@ Web and interface design in the blink of an eye.
 
 Have a look at the docs at [blinkui.github.io](https://blinkui.github.io/).
 
+Start prototyping right away by simply adding a link to the latest blinkUI version in your `<head>` section:
+
+``` html
+<link rel="stylesheet" href="https://gitcdn.link/repo/blinkui/blinkui/master/css/blink.css">
+```
+
 ---
 
 ## Features
