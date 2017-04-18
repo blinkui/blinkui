@@ -17,17 +17,17 @@ Start prototyping right away by simply adding a link to the latest blinkUI versi
 - Starter folder structure
 - npm run scripts for processing with postcss
 - postcss plugins
-  - import
-  - cssnext (including autoprefixer)
-  - cssnano
+  - import (combines the many single modules into one css file)
+  - cssnext (including autoprefixer; makes sure older browsers understand our state-of-the-art css)
+  - cssnano (reduces the filesize)
 
 ## Getting Started
 
-You will need
+You will need:
 
 - [git](https://git-scm.com/)
 - [node.js](http://nodejs.org/download/)
-- [npm](https://docs.npmjs.com/getting-started/installing-node) - just a `sudo npm install -g npm` away
+- [npm](https://docs.npmjs.com/getting-started/installing-node)
 
 To start fresh, clone blinkUI into a new project and remove its git directory.
 
