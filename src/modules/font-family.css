@@ -1,11 +1,11 @@
 .ff\:s {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+    font-family: var(--seriffont)
 }
 
 .ff\:ss {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+    font-family: var(--sansfont)
 }
 
 .ff\:m {
-    font-family: 'Roboto Mono', 'Source Code Pro', Menlo, Consolas, 'Liberation Mono', monospace
+    font-family: var(--monofont)
 }

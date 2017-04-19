@@ -8,12 +8,11 @@
         "postcss-cli": "^3.1.1",
         "postcss-import": "^9.1.0",
         "postcss-cssnext": "^2.10.0",
-        "autoprefixer": "^6.7.7",
         "cssnano": "^3.10.0"
     },
     "scripts": {
-        "css": "postcss src/blink.css --use postcss-import postcss-cssnext --output css/blink.css",
-        "minify": "postcss css/blink.css --use cssnano --output css/blink.min.css",
+        "css": "postcss src/blink.css --no-map --use postcss-import postcss-cssnext --output css/blink.css",
+        "minify": "postcss css/blink.css --no-map --use cssnano --output css/blink.min.css",
         "start": "npm run css && npm run minify"
     },
     "repository": {

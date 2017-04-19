@@ -17,7 +17,7 @@ Start prototyping right away by simply adding a link to the latest blinkUI versi
 - Starter folder structure
 - npm run scripts for processing with postcss
 - postcss plugins
-  - import (combines the many single modules into one css file)
+  - import (combines the single modules into one css file)
   - cssnext (including autoprefixer; makes sure older browsers understand our state-of-the-art css)
   - cssnano (reduces the filesize)
 
@@ -49,4 +49,4 @@ Compile source files to the `css` folder.
 npm start
 ```
 
-Use `index.html` as a starting point, and edit `src/blink.css` and its included modules under `src/modules/` to customize blinkUI.
+Use `index.html` as a starting point, and edit `src/blink.css` and its included modules under `src/modules/` to customize blinkUI, then recompile with `npm start`.
