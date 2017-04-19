@@ -3,10 +3,16 @@ Web and interface design in the blink of an eye.
 
 Have a look at the docs at [blinkui.github.io](https://blinkui.github.io/).
 
-Start prototyping right away by simply adding a link to the latest blinkUI version in your `<head>` section:
+Start prototyping right away by simply adding a link to the latest blinkUI version to your `<head>`:
 
 ``` html
 <link rel="stylesheet" href="https://gitcdn.link/repo/blinkui/blinkui/master/css/blink.css">
+```
+
+(also available as a minified file:)
+
+``` html
+<link rel="stylesheet" href="https://gitcdn.link/repo/blinkui/blinkui/master/css/blink.min.css">
 ```
 
 ---
@@ -23,13 +29,13 @@ Start prototyping right away by simply adding a link to the latest blinkUI versi
 
 ## Getting Started
 
-You will need:
+You will need [git](https://git-scm.com/) and [node.js](http://nodejs.org/download/) (which ships with [npm](https://docs.npmjs.com/getting-started/what-is-npm)).
 
-- [git](https://git-scm.com/)
-- [node.js](http://nodejs.org/download/)
-- [npm](https://docs.npmjs.com/getting-started/installing-node)
+If you should encounter problems with `node` or `npm`, you might have to [update](https://docs.npmjs.com/getting-started/installing-node) either one.
 
-To start fresh, clone blinkUI into a new project and remove its git directory.
+---
+
+To start fresh, clone *blinkUI* into a new project and remove its git directory.
 
 ``` bash
 git clone https://github.com/blinkUI/blinkUI.git new-project
@@ -43,10 +49,8 @@ Install the dependencies.
 npm install
 ```
 
-Compile source files to the `css` folder.
+Use `index.html` as a starting point, and edit `src/blink.css` and its included modules under `src/modules/` to customize blinkUI, then recompile the source files to the `css` folder.
 
 ``` bash
 npm start
 ```
-
-Use `index.html` as a starting point, and edit `src/blink.css` and its included modules under `src/modules/` to customize blinkUI, then recompile with `npm start`.
