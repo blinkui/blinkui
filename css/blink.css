@@ -4678,7 +4678,7 @@ a {
 }
 
 
-*:hover>.v\:v\:h {
+*:hover>.v\:v\:h, *:focus>.v\:v\:h {
     visibility: visible
 }
 
