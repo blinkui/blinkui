@@ -6,6 +6,6 @@
     visibility: hidden
 }
 
-*:hover>.v\:v\:h, *:focus>.v\:v\:h {
+*:hover>.v\:v\:h {
     visibility: visible
 }
