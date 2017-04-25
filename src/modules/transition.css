@@ -1,0 +1,11 @@
+.t\:fast {
+    transition: all .25s ease
+}
+
+.t\:medium {
+    transition: all .5s ease
+}
+
+.t\:slow {
+    transition: all 1s ease
+}

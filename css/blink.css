@@ -5183,20 +5183,6 @@ a {
 }
 
 
-.o\:5 {
-    -webkit-box-ordinal-group: 6;
-        -ms-flex-order: 5;
-            order: 5
-}
-
-
-.o\:6 {
-    -webkit-box-ordinal-group: 7;
-        -ms-flex-order: 6;
-            order: 6
-}
-
-
 .o\:-1 {
     -webkit-box-ordinal-group: 0;
         -ms-flex-order: -1;
@@ -5222,20 +5208,6 @@ a {
     -webkit-box-ordinal-group: -3;
         -ms-flex-order: -4;
             order: -4
-}
-
-
-.o\:-5 {
-    -webkit-box-ordinal-group: -4;
-        -ms-flex-order: -5;
-            order: -5
-}
-
-
-.o\:-6 {
-    -webkit-box-ordinal-group: -5;
-        -ms-flex-order: -6;
-            order: -6
 }
 
 
@@ -6573,7 +6545,7 @@ a {
 }
 
 
-.o\:\.0 {
+.o\:0 {
     opacity: 0
 }
 
@@ -6629,6 +6601,21 @@ a {
 }
 
 
-.o\:\.0\:h:hover {
+.o\:0\:h:hover {
     opacity: 0
+}
+
+
+.t\:fast {
+    transition: all .25s ease
+}
+
+
+.t\:medium {
+    transition: all .5s ease
+}
+
+
+.t\:slow {
+    transition: all 1s ease
 }
