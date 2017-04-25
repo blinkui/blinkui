@@ -35,91 +35,91 @@
 }
 
 @media screen and (min-width: 40rem) {
-    .d\:b\@md {
+    .d\:b\@M {
         display: block
     }
-    .d\:i\@md {
+    .d\:i\@M {
         display: inline
     }
-    .d\:ib\@md {
+    .d\:ib\@M {
         display: inline-block
     }
-    .d\:n\@md {
+    .d\:n\@M {
         display: none
     }
-    .d\:f\@md {
+    .d\:f\@M {
         display: flex
     }
-    .d\:if\@md {
+    .d\:if\@M {
         display: inline-flex
     }
-    .d\:t\@md {
+    .d\:t\@M {
         display: table
     }
-    .d\:tc\@md {
+    .d\:tc\@M {
         display: table-cell
     }
-    .d\:tr\@md {
+    .d\:tr\@M {
         display: table-row
     }
 }
 
 @media screen and (min-width: 60rem) {
-    .d\:b\@lg {
+    .d\:b\@L {
         display: block
     }
-    .d\:i\@lg {
+    .d\:i\@L {
         display: inline
     }
-    .d\:ib\@lg {
+    .d\:ib\@L {
         display: inline-block
     }
-    .d\:n\@lg {
+    .d\:n\@L {
         display: none
     }
-    .d\:f\@lg {
+    .d\:f\@L {
         display: flex
     }
-    .d\:if\@lg {
+    .d\:if\@L {
         display: inline-flex
     }
-    .d\:t\@lg {
+    .d\:t\@L {
         display: table
     }
-    .d\:tc\@lg {
+    .d\:tc\@L {
         display: table-cell
     }
-    .d\:tr\@lg {
+    .d\:tr\@L {
         display: table-row
     }
 }
 
 @media screen and (min-width: 80rem) {
-    .d\:b\@xl {
+    .d\:b\@XL {
         display: block
     }
-    .d\:i\@xl {
+    .d\:i\@XL {
         display: inline
     }
-    .d\:ib\@xl {
+    .d\:ib\@XL {
         display: inline-block
     }
-    .d\:n\@xl {
+    .d\:n\@XL {
         display: none
     }
-    .d\:f\@xl {
+    .d\:f\@XL {
         display: flex
     }
-    .d\:if\@xl {
+    .d\:if\@XL {
         display: inline-flex
     }
-    .d\:t\@xl {
+    .d\:t\@XL {
         display: table
     }
-    .d\:tc\@xl {
+    .d\:tc\@XL {
         display: table-cell
     }
-    .d\:tr\@xl {
+    .d\:tr\@XL {
         display: table-row
     }
 }

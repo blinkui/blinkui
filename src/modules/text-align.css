@@ -15,46 +15,46 @@
 }
 
 @media screen and (min-width: 40rem) {
-    .ta\:c\@md {
+    .ta\:c\@M {
         text-align: center
     }
-    .ta\:j\@md {
+    .ta\:j\@M {
         text-align: justify
     }
-    .ta\:l\@md {
+    .ta\:l\@M {
         text-align: left
     }
-    .ta\:r\@md {
+    .ta\:r\@M {
         text-align: right
     }
 }
 
 @media screen and (min-width: 60rem) {
-    .ta\:c\@lg {
+    .ta\:c\@L {
         text-align: center
     }
-    .ta\:j\@lg {
+    .ta\:j\@L {
         text-align: justify
     }
-    .ta\:l\@lg {
+    .ta\:l\@L {
         text-align: left
     }
-    .ta\:r\@lg {
+    .ta\:r\@L {
         text-align: right
     }
 }
 
 @media screen and (min-width: 80rem) {
-    .ta\:c\@xl {
+    .ta\:c\@XL {
         text-align: center
     }
-    .ta\:j\@xl {
+    .ta\:j\@XL {
         text-align: justify
     }
-    .ta\:l\@xl {
+    .ta\:l\@XL {
         text-align: left
     }
-    .ta\:r\@xl {
+    .ta\:r\@XL {
         text-align: right
     }
 }

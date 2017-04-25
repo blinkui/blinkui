@@ -125,84 +125,84 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .fs\:\.75r\@md {
+    .fs\:\.75r\@M {
         font-size: .75rem
     }
-    .fs\:\.875r\@md {
+    .fs\:\.875r\@M {
         font-size: .875rem
     }
-    .fs\:1r\@md {
+    .fs\:1r\@M {
         font-size: 1rem
     }
-    .fs\:1\.5r\@md {
+    .fs\:1\.5r\@M {
         font-size: 1.5rem
     }
-    .fs\:2r\@md {
+    .fs\:2r\@M {
         font-size: 2rem
     }
-    .fs\:4r\@md {
+    .fs\:4r\@M {
         font-size: 4rem
     }
-    .fs\:8r\@md {
+    .fs\:8r\@M {
         font-size: 8rem
     }
-    .fs\:16r\@md {
+    .fs\:16r\@M {
         font-size: 16rem
     }
 }
 
 
 @media screen and (min-width: 60rem) {
-    .fs\:\.75r\@lg {
+    .fs\:\.75r\@L {
         font-size: .75rem
     }
-    .fs\:\.875r\@lg {
+    .fs\:\.875r\@L {
         font-size: .875rem
     }
-    .fs\:1r\@lg {
+    .fs\:1r\@L {
         font-size: 1rem
     }
-    .fs\:1\.5r\@lg {
+    .fs\:1\.5r\@L {
         font-size: 1.5rem
     }
-    .fs\:2r\@lg {
+    .fs\:2r\@L {
         font-size: 2rem
     }
-    .fs\:4r\@lg {
+    .fs\:4r\@L {
         font-size: 4rem
     }
-    .fs\:8r\@lg {
+    .fs\:8r\@L {
         font-size: 8rem
     }
-    .fs\:16r\@lg {
+    .fs\:16r\@L {
         font-size: 16rem
     }
 }
 
 
 @media screen and (min-width: 80rem) {
-    .fs\:\.75r\@xl {
+    .fs\:\.75r\@XL {
         font-size: .75rem
     }
-    .fs\:\.875r\@xl {
+    .fs\:\.875r\@XL {
         font-size: .875rem
     }
-    .fs\:1r\@xl {
+    .fs\:1r\@XL {
         font-size: 1rem
     }
-    .fs\:1\.5r\@xl {
+    .fs\:1\.5r\@XL {
         font-size: 1.5rem
     }
-    .fs\:2r\@xl {
+    .fs\:2r\@XL {
         font-size: 2rem
     }
-    .fs\:4r\@xl {
+    .fs\:4r\@XL {
         font-size: 4rem
     }
-    .fs\:8r\@xl {
+    .fs\:8r\@XL {
         font-size: 8rem
     }
-    .fs\:16r\@xl {
+    .fs\:16r\@XL {
         font-size: 16rem
     }
 }
@@ -239,66 +239,66 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .lh\:\.875\@md {
+    .lh\:\.875\@M {
         line-height: .875
     }
-    .lh\:1\@md {
+    .lh\:1\@M {
         line-height: 1
     }
-    .lh\:1\.125\@md {
+    .lh\:1\.125\@M {
         line-height: 1.125
     }
-    .lh\:1\.25\@md {
+    .lh\:1\.25\@M {
         line-height: 1.25
     }
-    .lh\:1\.5\@md {
+    .lh\:1\.5\@M {
         line-height: 1.5
     }
-    .lh\:1\.75\@md {
+    .lh\:1\.75\@M {
         line-height: 1.75
     }
 }
 
 
 @media screen and (min-width: 60rem) {
-    .lh\:\.875\@lg {
+    .lh\:\.875\@L {
         line-height: .875
     }
-    .lh\:1\@lg {
+    .lh\:1\@L {
         line-height: 1
     }
-    .lh\:1\.125\@lg {
+    .lh\:1\.125\@L {
         line-height: 1.125
     }
-    .lh\:1\.25\@lg {
+    .lh\:1\.25\@L {
         line-height: 1.25
     }
-    .lh\:1\.5\@lg {
+    .lh\:1\.5\@L {
         line-height: 1.5
     }
-    .lh\:1\.75\@lg {
+    .lh\:1\.75\@L {
         line-height: 1.75
     }
 }
 
 
 @media screen and (min-width: 80rem) {
-    .lh\:\.875\@xl {
+    .lh\:\.875\@XL {
         line-height: .875
     }
-    .lh\:1\@xl {
+    .lh\:1\@XL {
         line-height: 1
     }
-    .lh\:1\.125\@xl {
+    .lh\:1\.125\@XL {
         line-height: 1.125
     }
-    .lh\:1\.25\@xl {
+    .lh\:1\.25\@XL {
         line-height: 1.25
     }
-    .lh\:1\.5\@xl {
+    .lh\:1\.5\@XL {
         line-height: 1.5
     }
-    .lh\:1\.75\@xl {
+    .lh\:1\.75\@XL {
         line-height: 1.75
     }
 }
@@ -371,132 +371,132 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .fw\:i\@md {
+    .fw\:i\@M {
         font-weight: normal;
         font-weight: initial
     }
-    .fw\:l\@md {
+    .fw\:l\@M {
         font-weight: lighter
     }
-    .fw\:n\@md {
+    .fw\:n\@M {
         font-weight: normal
     }
-    .fw\:b\@md {
+    .fw\:b\@M {
         font-weight: bold
     }
-    .fw\:100\@md {
+    .fw\:100\@M {
         font-weight: 100
     }
-    .fw\:200\@md {
+    .fw\:200\@M {
         font-weight: 200
     }
-    .fw\:300\@md {
+    .fw\:300\@M {
         font-weight: 300
     }
-    .fw\:400\@md {
+    .fw\:400\@M {
         font-weight: 400
     }
-    .fw\:500\@md {
+    .fw\:500\@M {
         font-weight: 500
     }
-    .fw\:600\@md {
+    .fw\:600\@M {
         font-weight: 600
     }
-    .fw\:700\@md {
+    .fw\:700\@M {
         font-weight: 700
     }
-    .fw\:800\@md {
+    .fw\:800\@M {
         font-weight: 800
     }
-    .fw\:900\@md {
+    .fw\:900\@M {
         font-weight: 900
     }
 }
 
 
 @media screen and (min-width: 60rem) {
-    .fw\:i\@lg {
+    .fw\:i\@L {
         font-weight: normal;
         font-weight: initial
     }
-    .fw\:l\@lg {
+    .fw\:l\@L {
         font-weight: lighter
     }
-    .fw\:n\@lg {
+    .fw\:n\@L {
         font-weight: normal
     }
-    .fw\:b\@lg {
+    .fw\:b\@L {
         font-weight: bold
     }
-    .fw\:100\@lg {
+    .fw\:100\@L {
         font-weight: 100
     }
-    .fw\:200\@lg {
+    .fw\:200\@L {
         font-weight: 200
     }
-    .fw\:300\@lg {
+    .fw\:300\@L {
         font-weight: 300
     }
-    .fw\:400\@lg {
+    .fw\:400\@L {
         font-weight: 400
     }
-    .fw\:500\@lg {
+    .fw\:500\@L {
         font-weight: 500
     }
-    .fw\:600\@lg {
+    .fw\:600\@L {
         font-weight: 600
     }
-    .fw\:700\@lg {
+    .fw\:700\@L {
         font-weight: 700
     }
-    .fw\:800\@lg {
+    .fw\:800\@L {
         font-weight: 800
     }
-    .fw\:900\@lg {
+    .fw\:900\@L {
         font-weight: 900
     }
 }
 
 
 @media screen and (min-width: 80rem) {
-    .fw\:i\@xl {
+    .fw\:i\@XL {
         font-weight: normal;
         font-weight: initial
     }
-    .fw\:l\@xl {
+    .fw\:l\@XL {
         font-weight: lighter
     }
-    .fw\:n\@xl {
+    .fw\:n\@XL {
         font-weight: normal
     }
-    .fw\:b\@xl {
+    .fw\:b\@XL {
         font-weight: bold
     }
-    .fw\:100\@xl {
+    .fw\:100\@XL {
         font-weight: 100
     }
-    .fw\:200\@xl {
+    .fw\:200\@XL {
         font-weight: 200
     }
-    .fw\:300\@xl {
+    .fw\:300\@XL {
         font-weight: 300
     }
-    .fw\:400\@xl {
+    .fw\:400\@XL {
         font-weight: 400
     }
-    .fw\:500\@xl {
+    .fw\:500\@XL {
         font-weight: 500
     }
-    .fw\:600\@xl {
+    .fw\:600\@XL {
         font-weight: 600
     }
-    .fw\:700\@xl {
+    .fw\:700\@XL {
         font-weight: 700
     }
-    .fw\:800\@xl {
+    .fw\:800\@XL {
         font-weight: 800
     }
-    .fw\:900\@xl {
+    .fw\:900\@XL {
         font-weight: 900
     }
 }
@@ -533,48 +533,48 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .ta\:c\@md {
+    .ta\:c\@M {
         text-align: center
     }
-    .ta\:j\@md {
+    .ta\:j\@M {
         text-align: justify
     }
-    .ta\:l\@md {
+    .ta\:l\@M {
         text-align: left
     }
-    .ta\:r\@md {
+    .ta\:r\@M {
         text-align: right
     }
 }
 
 
 @media screen and (min-width: 60rem) {
-    .ta\:c\@lg {
+    .ta\:c\@L {
         text-align: center
     }
-    .ta\:j\@lg {
+    .ta\:j\@L {
         text-align: justify
     }
-    .ta\:l\@lg {
+    .ta\:l\@L {
         text-align: left
     }
-    .ta\:r\@lg {
+    .ta\:r\@L {
         text-align: right
     }
 }
 
 
 @media screen and (min-width: 80rem) {
-    .ta\:c\@xl {
+    .ta\:c\@XL {
         text-align: center
     }
-    .ta\:j\@xl {
+    .ta\:j\@XL {
         text-align: justify
     }
-    .ta\:l\@xl {
+    .ta\:l\@XL {
         text-align: left
     }
-    .ta\:r\@xl {
+    .ta\:r\@XL {
         text-align: right
     }
 }
@@ -1067,205 +1067,205 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .mr\:a\@md {
+    .mr\:a\@M {
         margin-right: auto
     }
-    .ml\:a\@md {
+    .ml\:a\@M {
         margin-left: auto
     }
-    .mx\:a\@md {
+    .mx\:a\@M {
         margin-left: auto;
         margin-right: auto
     }
-    .m\:0\@md {
+    .m\:0\@M {
         margin: 0
     }
-    .mt\:0\@md {
+    .mt\:0\@M {
         margin-top: 0
     }
-    .mr\:0\@md {
+    .mr\:0\@M {
         margin-right: 0
     }
-    .mb\:0\@md {
+    .mb\:0\@M {
         margin-bottom: 0
     }
-    .ml\:0\@md {
+    .ml\:0\@M {
         margin-left: 0
     }
-    .mx\:0\@md {
+    .mx\:0\@M {
         margin-right: 0;
         margin-left: 0
     }
-    .my\:0\@md {
+    .my\:0\@M {
         margin-top: 0;
         margin-bottom: 0
     }
-    .m\:\.25r\@md {
+    .m\:\.25r\@M {
         margin: .25rem
     }
-    .mt\:\.25r\@md {
+    .mt\:\.25r\@M {
         margin-top: .25rem
     }
-    .mr\:\.25r\@md {
+    .mr\:\.25r\@M {
         margin-right: .25rem
     }
-    .mb\:\.25r\@md {
+    .mb\:\.25r\@M {
         margin-bottom: .25rem
     }
-    .ml\:\.25r\@md {
+    .ml\:\.25r\@M {
         margin-left: .25rem
     }
-    .mx\:\.25r\@md {
+    .mx\:\.25r\@M {
         margin-right: .25rem;
         margin-left: .25rem
     }
-    .my\:\.25r\@md {
+    .my\:\.25r\@M {
         margin-top: .25rem;
         margin-bottom: .25rem
     }
-    .m\:\.5r\@md {
+    .m\:\.5r\@M {
         margin: .5rem
     }
-    .mt\:\.5r\@md {
+    .mt\:\.5r\@M {
         margin-top: .5rem
     }
-    .mr\:\.5r\@md {
+    .mr\:\.5r\@M {
         margin-right: .5rem
     }
-    .mb\:\.5r\@md {
+    .mb\:\.5r\@M {
         margin-bottom: .5rem
     }
-    .ml\:\.5r\@md {
+    .ml\:\.5r\@M {
         margin-left: .5rem
     }
-    .mx\:\.5r\@md {
+    .mx\:\.5r\@M {
         margin-right: .5rem;
         margin-left: .5rem
     }
-    .my\:\.5r\@md {
+    .my\:\.5r\@M {
         margin-top: .5rem;
         margin-bottom: .5rem
     }
-    .m\:1r\@md {
+    .m\:1r\@M {
         margin: 1rem
     }
-    .mt\:1r\@md {
+    .mt\:1r\@M {
         margin-top: 1rem
     }
-    .mr\:1r\@md {
+    .mr\:1r\@M {
         margin-right: 1rem
     }
-    .mb\:1r\@md {
+    .mb\:1r\@M {
         margin-bottom: 1rem
     }
-    .ml\:1r\@md {
+    .ml\:1r\@M {
         margin-left: 1rem
     }
-    .mx\:1r\@md {
+    .mx\:1r\@M {
         margin-right: 1rem;
         margin-left: 1rem
     }
-    .my\:1r\@md {
+    .my\:1r\@M {
         margin-top: 1rem;
         margin-bottom: 1rem
     }
-    .m\:2r\@md {
+    .m\:2r\@M {
         margin: 2rem
     }
-    .mt\:2r\@md {
+    .mt\:2r\@M {
         margin-top: 2rem
     }
-    .mr\:2r\@md {
+    .mr\:2r\@M {
         margin-right: 2rem
     }
-    .mb\:2r\@md {
+    .mb\:2r\@M {
         margin-bottom: 2rem
     }
-    .ml\:2r\@md {
+    .ml\:2r\@M {
         margin-left: 2rem
     }
-    .mx\:2r\@md {
+    .mx\:2r\@M {
         margin-right: 2rem;
         margin-left: 2rem
     }
-    .mx\:2r\@md {
+    .mx\:2r\@M {
         margin-top: 2rem;
         margin-bottom: 2rem
     }
-    .m\:4r\@md {
+    .m\:4r\@M {
         margin: 4rem
     }
-    .mt\:4r\@md {
+    .mt\:4r\@M {
         margin-top: 4rem
     }
-    .mr\:4r\@md {
+    .mr\:4r\@M {
         margin-right: 4rem
     }
-    .mb\:4r\@md {
+    .mb\:4r\@M {
         margin-bottom: 4rem
     }
-    .ml\:4r\@md {
+    .ml\:4r\@M {
         margin-left: 4rem
     }
-    .mx\:4r\@md {
+    .mx\:4r\@M {
         margin-right: 4rem;
         margin-left: 4rem
     }
-    .my\:4r\@md {
+    .my\:4r\@M {
         margin-top: 4rem;
         margin-bottom: 4rem
     }
-    .m\:8r\@md {
+    .m\:8r\@M {
         margin: 8rem
     }
-    .mt\:8r\@md {
+    .mt\:8r\@M {
         margin-top: 8rem
     }
-    .mr\:8r\@md {
+    .mr\:8r\@M {
         margin-right: 8rem
     }
-    .mb\:8r\@md {
+    .mb\:8r\@M {
         margin-bottom: 8rem
     }
-    .ml\:8r\@md {
+    .ml\:8r\@M {
         margin-left: 8rem
     }
-    .mx\:8r\@md {
+    .mx\:8r\@M {
         margin-right: 8rem;
         margin-left: 8rem
     }
-    .my\:8r\@md {
+    .my\:8r\@M {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .my\:8r\@md {
+    .my\:8r\@M {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .m\:16r\@md {
+    .m\:16r\@M {
         margin: 16rem
     }
-    .mt\:16r\@md {
+    .mt\:16r\@M {
         margin-top: 16rem
     }
-    .mr\:16r\@md {
+    .mr\:16r\@M {
         margin-right: 16rem
     }
-    .mb\:16r\@md {
+    .mb\:16r\@M {
         margin-bottom: 16rem
     }
-    .ml\:16r\@md {
+    .ml\:16r\@M {
         margin-left: 16rem
     }
-    .mx\:16r\@md {
+    .mx\:16r\@M {
         margin-right: 16rem;
         margin-left: 16rem
     }
-    .my\:16r\@md {
+    .my\:16r\@M {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
-    .my\:16r\@md {
+    .my\:16r\@M {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
@@ -1273,205 +1273,205 @@ a {
 
 
 @media screen and (min-width: 60rem) {
-    .mr\:a\@lg {
+    .mr\:a\@L {
         margin-right: auto
     }
-    .ml\:a\@lg {
+    .ml\:a\@L {
         margin-left: auto
     }
-    .mx\:a\@lg {
+    .mx\:a\@L {
         margin-left: auto;
         margin-right: auto
     }
-    .m\:0\@lg {
+    .m\:0\@L {
         margin: 0
     }
-    .mt\:0\@lg {
+    .mt\:0\@L {
         margin-top: 0
     }
-    .mr\:0\@lg {
+    .mr\:0\@L {
         margin-right: 0
     }
-    .mb\:0\@lg {
+    .mb\:0\@L {
         margin-bottom: 0
     }
-    .ml\:0\@lg {
+    .ml\:0\@L {
         margin-left: 0
     }
-    .mx\:0\@lg {
+    .mx\:0\@L {
         margin-right: 0;
         margin-left: 0
     }
-    .my\:0\@lg {
+    .my\:0\@L {
         margin-top: 0;
         margin-bottom: 0
     }
-    .m\:\.25r\@lg {
+    .m\:\.25r\@L {
         margin: .25rem
     }
-    .mt\:\.25r\@lg {
+    .mt\:\.25r\@L {
         margin-top: .25rem
     }
-    .mr\:\.25r\@lg {
+    .mr\:\.25r\@L {
         margin-right: .25rem
     }
-    .mb\:\.25r\@lg {
+    .mb\:\.25r\@L {
         margin-bottom: .25rem
     }
-    .ml\:\.25r\@lg {
+    .ml\:\.25r\@L {
         margin-left: .25rem
     }
-    .mx\:\.25r\@lg {
+    .mx\:\.25r\@L {
         margin-right: .25rem;
         margin-left: .25rem
     }
-    .my\:\.25r\@lg {
+    .my\:\.25r\@L {
         margin-top: .25rem;
         margin-bottom: .25rem
     }
-    .m\:\.5r\@lg {
+    .m\:\.5r\@L {
         margin: .5rem
     }
-    .mt\:\.5r\@lg {
+    .mt\:\.5r\@L {
         margin-top: .5rem
     }
-    .mr\:\.5r\@lg {
+    .mr\:\.5r\@L {
         margin-right: .5rem
     }
-    .mb\:\.5r\@lg {
+    .mb\:\.5r\@L {
         margin-bottom: .5rem
     }
-    .ml\:\.5r\@lg {
+    .ml\:\.5r\@L {
         margin-left: .5rem
     }
-    .mx\:\.5r\@lg {
+    .mx\:\.5r\@L {
         margin-right: .5rem;
         margin-left: .5rem
     }
-    .my\:\.5r\@lg {
+    .my\:\.5r\@L {
         margin-top: .5rem;
         margin-bottom: .5rem
     }
-    .m\:1r\@lg {
+    .m\:1r\@L {
         margin: 1rem
     }
-    .mt\:1r\@lg {
+    .mt\:1r\@L {
         margin-top: 1rem
     }
-    .mr\:1r\@lg {
+    .mr\:1r\@L {
         margin-right: 1rem
     }
-    .mb\:1r\@lg {
+    .mb\:1r\@L {
         margin-bottom: 1rem
     }
-    .ml\:1r\@lg {
+    .ml\:1r\@L {
         margin-left: 1rem
     }
-    .mx\:1r\@lg {
+    .mx\:1r\@L {
         margin-right: 1rem;
         margin-left: 1rem
     }
-    .my\:1r\@lg {
+    .my\:1r\@L {
         margin-top: 1rem;
         margin-bottom: 1rem
     }
-    .m\:2r\@lg {
+    .m\:2r\@L {
         margin: 2rem
     }
-    .mt\:2r\@lg {
+    .mt\:2r\@L {
         margin-top: 2rem
     }
-    .mr\:2r\@lg {
+    .mr\:2r\@L {
         margin-right: 2rem
     }
-    .mb\:2r\@lg {
+    .mb\:2r\@L {
         margin-bottom: 2rem
     }
-    .ml\:2r\@lg {
+    .ml\:2r\@L {
         margin-left: 2rem
     }
-    .mx\:2r\@lg {
+    .mx\:2r\@L {
         margin-right: 2rem;
         margin-left: 2rem
     }
-    .mx\:2r\@lg {
+    .mx\:2r\@L {
         margin-top: 2rem;
         margin-bottom: 2rem
     }
-    .m\:4r\@lg {
+    .m\:4r\@L {
         margin: 4rem
     }
-    .mt\:4r\@lg {
+    .mt\:4r\@L {
         margin-top: 4rem
     }
-    .mr\:4r\@lg {
+    .mr\:4r\@L {
         margin-right: 4rem
     }
-    .mb\:4r\@lg {
+    .mb\:4r\@L {
         margin-bottom: 4rem
     }
-    .ml\:4r\@lg {
+    .ml\:4r\@L {
         margin-left: 4rem
     }
-    .mx\:4r\@lg {
+    .mx\:4r\@L {
         margin-right: 4rem;
         margin-left: 4rem
     }
-    .my\:4r\@lg {
+    .my\:4r\@L {
         margin-top: 4rem;
         margin-bottom: 4rem
     }
-    .m\:8r\@lg {
+    .m\:8r\@L {
         margin: 8rem
     }
-    .mt\:8r\@lg {
+    .mt\:8r\@L {
         margin-top: 8rem
     }
-    .mr\:8r\@lg {
+    .mr\:8r\@L {
         margin-right: 8rem
     }
-    .mb\:8r\@lg {
+    .mb\:8r\@L {
         margin-bottom: 8rem
     }
-    .ml\:8r\@lg {
+    .ml\:8r\@L {
         margin-left: 8rem
     }
-    .mx\:8r\@lg {
+    .mx\:8r\@L {
         margin-right: 8rem;
         margin-left: 8rem
     }
-    .my\:8r\@lg {
+    .my\:8r\@L {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .my\:8r\@lg {
+    .my\:8r\@L {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .m\:16r\@lg {
+    .m\:16r\@L {
         margin: 16rem
     }
-    .mt\:16r\@lg {
+    .mt\:16r\@L {
         margin-top: 16rem
     }
-    .mr\:16r\@lg {
+    .mr\:16r\@L {
         margin-right: 16rem
     }
-    .mb\:16r\@lg {
+    .mb\:16r\@L {
         margin-bottom: 16rem
     }
-    .ml\:16r\@lg {
+    .ml\:16r\@L {
         margin-left: 16rem
     }
-    .mx\:16r\@lg {
+    .mx\:16r\@L {
         margin-right: 16rem;
         margin-left: 16rem
     }
-    .my\:16r\@lg {
+    .my\:16r\@L {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
-    .my\:16r\@lg {
+    .my\:16r\@L {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
@@ -1479,205 +1479,205 @@ a {
 
 
 @media screen and (min-width: 80rem) {
-    .mr\:a\@xl {
+    .mr\:a\@XL {
         margin-right: auto
     }
-    .ml\:a\@xl {
+    .ml\:a\@XL {
         margin-left: auto
     }
-    .mx\:a\@xl {
+    .mx\:a\@XL {
         margin-left: auto;
         margin-right: auto
     }
-    .m\:0\@xl {
+    .m\:0\@XL {
         margin: 0
     }
-    .mt\:0\@xl {
+    .mt\:0\@XL {
         margin-top: 0
     }
-    .mr\:0\@xl {
+    .mr\:0\@XL {
         margin-right: 0
     }
-    .mb\:0\@xl {
+    .mb\:0\@XL {
         margin-bottom: 0
     }
-    .ml\:0\@xl {
+    .ml\:0\@XL {
         margin-left: 0
     }
-    .mx\:0\@xl {
+    .mx\:0\@XL {
         margin-right: 0;
         margin-left: 0
     }
-    .my\:0\@xl {
+    .my\:0\@XL {
         margin-top: 0;
         margin-bottom: 0
     }
-    .m\:\.25r\@xl {
+    .m\:\.25r\@XL {
         margin: .25rem
     }
-    .mt\:\.25r\@xl {
+    .mt\:\.25r\@XL {
         margin-top: .25rem
     }
-    .mr\:\.25r\@xl {
+    .mr\:\.25r\@XL {
         margin-right: .25rem
     }
-    .mb\:\.25r\@xl {
+    .mb\:\.25r\@XL {
         margin-bottom: .25rem
     }
-    .ml\:\.25r\@xl {
+    .ml\:\.25r\@XL {
         margin-left: .25rem
     }
-    .mx\:\.25r\@xl {
+    .mx\:\.25r\@XL {
         margin-right: .25rem;
         margin-left: .25rem
     }
-    .my\:\.25r\@xl {
+    .my\:\.25r\@XL {
         margin-top: .25rem;
         margin-bottom: .25rem
     }
-    .m\:\.5r\@xl {
+    .m\:\.5r\@XL {
         margin: .5rem
     }
-    .mt\:\.5r\@xl {
+    .mt\:\.5r\@XL {
         margin-top: .5rem
     }
-    .mr\:\.5r\@xl {
+    .mr\:\.5r\@XL {
         margin-right: .5rem
     }
-    .mb\:\.5r\@xl {
+    .mb\:\.5r\@XL {
         margin-bottom: .5rem
     }
-    .ml\:\.5r\@xl {
+    .ml\:\.5r\@XL {
         margin-left: .5rem
     }
-    .mx\:\.5r\@xl {
+    .mx\:\.5r\@XL {
         margin-right: .5rem;
         margin-left: .5rem
     }
-    .my\:\.5r\@xl {
+    .my\:\.5r\@XL {
         margin-top: .5rem;
         margin-bottom: .5rem
     }
-    .m\:1r\@xl {
+    .m\:1r\@XL {
         margin: 1rem
     }
-    .mt\:1r\@xl {
+    .mt\:1r\@XL {
         margin-top: 1rem
     }
-    .mr\:1r\@xl {
+    .mr\:1r\@XL {
         margin-right: 1rem
     }
-    .mb\:1r\@xl {
+    .mb\:1r\@XL {
         margin-bottom: 1rem
     }
-    .ml\:1r\@xl {
+    .ml\:1r\@XL {
         margin-left: 1rem
     }
-    .mx\:1r\@xl {
+    .mx\:1r\@XL {
         margin-right: 1rem;
         margin-left: 1rem
     }
-    .my\:1r\@xl {
+    .my\:1r\@XL {
         margin-top: 1rem;
         margin-bottom: 1rem
     }
-    .m\:2r\@xl {
+    .m\:2r\@XL {
         margin: 2rem
     }
-    .mt\:2r\@xl {
+    .mt\:2r\@XL {
         margin-top: 2rem
     }
-    .mr\:2r\@xl {
+    .mr\:2r\@XL {
         margin-right: 2rem
     }
-    .mb\:2r\@xl {
+    .mb\:2r\@XL {
         margin-bottom: 2rem
     }
-    .ml\:2r\@xl {
+    .ml\:2r\@XL {
         margin-left: 2rem
     }
-    .mx\:2r\@xl {
+    .mx\:2r\@XL {
         margin-right: 2rem;
         margin-left: 2rem
     }
-    .mx\:2r\@xl {
+    .mx\:2r\@XL {
         margin-top: 2rem;
         margin-bottom: 2rem
     }
-    .m\:4r\@xl {
+    .m\:4r\@XL {
         margin: 4rem
     }
-    .mt\:4r\@xl {
+    .mt\:4r\@XL {
         margin-top: 4rem
     }
-    .mr\:4r\@xl {
+    .mr\:4r\@XL {
         margin-right: 4rem
     }
-    .mb\:4r\@xl {
+    .mb\:4r\@XL {
         margin-bottom: 4rem
     }
-    .ml\:4r\@xl {
+    .ml\:4r\@XL {
         margin-left: 4rem
     }
-    .mx\:4r\@xl {
+    .mx\:4r\@XL {
         margin-right: 4rem;
         margin-left: 4rem
     }
-    .my\:4r\@xl {
+    .my\:4r\@XL {
         margin-top: 4rem;
         margin-bottom: 4rem
     }
-    .m\:8r\@xl {
+    .m\:8r\@XL {
         margin: 8rem
     }
-    .mt\:8r\@xl {
+    .mt\:8r\@XL {
         margin-top: 8rem
     }
-    .mr\:8r\@xl {
+    .mr\:8r\@XL {
         margin-right: 8rem
     }
-    .mb\:8r\@xl {
+    .mb\:8r\@XL {
         margin-bottom: 8rem
     }
-    .ml\:8r\@xl {
+    .ml\:8r\@XL {
         margin-left: 8rem
     }
-    .mx\:8r\@xl {
+    .mx\:8r\@XL {
         margin-right: 8rem;
         margin-left: 8rem
     }
-    .my\:8r\@xl {
+    .my\:8r\@XL {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .my\:8r\@xl {
+    .my\:8r\@XL {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .m\:16r\@xl {
+    .m\:16r\@XL {
         margin: 16rem
     }
-    .mt\:16r\@xl {
+    .mt\:16r\@XL {
         margin-top: 16rem
     }
-    .mr\:16r\@xl {
+    .mr\:16r\@XL {
         margin-right: 16rem
     }
-    .mb\:16r\@xl {
+    .mb\:16r\@XL {
         margin-bottom: 16rem
     }
-    .ml\:16r\@xl {
+    .ml\:16r\@XL {
         margin-left: 16rem
     }
-    .mx\:16r\@xl {
+    .mx\:16r\@XL {
         margin-right: 16rem;
         margin-left: 16rem
     }
-    .my\:16r\@xl {
+    .my\:16r\@XL {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
-    .my\:16r\@xl {
+    .my\:16r\@XL {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
@@ -2076,205 +2076,205 @@ a {
 
 
 @media screen and (min-width: 40rem)>* {
-    .mr\>\*\:a\@md >* {
+    .mr\>\*\:a\@M >* {
         margin-right: auto
     }
-    .ml\>\*\:a\@md >* {
+    .ml\>\*\:a\@M >* {
         margin-left: auto
     }
-    .mx\>\*\:a\@md >* {
+    .mx\>\*\:a\@M >* {
         margin-left: auto;
         margin-right: auto
     }
-    .m\>\*\:0\@md >* {
+    .m\>\*\:0\@M >* {
         margin: 0
     }
-    .mt\>\*\:0\@md >* {
+    .mt\>\*\:0\@M >* {
         margin-top: 0
     }
-    .mr\>\*\:0\@md >* {
+    .mr\>\*\:0\@M >* {
         margin-right: 0
     }
-    .mb\>\*\:0\@md >* {
+    .mb\>\*\:0\@M >* {
         margin-bottom: 0
     }
-    .ml\>\*\:0\@md >* {
+    .ml\>\*\:0\@M >* {
         margin-left: 0
     }
-    .mx\>\*\:0\@md >* {
+    .mx\>\*\:0\@M >* {
         margin-right: 0;
         margin-left: 0
     }
-    .my\>\*\:0\@md >* {
+    .my\>\*\:0\@M >* {
         margin-top: 0;
         margin-bottom: 0
     }
-    .m\>\*\:\.25r\@md >* {
+    .m\>\*\:\.25r\@M >* {
         margin: .25rem
     }
-    .mt\>\*\:\.25r\@md >* {
+    .mt\>\*\:\.25r\@M >* {
         margin-top: .25rem
     }
-    .mr\>\*\:\.25r\@md >* {
+    .mr\>\*\:\.25r\@M >* {
         margin-right: .25rem
     }
-    .mb\>\*\:\.25r\@md >* {
+    .mb\>\*\:\.25r\@M >* {
         margin-bottom: .25rem
     }
-    .ml\>\*\:\.25r\@md >* {
+    .ml\>\*\:\.25r\@M >* {
         margin-left: .25rem
     }
-    .mx\>\*\:\.25r\@md >* {
+    .mx\>\*\:\.25r\@M >* {
         margin-right: .25rem;
         margin-left: .25rem
     }
-    .my\>\*\:\.25r\@md >* {
+    .my\>\*\:\.25r\@M >* {
         margin-top: .25rem;
         margin-bottom: .25rem
     }
-    .m\>\*\:\.5r\@md >* {
+    .m\>\*\:\.5r\@M >* {
         margin: .5rem
     }
-    .mt\>\*\:\.5r\@md >* {
+    .mt\>\*\:\.5r\@M >* {
         margin-top: .5rem
     }
-    .mr\>\*\:\.5r\@md >* {
+    .mr\>\*\:\.5r\@M >* {
         margin-right: .5rem
     }
-    .mb\>\*\:\.5r\@md >* {
+    .mb\>\*\:\.5r\@M >* {
         margin-bottom: .5rem
     }
-    .ml\>\*\:\.5r\@md >* {
+    .ml\>\*\:\.5r\@M >* {
         margin-left: .5rem
     }
-    .mx\>\*\:\.5r\@md >* {
+    .mx\>\*\:\.5r\@M >* {
         margin-right: .5rem;
         margin-left: .5rem
     }
-    .my\>\*\:\.5r\@md >* {
+    .my\>\*\:\.5r\@M >* {
         margin-top: .5rem;
         margin-bottom: .5rem
     }
-    .m\>\*\:1r\@md >* {
+    .m\>\*\:1r\@M >* {
         margin: 1rem
     }
-    .mt\>\*\:1r\@md >* {
+    .mt\>\*\:1r\@M >* {
         margin-top: 1rem
     }
-    .mr\>\*\:1r\@md >* {
+    .mr\>\*\:1r\@M >* {
         margin-right: 1rem
     }
-    .mb\>\*\:1r\@md >* {
+    .mb\>\*\:1r\@M >* {
         margin-bottom: 1rem
     }
-    .ml\>\*\:1r\@md >* {
+    .ml\>\*\:1r\@M >* {
         margin-left: 1rem
     }
-    .mx\>\*\:1r\@md >* {
+    .mx\>\*\:1r\@M >* {
         margin-right: 1rem;
         margin-left: 1rem
     }
-    .my\>\*\:1r\@md >* {
+    .my\>\*\:1r\@M >* {
         margin-top: 1rem;
         margin-bottom: 1rem
     }
-    .m\>\*\:2r\@md >* {
+    .m\>\*\:2r\@M >* {
         margin: 2rem
     }
-    .mt\>\*\:2r\@md >* {
+    .mt\>\*\:2r\@M >* {
         margin-top: 2rem
     }
-    .mr\>\*\:2r\@md >* {
+    .mr\>\*\:2r\@M >* {
         margin-right: 2rem
     }
-    .mb\>\*\:2r\@md >* {
+    .mb\>\*\:2r\@M >* {
         margin-bottom: 2rem
     }
-    .ml\>\*\:2r\@md >* {
+    .ml\>\*\:2r\@M >* {
         margin-left: 2rem
     }
-    .mx\>\*\:2r\@md >* {
+    .mx\>\*\:2r\@M >* {
         margin-right: 2rem;
         margin-left: 2rem
     }
-    .mx\>\*\:2r\@md >* {
+    .mx\>\*\:2r\@M >* {
         margin-top: 2rem;
         margin-bottom: 2rem
     }
-    .m\>\*\:4r\@md >* {
+    .m\>\*\:4r\@M >* {
         margin: 4rem
     }
-    .mt\>\*\:4r\@md >* {
+    .mt\>\*\:4r\@M >* {
         margin-top: 4rem
     }
-    .mr\>\*\:4r\@md >* {
+    .mr\>\*\:4r\@M >* {
         margin-right: 4rem
     }
-    .mb\>\*\:4r\@md >* {
+    .mb\>\*\:4r\@M >* {
         margin-bottom: 4rem
     }
-    .ml\>\*\:4r\@md >* {
+    .ml\>\*\:4r\@M >* {
         margin-left: 4rem
     }
-    .mx\>\*\:4r\@md >* {
+    .mx\>\*\:4r\@M >* {
         margin-right: 4rem;
         margin-left: 4rem
     }
-    .my\>\*\:4r\@md >* {
+    .my\>\*\:4r\@M >* {
         margin-top: 4rem;
         margin-bottom: 4rem
     }
-    .m\>\*\:8r\@md >* {
+    .m\>\*\:8r\@M >* {
         margin: 8rem
     }
-    .mt\>\*\:8r\@md >* {
+    .mt\>\*\:8r\@M >* {
         margin-top: 8rem
     }
-    .mr\>\*\:8r\@md >* {
+    .mr\>\*\:8r\@M >* {
         margin-right: 8rem
     }
-    .mb\>\*\:8r\@md >* {
+    .mb\>\*\:8r\@M >* {
         margin-bottom: 8rem
     }
-    .ml\>\*\:8r\@md >* {
+    .ml\>\*\:8r\@M >* {
         margin-left: 8rem
     }
-    .mx\>\*\:8r\@md >* {
+    .mx\>\*\:8r\@M >* {
         margin-right: 8rem;
         margin-left: 8rem
     }
-    .my\>\*\:8r\@md >* {
+    .my\>\*\:8r\@M >* {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .my\>\*\:8r\@md >* {
+    .my\>\*\:8r\@M >* {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .m\>\*\:16r\@md >* {
+    .m\>\*\:16r\@M >* {
         margin: 16rem
     }
-    .mt\>\*\:16r\@md >* {
+    .mt\>\*\:16r\@M >* {
         margin-top: 16rem
     }
-    .mr\>\*\:16r\@md >* {
+    .mr\>\*\:16r\@M >* {
         margin-right: 16rem
     }
-    .mb\>\*\:16r\@md >* {
+    .mb\>\*\:16r\@M >* {
         margin-bottom: 16rem
     }
-    .ml\>\*\:16r\@md >* {
+    .ml\>\*\:16r\@M >* {
         margin-left: 16rem
     }
-    .mx\>\*\:16r\@md >* {
+    .mx\>\*\:16r\@M >* {
         margin-right: 16rem;
         margin-left: 16rem
     }
-    .my\>\*\:16r\@md >* {
+    .my\>\*\:16r\@M >* {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
-    .my\>\*\:16r\@md >* {
+    .my\>\*\:16r\@M >* {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
@@ -2282,205 +2282,205 @@ a {
 
 
 @media screen and (min-width: 60rem)>* {
-    .mr\>\*\:a\@lg >* {
+    .mr\>\*\:a\@L >* {
         margin-right: auto
     }
-    .ml\>\*\:a\@lg >* {
+    .ml\>\*\:a\@L >* {
         margin-left: auto
     }
-    .mx\>\*\:a\@lg >* {
+    .mx\>\*\:a\@L >* {
         margin-left: auto;
         margin-right: auto
     }
-    .m\>\*\:0\@lg >* {
+    .m\>\*\:0\@L >* {
         margin: 0
     }
-    .mt\>\*\:0\@lg >* {
+    .mt\>\*\:0\@L >* {
         margin-top: 0
     }
-    .mr\>\*\:0\@lg >* {
+    .mr\>\*\:0\@L >* {
         margin-right: 0
     }
-    .mb\>\*\:0\@lg >* {
+    .mb\>\*\:0\@L >* {
         margin-bottom: 0
     }
-    .ml\>\*\:0\@lg >* {
+    .ml\>\*\:0\@L >* {
         margin-left: 0
     }
-    .mx\>\*\:0\@lg >* {
+    .mx\>\*\:0\@L >* {
         margin-right: 0;
         margin-left: 0
     }
-    .my\>\*\:0\@lg >* {
+    .my\>\*\:0\@L >* {
         margin-top: 0;
         margin-bottom: 0
     }
-    .m\>\*\:\.25r\@lg >* {
+    .m\>\*\:\.25r\@L >* {
         margin: .25rem
     }
-    .mt\>\*\:\.25r\@lg >* {
+    .mt\>\*\:\.25r\@L >* {
         margin-top: .25rem
     }
-    .mr\>\*\:\.25r\@lg >* {
+    .mr\>\*\:\.25r\@L >* {
         margin-right: .25rem
     }
-    .mb\>\*\:\.25r\@lg >* {
+    .mb\>\*\:\.25r\@L >* {
         margin-bottom: .25rem
     }
-    .ml\>\*\:\.25r\@lg >* {
+    .ml\>\*\:\.25r\@L >* {
         margin-left: .25rem
     }
-    .mx\>\*\:\.25r\@lg >* {
+    .mx\>\*\:\.25r\@L >* {
         margin-right: .25rem;
         margin-left: .25rem
     }
-    .my\>\*\:\.25r\@lg >* {
+    .my\>\*\:\.25r\@L >* {
         margin-top: .25rem;
         margin-bottom: .25rem
     }
-    .m\>\*\:\.5r\@lg >* {
+    .m\>\*\:\.5r\@L >* {
         margin: .5rem
     }
-    .mt\>\*\:\.5r\@lg >* {
+    .mt\>\*\:\.5r\@L >* {
         margin-top: .5rem
     }
-    .mr\>\*\:\.5r\@lg >* {
+    .mr\>\*\:\.5r\@L >* {
         margin-right: .5rem
     }
-    .mb\>\*\:\.5r\@lg >* {
+    .mb\>\*\:\.5r\@L >* {
         margin-bottom: .5rem
     }
-    .ml\>\*\:\.5r\@lg >* {
+    .ml\>\*\:\.5r\@L >* {
         margin-left: .5rem
     }
-    .mx\>\*\:\.5r\@lg >* {
+    .mx\>\*\:\.5r\@L >* {
         margin-right: .5rem;
         margin-left: .5rem
     }
-    .my\>\*\:\.5r\@lg >* {
+    .my\>\*\:\.5r\@L >* {
         margin-top: .5rem;
         margin-bottom: .5rem
     }
-    .m\>\*\:1r\@lg >* {
+    .m\>\*\:1r\@L >* {
         margin: 1rem
     }
-    .mt\>\*\:1r\@lg >* {
+    .mt\>\*\:1r\@L >* {
         margin-top: 1rem
     }
-    .mr\>\*\:1r\@lg >* {
+    .mr\>\*\:1r\@L >* {
         margin-right: 1rem
     }
-    .mb\>\*\:1r\@lg >* {
+    .mb\>\*\:1r\@L >* {
         margin-bottom: 1rem
     }
-    .ml\>\*\:1r\@lg >* {
+    .ml\>\*\:1r\@L >* {
         margin-left: 1rem
     }
-    .mx\>\*\:1r\@lg >* {
+    .mx\>\*\:1r\@L >* {
         margin-right: 1rem;
         margin-left: 1rem
     }
-    .my\>\*\:1r\@lg >* {
+    .my\>\*\:1r\@L >* {
         margin-top: 1rem;
         margin-bottom: 1rem
     }
-    .m\>\*\:2r\@lg >* {
+    .m\>\*\:2r\@L >* {
         margin: 2rem
     }
-    .mt\>\*\:2r\@lg >* {
+    .mt\>\*\:2r\@L >* {
         margin-top: 2rem
     }
-    .mr\>\*\:2r\@lg >* {
+    .mr\>\*\:2r\@L >* {
         margin-right: 2rem
     }
-    .mb\>\*\:2r\@lg >* {
+    .mb\>\*\:2r\@L >* {
         margin-bottom: 2rem
     }
-    .ml\>\*\:2r\@lg >* {
+    .ml\>\*\:2r\@L >* {
         margin-left: 2rem
     }
-    .mx\>\*\:2r\@lg >* {
+    .mx\>\*\:2r\@L >* {
         margin-right: 2rem;
         margin-left: 2rem
     }
-    .mx\>\*\:2r\@lg >* {
+    .mx\>\*\:2r\@L >* {
         margin-top: 2rem;
         margin-bottom: 2rem
     }
-    .m\>\*\:4r\@lg >* {
+    .m\>\*\:4r\@L >* {
         margin: 4rem
     }
-    .mt\>\*\:4r\@lg >* {
+    .mt\>\*\:4r\@L >* {
         margin-top: 4rem
     }
-    .mr\>\*\:4r\@lg >* {
+    .mr\>\*\:4r\@L >* {
         margin-right: 4rem
     }
-    .mb\>\*\:4r\@lg >* {
+    .mb\>\*\:4r\@L >* {
         margin-bottom: 4rem
     }
-    .ml\>\*\:4r\@lg >* {
+    .ml\>\*\:4r\@L >* {
         margin-left: 4rem
     }
-    .mx\>\*\:4r\@lg >* {
+    .mx\>\*\:4r\@L >* {
         margin-right: 4rem;
         margin-left: 4rem
     }
-    .my\>\*\:4r\@lg >* {
+    .my\>\*\:4r\@L >* {
         margin-top: 4rem;
         margin-bottom: 4rem
     }
-    .m\>\*\:8r\@lg >* {
+    .m\>\*\:8r\@L >* {
         margin: 8rem
     }
-    .mt\>\*\:8r\@lg >* {
+    .mt\>\*\:8r\@L >* {
         margin-top: 8rem
     }
-    .mr\>\*\:8r\@lg >* {
+    .mr\>\*\:8r\@L >* {
         margin-right: 8rem
     }
-    .mb\>\*\:8r\@lg >* {
+    .mb\>\*\:8r\@L >* {
         margin-bottom: 8rem
     }
-    .ml\>\*\:8r\@lg >* {
+    .ml\>\*\:8r\@L >* {
         margin-left: 8rem
     }
-    .mx\>\*\:8r\@lg >* {
+    .mx\>\*\:8r\@L >* {
         margin-right: 8rem;
         margin-left: 8rem
     }
-    .my\>\*\:8r\@lg >* {
+    .my\>\*\:8r\@L >* {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .my\>\*\:8r\@lg >* {
+    .my\>\*\:8r\@L >* {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .m\>\*\:16r\@lg >* {
+    .m\>\*\:16r\@L >* {
         margin: 16rem
     }
-    .mt\>\*\:16r\@lg >* {
+    .mt\>\*\:16r\@L >* {
         margin-top: 16rem
     }
-    .mr\>\*\:16r\@lg >* {
+    .mr\>\*\:16r\@L >* {
         margin-right: 16rem
     }
-    .mb\>\*\:16r\@lg >* {
+    .mb\>\*\:16r\@L >* {
         margin-bottom: 16rem
     }
-    .ml\>\*\:16r\@lg >* {
+    .ml\>\*\:16r\@L >* {
         margin-left: 16rem
     }
-    .mx\>\*\:16r\@lg >* {
+    .mx\>\*\:16r\@L >* {
         margin-right: 16rem;
         margin-left: 16rem
     }
-    .my\>\*\:16r\@lg >* {
+    .my\>\*\:16r\@L >* {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
-    .my\>\*\:16r\@lg >* {
+    .my\>\*\:16r\@L >* {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
@@ -2488,205 +2488,205 @@ a {
 
 
 @media screen and (min-width: 80rem)>* {
-    .mr\>\*\:a\@xl >* {
+    .mr\>\*\:a\@XL >* {
         margin-right: auto
     }
-    .ml\>\*\:a\@xl >* {
+    .ml\>\*\:a\@XL >* {
         margin-left: auto
     }
-    .mx\>\*\:a\@xl >* {
+    .mx\>\*\:a\@XL >* {
         margin-left: auto;
         margin-right: auto
     }
-    .m\>\*\:0\@xl >* {
+    .m\>\*\:0\@XL >* {
         margin: 0
     }
-    .mt\>\*\:0\@xl >* {
+    .mt\>\*\:0\@XL >* {
         margin-top: 0
     }
-    .mr\>\*\:0\@xl >* {
+    .mr\>\*\:0\@XL >* {
         margin-right: 0
     }
-    .mb\>\*\:0\@xl >* {
+    .mb\>\*\:0\@XL >* {
         margin-bottom: 0
     }
-    .ml\>\*\:0\@xl >* {
+    .ml\>\*\:0\@XL >* {
         margin-left: 0
     }
-    .mx\>\*\:0\@xl >* {
+    .mx\>\*\:0\@XL >* {
         margin-right: 0;
         margin-left: 0
     }
-    .my\>\*\:0\@xl >* {
+    .my\>\*\:0\@XL >* {
         margin-top: 0;
         margin-bottom: 0
     }
-    .m\>\*\:\.25r\@xl >* {
+    .m\>\*\:\.25r\@XL >* {
         margin: .25rem
     }
-    .mt\>\*\:\.25r\@xl >* {
+    .mt\>\*\:\.25r\@XL >* {
         margin-top: .25rem
     }
-    .mr\>\*\:\.25r\@xl >* {
+    .mr\>\*\:\.25r\@XL >* {
         margin-right: .25rem
     }
-    .mb\>\*\:\.25r\@xl >* {
+    .mb\>\*\:\.25r\@XL >* {
         margin-bottom: .25rem
     }
-    .ml\>\*\:\.25r\@xl >* {
+    .ml\>\*\:\.25r\@XL >* {
         margin-left: .25rem
     }
-    .mx\>\*\:\.25r\@xl >* {
+    .mx\>\*\:\.25r\@XL >* {
         margin-right: .25rem;
         margin-left: .25rem
     }
-    .my\>\*\:\.25r\@xl >* {
+    .my\>\*\:\.25r\@XL >* {
         margin-top: .25rem;
         margin-bottom: .25rem
     }
-    .m\>\*\:\.5r\@xl >* {
+    .m\>\*\:\.5r\@XL >* {
         margin: .5rem
     }
-    .mt\>\*\:\.5r\@xl >* {
+    .mt\>\*\:\.5r\@XL >* {
         margin-top: .5rem
     }
-    .mr\>\*\:\.5r\@xl >* {
+    .mr\>\*\:\.5r\@XL >* {
         margin-right: .5rem
     }
-    .mb\>\*\:\.5r\@xl >* {
+    .mb\>\*\:\.5r\@XL >* {
         margin-bottom: .5rem
     }
-    .ml\>\*\:\.5r\@xl >* {
+    .ml\>\*\:\.5r\@XL >* {
         margin-left: .5rem
     }
-    .mx\>\*\:\.5r\@xl >* {
+    .mx\>\*\:\.5r\@XL >* {
         margin-right: .5rem;
         margin-left: .5rem
     }
-    .my\>\*\:\.5r\@xl >* {
+    .my\>\*\:\.5r\@XL >* {
         margin-top: .5rem;
         margin-bottom: .5rem
     }
-    .m\>\*\:1r\@xl >* {
+    .m\>\*\:1r\@XL >* {
         margin: 1rem
     }
-    .mt\>\*\:1r\@xl >* {
+    .mt\>\*\:1r\@XL >* {
         margin-top: 1rem
     }
-    .mr\>\*\:1r\@xl >* {
+    .mr\>\*\:1r\@XL >* {
         margin-right: 1rem
     }
-    .mb\>\*\:1r\@xl >* {
+    .mb\>\*\:1r\@XL >* {
         margin-bottom: 1rem
     }
-    .ml\>\*\:1r\@xl >* {
+    .ml\>\*\:1r\@XL >* {
         margin-left: 1rem
     }
-    .mx\>\*\:1r\@xl >* {
+    .mx\>\*\:1r\@XL >* {
         margin-right: 1rem;
         margin-left: 1rem
     }
-    .my\>\*\:1r\@xl >* {
+    .my\>\*\:1r\@XL >* {
         margin-top: 1rem;
         margin-bottom: 1rem
     }
-    .m\>\*\:2r\@xl >* {
+    .m\>\*\:2r\@XL >* {
         margin: 2rem
     }
-    .mt\>\*\:2r\@xl >* {
+    .mt\>\*\:2r\@XL >* {
         margin-top: 2rem
     }
-    .mr\>\*\:2r\@xl >* {
+    .mr\>\*\:2r\@XL >* {
         margin-right: 2rem
     }
-    .mb\>\*\:2r\@xl >* {
+    .mb\>\*\:2r\@XL >* {
         margin-bottom: 2rem
     }
-    .ml\>\*\:2r\@xl >* {
+    .ml\>\*\:2r\@XL >* {
         margin-left: 2rem
     }
-    .mx\>\*\:2r\@xl >* {
+    .mx\>\*\:2r\@XL >* {
         margin-right: 2rem;
         margin-left: 2rem
     }
-    .mx\>\*\:2r\@xl >* {
+    .mx\>\*\:2r\@XL >* {
         margin-top: 2rem;
         margin-bottom: 2rem
     }
-    .m\>\*\:4r\@xl >* {
+    .m\>\*\:4r\@XL >* {
         margin: 4rem
     }
-    .mt\>\*\:4r\@xl >* {
+    .mt\>\*\:4r\@XL >* {
         margin-top: 4rem
     }
-    .mr\>\*\:4r\@xl >* {
+    .mr\>\*\:4r\@XL >* {
         margin-right: 4rem
     }
-    .mb\>\*\:4r\@xl >* {
+    .mb\>\*\:4r\@XL >* {
         margin-bottom: 4rem
     }
-    .ml\>\*\:4r\@xl >* {
+    .ml\>\*\:4r\@XL >* {
         margin-left: 4rem
     }
-    .mx\>\*\:4r\@xl >* {
+    .mx\>\*\:4r\@XL >* {
         margin-right: 4rem;
         margin-left: 4rem
     }
-    .my\>\*\:4r\@xl >* {
+    .my\>\*\:4r\@XL >* {
         margin-top: 4rem;
         margin-bottom: 4rem
     }
-    .m\>\*\:8r\@xl >* {
+    .m\>\*\:8r\@XL >* {
         margin: 8rem
     }
-    .mt\>\*\:8r\@xl >* {
+    .mt\>\*\:8r\@XL >* {
         margin-top: 8rem
     }
-    .mr\>\*\:8r\@xl >* {
+    .mr\>\*\:8r\@XL >* {
         margin-right: 8rem
     }
-    .mb\>\*\:8r\@xl >* {
+    .mb\>\*\:8r\@XL >* {
         margin-bottom: 8rem
     }
-    .ml\>\*\:8r\@xl >* {
+    .ml\>\*\:8r\@XL >* {
         margin-left: 8rem
     }
-    .mx\>\*\:8r\@xl >* {
+    .mx\>\*\:8r\@XL >* {
         margin-right: 8rem;
         margin-left: 8rem
     }
-    .my\>\*\:8r\@xl >* {
+    .my\>\*\:8r\@XL >* {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .my\>\*\:8r\@xl >* {
+    .my\>\*\:8r\@XL >* {
         margin-top: 8rem;
         margin-bottom: 8rem
     }
-    .m\>\*\:16r\@xl >* {
+    .m\>\*\:16r\@XL >* {
         margin: 16rem
     }
-    .mt\>\*\:16r\@xl >* {
+    .mt\>\*\:16r\@XL >* {
         margin-top: 16rem
     }
-    .mr\>\*\:16r\@xl >* {
+    .mr\>\*\:16r\@XL >* {
         margin-right: 16rem
     }
-    .mb\>\*\:16r\@xl >* {
+    .mb\>\*\:16r\@XL >* {
         margin-bottom: 16rem
     }
-    .ml\>\*\:16r\@xl >* {
+    .ml\>\*\:16r\@XL >* {
         margin-left: 16rem
     }
-    .mx\>\*\:16r\@xl >* {
+    .mx\>\*\:16r\@XL >* {
         margin-right: 16rem;
         margin-left: 16rem
     }
-    .my\>\*\:16r\@xl >* {
+    .my\>\*\:16r\@XL >* {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
-    .my\>\*\:16r\@xl >* {
+    .my\>\*\:16r\@XL >* {
         margin-top: 16rem;
         margin-bottom: 16rem
     }
@@ -3069,195 +3069,195 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .p\:0\@md {
+    .p\:0\@M {
         padding: 0
     }
-    .pt\:0\@md {
+    .pt\:0\@M {
         padding-top: 0
     }
-    .pr\:0\@md {
+    .pr\:0\@M {
         padding-right: 0
     }
-    .pb\:0\@md {
+    .pb\:0\@M {
         padding-bottom: 0
     }
-    .pl\:0\@md {
+    .pl\:0\@M {
         padding-left: 0
     }
-    .px\:0\@md {
+    .px\:0\@M {
         padding-right: 0;
         padding-left: 0
     }
-    .py\:0\@md {
+    .py\:0\@M {
         padding-top: 0;
         padding-bottom: 0
     }
-    .p\:\.25r\@md {
+    .p\:\.25r\@M {
         padding: .25rem
     }
-    .pt\:\.25r\@md {
+    .pt\:\.25r\@M {
         padding-top: .25rem
     }
-    .pr\:\.25r\@md {
+    .pr\:\.25r\@M {
         padding-right: .25rem
     }
-    .pb\:\.25r\@md {
+    .pb\:\.25r\@M {
         padding-bottom: .25rem
     }
-    .pl\:\.25r\@md {
+    .pl\:\.25r\@M {
         padding-left: .25rem
     }
-    .px\:\.25r\@md {
+    .px\:\.25r\@M {
         padding-right: .25rem;
         padding-left: .25rem
     }
-    .py\:\.25r\@md {
+    .py\:\.25r\@M {
         padding-top: .25rem;
         padding-bottom: .25rem
     }
-    .p\:\.5r\@md {
+    .p\:\.5r\@M {
         padding: .5rem
     }
-    .pt\:\.5r\@md {
+    .pt\:\.5r\@M {
         padding-top: .5rem
     }
-    .pr\:\.5r\@md {
+    .pr\:\.5r\@M {
         padding-right: .5rem
     }
-    .pb\:\.5r\@md {
+    .pb\:\.5r\@M {
         padding-bottom: .5rem
     }
-    .pl\:\.5r\@md {
+    .pl\:\.5r\@M {
         padding-left: .5rem
     }
-    .px\:\.5r\@md {
+    .px\:\.5r\@M {
         padding-right: .5rem;
         padding-left: .5rem
     }
-    .py\:\.5r\@md {
+    .py\:\.5r\@M {
         padding-top: .5rem;
         padding-bottom: .5rem
     }
-    .p\:1r\@md {
+    .p\:1r\@M {
         padding: 1rem
     }
-    .pt\:1r\@md {
+    .pt\:1r\@M {
         padding-top: 1rem
     }
-    .pr\:1r\@md {
+    .pr\:1r\@M {
         padding-right: 1rem
     }
-    .pb\:1r\@md {
+    .pb\:1r\@M {
         padding-bottom: 1rem
     }
-    .pl\:1r\@md {
+    .pl\:1r\@M {
         padding-left: 1rem
     }
-    .px\:1r\@md {
+    .px\:1r\@M {
         padding-right: 1rem;
         padding-left: 1rem
     }
-    .py\:1r\@md {
+    .py\:1r\@M {
         padding-top: 1rem;
         padding-bottom: 1rem
     }
-    .p\:2r\@md {
+    .p\:2r\@M {
         padding: 2rem
     }
-    .pt\:2r\@md {
+    .pt\:2r\@M {
         padding-top: 2rem
     }
-    .pr\:2r\@md {
+    .pr\:2r\@M {
         padding-right: 2rem
     }
-    .pb\:2r\@md {
+    .pb\:2r\@M {
         padding-bottom: 2rem
     }
-    .pl\:2r\@md {
+    .pl\:2r\@M {
         padding-left: 2rem
     }
-    .px\:2r\@md {
+    .px\:2r\@M {
         padding-right: 2rem;
         padding-left: 2rem
     }
-    .py\:2r\@md {
+    .py\:2r\@M {
         padding-top: 2rem;
         padding-bottom: 2rem
     }
-    .p\:4r\@md {
+    .p\:4r\@M {
         padding: 4rem
     }
-    .pt\:4r\@md {
+    .pt\:4r\@M {
         padding-top: 4rem
     }
-    .pr\:4r\@md {
+    .pr\:4r\@M {
         padding-right: 4rem
     }
-    .pb\:4r\@md {
+    .pb\:4r\@M {
         padding-bottom: 4rem
     }
-    .pl\:4r\@md {
+    .pl\:4r\@M {
         padding-left: 4rem
     }
-    .px\:4r\@md {
+    .px\:4r\@M {
         padding-right: 4rem;
         padding-left: 4rem
     }
-    .py\:4r\@md {
+    .py\:4r\@M {
         padding-top: 4rem;
         padding-bottom: 4rem
     }
-    .p\:8r\@md {
+    .p\:8r\@M {
         padding: 8rem
     }
-    .pt\:8r\@md {
+    .pt\:8r\@M {
         padding-top: 8rem
     }
-    .pr\:8r\@md {
+    .pr\:8r\@M {
         padding-right: 8rem
     }
-    .pb\:8r\@md {
+    .pb\:8r\@M {
         padding-bottom: 8rem
     }
-    .pl\:8r\@md {
+    .pl\:8r\@M {
         padding-left: 8rem
     }
-    .px\:8r\@md {
+    .px\:8r\@M {
         padding-right: 8rem;
         padding-left: 8rem
     }
-    .py\:8r\@md {
+    .py\:8r\@M {
         padding-top: 8rem;
         padding-bottom: 8rem
     }
-    .py\:8r\@md {
+    .py\:8r\@M {
         padding-top: 8rem;
         padding-bottom: 8rem
     }
-    .p\:16r\@md {
+    .p\:16r\@M {
         padding: 16rem
     }
-    .pt\:16r\@md {
+    .pt\:16r\@M {
         padding-top: 16rem
     }
-    .pr\:16r\@md {
+    .pr\:16r\@M {
         padding-right: 16rem
     }
-    .pb\:16r\@md {
+    .pb\:16r\@M {
         padding-bottom: 16rem
     }
-    .pl\:16r\@md {
+    .pl\:16r\@M {
         padding-left: 16rem
     }
-    .px\:16r\@md {
+    .px\:16r\@M {
         padding-right: 16rem;
         padding-left: 16rem
     }
-    .py\:16r\@md {
+    .py\:16r\@M {
         padding-top: 16rem;
         padding-bottom: 16rem
     }
-    .py\:16r\@md {
+    .py\:16r\@M {
         padding-top: 16rem;
         padding-bottom: 16rem
     }
@@ -3265,195 +3265,195 @@ a {
 
 
 @media screen and (min-width: 60rem) {
-    .p\:0\@lg {
+    .p\:0\@L {
         padding: 0
     }
-    .pt\:0\@lg {
+    .pt\:0\@L {
         padding-top: 0
     }
-    .pr\:0\@lg {
+    .pr\:0\@L {
         padding-right: 0
     }
-    .pb\:0\@lg {
+    .pb\:0\@L {
         padding-bottom: 0
     }
-    .pl\:0\@lg {
+    .pl\:0\@L {
         padding-left: 0
     }
-    .px\:0\@lg {
+    .px\:0\@L {
         padding-right: 0;
         padding-left: 0
     }
-    .py\:0\@lg {
+    .py\:0\@L {
         padding-top: 0;
         padding-bottom: 0
     }
-    .p\:\.25r\@lg {
+    .p\:\.25r\@L {
         padding: .25rem
     }
-    .pt\:\.25r\@lg {
+    .pt\:\.25r\@L {
         padding-top: .25rem
     }
-    .pr\:\.25r\@lg {
+    .pr\:\.25r\@L {
         padding-right: .25rem
     }
-    .pb\:\.25r\@lg {
+    .pb\:\.25r\@L {
         padding-bottom: .25rem
     }
-    .pl\:\.25r\@lg {
+    .pl\:\.25r\@L {
         padding-left: .25rem
     }
-    .px\:\.25r\@lg {
+    .px\:\.25r\@L {
         padding-right: .25rem;
         padding-left: .25rem
     }
-    .py\:\.25r\@lg {
+    .py\:\.25r\@L {
         padding-top: .25rem;
         padding-bottom: .25rem
     }
-    .p\:\.5r\@lg {
+    .p\:\.5r\@L {
         padding: .5rem
     }
-    .pt\:\.5r\@lg {
+    .pt\:\.5r\@L {
         padding-top: .5rem
     }
-    .pr\:\.5r\@lg {
+    .pr\:\.5r\@L {
         padding-right: .5rem
     }
-    .pb\:\.5r\@lg {
+    .pb\:\.5r\@L {
         padding-bottom: .5rem
     }
-    .pl\:\.5r\@lg {
+    .pl\:\.5r\@L {
         padding-left: .5rem
     }
-    .px\:\.5r\@lg {
+    .px\:\.5r\@L {
         padding-right: .5rem;
         padding-left: .5rem
     }
-    .py\:\.5r\@lg {
+    .py\:\.5r\@L {
         padding-top: .5rem;
         padding-bottom: .5rem
     }
-    .p\:1r\@lg {
+    .p\:1r\@L {
         padding: 1rem
     }
-    .pt\:1r\@lg {
+    .pt\:1r\@L {
         padding-top: 1rem
     }
-    .pr\:1r\@lg {
+    .pr\:1r\@L {
         padding-right: 1rem
     }
-    .pb\:1r\@lg {
+    .pb\:1r\@L {
         padding-bottom: 1rem
     }
-    .pl\:1r\@lg {
+    .pl\:1r\@L {
         padding-left: 1rem
     }
-    .px\:1r\@lg {
+    .px\:1r\@L {
         padding-right: 1rem;
         padding-left: 1rem
     }
-    .py\:1r\@lg {
+    .py\:1r\@L {
         padding-top: 1rem;
         padding-bottom: 1rem
     }
-    .p\:2r\@lg {
+    .p\:2r\@L {
         padding: 2rem
     }
-    .pt\:2r\@lg {
+    .pt\:2r\@L {
         padding-top: 2rem
     }
-    .pr\:2r\@lg {
+    .pr\:2r\@L {
         padding-right: 2rem
     }
-    .pb\:2r\@lg {
+    .pb\:2r\@L {
         padding-bottom: 2rem
     }
-    .pl\:2r\@lg {
+    .pl\:2r\@L {
         padding-left: 2rem
     }
-    .px\:2r\@lg {
+    .px\:2r\@L {
         padding-right: 2rem;
         padding-left: 2rem
     }
-    .py\:2r\@lg {
+    .py\:2r\@L {
         padding-top: 2rem;
         padding-bottom: 2rem
     }
-    .p\:4r\@lg {
+    .p\:4r\@L {
         padding: 4rem
     }
-    .pt\:4r\@lg {
+    .pt\:4r\@L {
         padding-top: 4rem
     }
-    .pr\:4r\@lg {
+    .pr\:4r\@L {
         padding-right: 4rem
     }
-    .pb\:4r\@lg {
+    .pb\:4r\@L {
         padding-bottom: 4rem
     }
-    .pl\:4r\@lg {
+    .pl\:4r\@L {
         padding-left: 4rem
     }
-    .px\:4r\@lg {
+    .px\:4r\@L {
         padding-right: 4rem;
         padding-left: 4rem
     }
-    .py\:4r\@lg {
+    .py\:4r\@L {
         padding-top: 4rem;
         padding-bottom: 4rem
     }
-    .p\:8r\@lg {
+    .p\:8r\@L {
         padding: 8rem
     }
-    .pt\:8r\@lg {
+    .pt\:8r\@L {
         padding-top: 8rem
     }
-    .pr\:8r\@lg {
+    .pr\:8r\@L {
         padding-right: 8rem
     }
-    .pb\:8r\@lg {
+    .pb\:8r\@L {
         padding-bottom: 8rem
     }
-    .pl\:8r\@lg {
+    .pl\:8r\@L {
         padding-left: 8rem
     }
-    .px\:8r\@lg {
+    .px\:8r\@L {
         padding-right: 8rem;
         padding-left: 8rem
     }
-    .py\:8r\@lg {
+    .py\:8r\@L {
         padding-top: 8rem;
         padding-bottom: 8rem
     }
-    .py\:8r\@lg {
+    .py\:8r\@L {
         padding-top: 8rem;
         padding-bottom: 8rem
     }
-    .p\:16r\@lg {
+    .p\:16r\@L {
         padding: 16rem
     }
-    .pt\:16r\@lg {
+    .pt\:16r\@L {
         padding-top: 16rem
     }
-    .pr\:16r\@lg {
+    .pr\:16r\@L {
         padding-right: 16rem
     }
-    .pb\:16r\@lg {
+    .pb\:16r\@L {
         padding-bottom: 16rem
     }
-    .pl\:16r\@lg {
+    .pl\:16r\@L {
         padding-left: 16rem
     }
-    .px\:16r\@lg {
+    .px\:16r\@L {
         padding-right: 16rem;
         padding-left: 16rem
     }
-    .py\:16r\@lg {
+    .py\:16r\@L {
         padding-top: 16rem;
         padding-bottom: 16rem
     }
-    .py\:16r\@lg {
+    .py\:16r\@L {
         padding-top: 16rem;
         padding-bottom: 16rem
     }
@@ -3461,195 +3461,195 @@ a {
 
 
 @media screen and (min-width: 80rem) {
-    .p\:0\@xl {
+    .p\:0\@XL {
         padding: 0
     }
-    .pt\:0\@xl {
+    .pt\:0\@XL {
         padding-top: 0
     }
-    .pr\:0\@xl {
+    .pr\:0\@XL {
         padding-right: 0
     }
-    .pb\:0\@xl {
+    .pb\:0\@XL {
         padding-bottom: 0
     }
-    .pl\:0\@xl {
+    .pl\:0\@XL {
         padding-left: 0
     }
-    .px\:0\@xl {
+    .px\:0\@XL {
         padding-right: 0;
         padding-left: 0
     }
-    .py\:0\@xl {
+    .py\:0\@XL {
         padding-top: 0;
         padding-bottom: 0
     }
-    .p\:\.25r\@xl {
+    .p\:\.25r\@XL {
         padding: .25rem
     }
-    .pt\:\.25r\@xl {
+    .pt\:\.25r\@XL {
         padding-top: .25rem
     }
-    .pr\:\.25r\@xl {
+    .pr\:\.25r\@XL {
         padding-right: .25rem
     }
-    .pb\:\.25r\@xl {
+    .pb\:\.25r\@XL {
         padding-bottom: .25rem
     }
-    .pl\:\.25r\@xl {
+    .pl\:\.25r\@XL {
         padding-left: .25rem
     }
-    .px\:\.25r\@xl {
+    .px\:\.25r\@XL {
         padding-right: .25rem;
         padding-left: .25rem
     }
-    .py\:\.25r\@xl {
+    .py\:\.25r\@XL {
         padding-top: .25rem;
         padding-bottom: .25rem
     }
-    .p\:\.5r\@xl {
+    .p\:\.5r\@XL {
         padding: .5rem
     }
-    .pt\:\.5r\@xl {
+    .pt\:\.5r\@XL {
         padding-top: .5rem
     }
-    .pr\:\.5r\@xl {
+    .pr\:\.5r\@XL {
         padding-right: .5rem
     }
-    .pb\:\.5r\@xl {
+    .pb\:\.5r\@XL {
         padding-bottom: .5rem
     }
-    .pl\:\.5r\@xl {
+    .pl\:\.5r\@XL {
         padding-left: .5rem
     }
-    .px\:\.5r\@xl {
+    .px\:\.5r\@XL {
         padding-right: .5rem;
         padding-left: .5rem
     }
-    .py\:\.5r\@xl {
+    .py\:\.5r\@XL {
         padding-top: .5rem;
         padding-bottom: .5rem
     }
-    .p\:1r\@xl {
+    .p\:1r\@XL {
         padding: 1rem
     }
-    .pt\:1r\@xl {
+    .pt\:1r\@XL {
         padding-top: 1rem
     }
-    .pr\:1r\@xl {
+    .pr\:1r\@XL {
         padding-right: 1rem
     }
-    .pb\:1r\@xl {
+    .pb\:1r\@XL {
         padding-bottom: 1rem
     }
-    .pl\:1r\@xl {
+    .pl\:1r\@XL {
         padding-left: 1rem
     }
-    .px\:1r\@xl {
+    .px\:1r\@XL {
         padding-right: 1rem;
         padding-left: 1rem
     }
-    .py\:1r\@xl {
+    .py\:1r\@XL {
         padding-top: 1rem;
         padding-bottom: 1rem
     }
-    .p\:2r\@xl {
+    .p\:2r\@XL {
         padding: 2rem
     }
-    .pt\:2r\@xl {
+    .pt\:2r\@XL {
         padding-top: 2rem
     }
-    .pr\:2r\@xl {
+    .pr\:2r\@XL {
         padding-right: 2rem
     }
-    .pb\:2r\@xl {
+    .pb\:2r\@XL {
         padding-bottom: 2rem
     }
-    .pl\:2r\@xl {
+    .pl\:2r\@XL {
         padding-left: 2rem
     }
-    .px\:2r\@xl {
+    .px\:2r\@XL {
         padding-right: 2rem;
         padding-left: 2rem
     }
-    .py\:2r\@xl {
+    .py\:2r\@XL {
         padding-top: 2rem;
         padding-bottom: 2rem
     }
-    .p\:4r\@xl {
+    .p\:4r\@XL {
         padding: 4rem
     }
-    .pt\:4r\@xl {
+    .pt\:4r\@XL {
         padding-top: 4rem
     }
-    .pr\:4r\@xl {
+    .pr\:4r\@XL {
         padding-right: 4rem
     }
-    .pb\:4r\@xl {
+    .pb\:4r\@XL {
         padding-bottom: 4rem
     }
-    .pl\:4r\@xl {
+    .pl\:4r\@XL {
         padding-left: 4rem
     }
-    .px\:4r\@xl {
+    .px\:4r\@XL {
         padding-right: 4rem;
         padding-left: 4rem
     }
-    .py\:4r\@xl {
+    .py\:4r\@XL {
         padding-top: 4rem;
         padding-bottom: 4rem
     }
-    .p\:8r\@xl {
+    .p\:8r\@XL {
         padding: 8rem
     }
-    .pt\:8r\@xl {
+    .pt\:8r\@XL {
         padding-top: 8rem
     }
-    .pr\:8r\@xl {
+    .pr\:8r\@XL {
         padding-right: 8rem
     }
-    .pb\:8r\@xl {
+    .pb\:8r\@XL {
         padding-bottom: 8rem
     }
-    .pl\:8r\@xl {
+    .pl\:8r\@XL {
         padding-left: 8rem
     }
-    .px\:8r\@xl {
+    .px\:8r\@XL {
         padding-right: 8rem;
         padding-left: 8rem
     }
-    .py\:8r\@xl {
+    .py\:8r\@XL {
         padding-top: 8rem;
         padding-bottom: 8rem
     }
-    .py\:8r\@xl {
+    .py\:8r\@XL {
         padding-top: 8rem;
         padding-bottom: 8rem
     }
-    .p\:16r\@xl {
+    .p\:16r\@XL {
         padding: 16rem
     }
-    .pt\:16r\@xl {
+    .pt\:16r\@XL {
         padding-top: 16rem
     }
-    .pr\:16r\@xl {
+    .pr\:16r\@XL {
         padding-right: 16rem
     }
-    .pb\:16r\@xl {
+    .pb\:16r\@XL {
         padding-bottom: 16rem
     }
-    .pl\:16r\@xl {
+    .pl\:16r\@XL {
         padding-left: 16rem
     }
-    .px\:16r\@xl {
+    .px\:16r\@XL {
         padding-right: 16rem;
         padding-left: 16rem
     }
-    .py\:16r\@xl {
+    .py\:16r\@XL {
         padding-top: 16rem;
         padding-bottom: 16rem
     }
-    .py\:16r\@xl {
+    .py\:16r\@XL {
         padding-top: 16rem;
         padding-bottom: 16rem
     }
@@ -3920,19 +3920,19 @@ a {
 }
 
 
-.mw\:md {
+.mw\:M {
     max-width: 640px;
     max-width: 40rem
 }
 
 
-.mw\:lg {
+.mw\:L {
     max-width: 960px;
     max-width: 60rem
 }
 
 
-.mw\:xl {
+.mw\:XL {
     max-width: 1280px;
     max-width: 80rem
 }
@@ -4091,105 +4091,105 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .d\:b\@md {
+    .d\:b\@M {
         display: block
     }
-    .d\:i\@md {
+    .d\:i\@M {
         display: inline
     }
-    .d\:ib\@md {
+    .d\:ib\@M {
         display: inline-block
     }
-    .d\:n\@md {
+    .d\:n\@M {
         display: none
     }
-    .d\:f\@md {
+    .d\:f\@M {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex
     }
-    .d\:if\@md {
+    .d\:if\@M {
         display: -webkit-inline-box;
         display: -ms-inline-flexbox;
         display: inline-flex
     }
-    .d\:t\@md {
+    .d\:t\@M {
         display: table
     }
-    .d\:tc\@md {
+    .d\:tc\@M {
         display: table-cell
     }
-    .d\:tr\@md {
+    .d\:tr\@M {
         display: table-row
     }
 }
 
 
 @media screen and (min-width: 60rem) {
-    .d\:b\@lg {
+    .d\:b\@L {
         display: block
     }
-    .d\:i\@lg {
+    .d\:i\@L {
         display: inline
     }
-    .d\:ib\@lg {
+    .d\:ib\@L {
         display: inline-block
     }
-    .d\:n\@lg {
+    .d\:n\@L {
         display: none
     }
-    .d\:f\@lg {
+    .d\:f\@L {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex
     }
-    .d\:if\@lg {
+    .d\:if\@L {
         display: -webkit-inline-box;
         display: -ms-inline-flexbox;
         display: inline-flex
     }
-    .d\:t\@lg {
+    .d\:t\@L {
         display: table
     }
-    .d\:tc\@lg {
+    .d\:tc\@L {
         display: table-cell
     }
-    .d\:tr\@lg {
+    .d\:tr\@L {
         display: table-row
     }
 }
 
 
 @media screen and (min-width: 80rem) {
-    .d\:b\@xl {
+    .d\:b\@XL {
         display: block
     }
-    .d\:i\@xl {
+    .d\:i\@XL {
         display: inline
     }
-    .d\:ib\@xl {
+    .d\:ib\@XL {
         display: inline-block
     }
-    .d\:n\@xl {
+    .d\:n\@XL {
         display: none
     }
-    .d\:f\@xl {
+    .d\:f\@XL {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex
     }
-    .d\:if\@xl {
+    .d\:if\@XL {
         display: -webkit-inline-box;
         display: -ms-inline-flexbox;
         display: inline-flex
     }
-    .d\:t\@xl {
+    .d\:t\@XL {
         display: table
     }
-    .d\:tc\@xl {
+    .d\:tc\@XL {
         display: table-cell
     }
-    .d\:tr\@xl {
+    .d\:tr\@XL {
         display: table-row
     }
 }
@@ -4216,48 +4216,48 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .p\:s\@md {
+    .p\:s\@M {
         position: static
     }
-    .p\:r\@md {
+    .p\:r\@M {
         position: relative
     }
-    .p\:a\@md {
+    .p\:a\@M {
         position: absolute
     }
-    .p\:f\@md {
+    .p\:f\@M {
         position: fixed
     }
 }
 
 
 @media screen and (min-width: 60rem) {
-    .p\:s\@lg {
+    .p\:s\@L {
         position: static
     }
-    .p\:r\@lg {
+    .p\:r\@L {
         position: relative
     }
-    .p\:a\@lg {
+    .p\:a\@L {
         position: absolute
     }
-    .p\:f\@lg {
+    .p\:f\@L {
         position: fixed
     }
 }
 
 
 @media screen and (min-width: 80rem) {
-    .p\:s\@xl {
+    .p\:s\@XL {
         position: static
     }
-    .p\:r\@xl {
+    .p\:r\@XL {
         position: relative
     }
-    .p\:a\@xl {
+    .p\:a\@XL {
         position: absolute
     }
-    .p\:f\@xl {
+    .p\:f\@XL {
         position: fixed
     }
 }
@@ -4668,6 +4668,21 @@ a {
 }
 
 
+.v\:v {
+    visibility: visible
+}
+
+
+.v\:h {
+    visibility: hidden
+}
+
+
+*:hover>.v\:v\:h {
+    visibility: visible
+}
+
+
 /* Flexbox */
 
 
@@ -4704,25 +4719,25 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .fd\:c\@md {
+    .fd\:c\@M {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
             -ms-flex-direction: column;
                 flex-direction: column
     }
-    .fd\:r\@md {
+    .fd\:r\@M {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
             -ms-flex-direction: row;
                 flex-direction: row
     }
-    .fd\:cr\@md {
+    .fd\:cr\@M {
         -webkit-box-orient: vertical;
         -webkit-box-direction: reverse;
             -ms-flex-direction: column-reverse;
                 flex-direction: column-reverse
     }
-    .fd\:rr\@md {
+    .fd\:rr\@M {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: reverse;
             -ms-flex-direction: row-reverse;
@@ -4732,25 +4747,25 @@ a {
 
 
 @media screen and (min-width: 60rem) {
-    .fd\:c\@lg {
+    .fd\:c\@L {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
             -ms-flex-direction: column;
                 flex-direction: column
     }
-    .fd\:r\@lg {
+    .fd\:r\@L {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
             -ms-flex-direction: row;
                 flex-direction: row
     }
-    .fd\:cr\@lg {
+    .fd\:cr\@L {
         -webkit-box-orient: vertical;
         -webkit-box-direction: reverse;
             -ms-flex-direction: column-reverse;
                 flex-direction: column-reverse
     }
-    .fd\:rr\@lg {
+    .fd\:rr\@L {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: reverse;
             -ms-flex-direction: row-reverse;
@@ -4760,25 +4775,25 @@ a {
 
 
 @media screen and (min-width: 80rem) {
-    .fd\:c\@xl {
+    .fd\:c\@XL {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
             -ms-flex-direction: column;
                 flex-direction: column
     }
-    .fd\:r\@xl {
+    .fd\:r\@XL {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: normal;
             -ms-flex-direction: row;
                 flex-direction: row
     }
-    .fd\:cr\@xl {
+    .fd\:cr\@XL {
         -webkit-box-orient: vertical;
         -webkit-box-direction: reverse;
             -ms-flex-direction: column-reverse;
                 flex-direction: column-reverse
     }
-    .fd\:rr\@xl {
+    .fd\:rr\@XL {
         -webkit-box-orient: horizontal;
         -webkit-box-direction: reverse;
             -ms-flex-direction: row-reverse;
@@ -4875,27 +4890,27 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .ai\:b\@md {
+    .ai\:b\@M {
         -webkit-box-align: baseline;
             -ms-flex-align: baseline;
                 align-items: baseline
     }
-    .ai\:fs\@md {
+    .ai\:fs\@M {
         -webkit-box-align: start;
             -ms-flex-align: start;
                 align-items: flex-start
     }
-    .ai\:c\@md {
+    .ai\:c\@M {
         -webkit-box-align: center;
             -ms-flex-align: center;
                 align-items: center
     }
-    .ai\:fe\@md {
+    .ai\:fe\@M {
         -webkit-box-align: end;
             -ms-flex-align: end;
                 align-items: flex-end
     }
-    .ai\:s\@md {
+    .ai\:s\@M {
         -webkit-box-align: stretch;
             -ms-flex-align: stretch;
                 align-items: stretch
@@ -4904,27 +4919,27 @@ a {
 
 
 @media screen and (min-width: 60rem) {
-    .ai\:b\@lg {
+    .ai\:b\@L {
         -webkit-box-align: baseline;
             -ms-flex-align: baseline;
                 align-items: baseline
     }
-    .ai\:fs\@lg {
+    .ai\:fs\@L {
         -webkit-box-align: start;
             -ms-flex-align: start;
                 align-items: flex-start
     }
-    .ai\:c\@lg {
+    .ai\:c\@L {
         -webkit-box-align: center;
             -ms-flex-align: center;
                 align-items: center
     }
-    .ai\:fe\@lg {
+    .ai\:fe\@L {
         -webkit-box-align: end;
             -ms-flex-align: end;
                 align-items: flex-end
     }
-    .ai\:s\@lg {
+    .ai\:s\@L {
         -webkit-box-align: stretch;
             -ms-flex-align: stretch;
                 align-items: stretch
@@ -4933,27 +4948,27 @@ a {
 
 
 @media screen and (min-width: 80rem) {
-    .ai\:b\@xl {
+    .ai\:b\@XL {
         -webkit-box-align: baseline;
             -ms-flex-align: baseline;
                 align-items: baseline
     }
-    .ai\:fs\@xl {
+    .ai\:fs\@XL {
         -webkit-box-align: start;
             -ms-flex-align: start;
                 align-items: flex-start
     }
-    .ai\:c\@xl {
+    .ai\:c\@XL {
         -webkit-box-align: center;
             -ms-flex-align: center;
                 align-items: center
     }
-    .ai\:fe\@xl {
+    .ai\:fe\@XL {
         -webkit-box-align: end;
             -ms-flex-align: end;
                 align-items: flex-end
     }
-    .ai\:s\@xl {
+    .ai\:s\@XL {
         -webkit-box-align: stretch;
             -ms-flex-align: stretch;
                 align-items: stretch
@@ -5401,95 +5416,95 @@ a {
 
 
 @media screen and (min-width: 40rem) {
-    .bw\:0\@md {
+    .bw\:0\@M {
         border-width: 0
     }
-    .btw\:0\@md {
+    .btw\:0\@M {
         border-top-width: 0
     }
-    .brw\:0\@md {
+    .brw\:0\@M {
         border-right-width: 0
     }
-    .bbw\:0\@md {
+    .bbw\:0\@M {
         border-bottom-width: 0
     }
-    .blw\:0\@md {
+    .blw\:0\@M {
         border-left-width: 0
     }
-    .bxw\:0\@md {
+    .bxw\:0\@M {
         border-right-width: 0;
         border-left-width: 0
     }
-    .byw\:0\@md {
+    .byw\:0\@M {
         border-top-width: 0;
         border-bottom-width: 0
     }
-    .bw\:thin\@md {
+    .bw\:thin\@M {
         border-width: .0625rem
     }
-    .btw\:thin\@md {
+    .btw\:thin\@M {
         border-top-width: .0625rem
     }
-    .brw\:thin\@md {
+    .brw\:thin\@M {
         border-right-width: .0625rem
     }
-    .bbw\:thin\@md {
+    .bbw\:thin\@M {
         border-bottom-width: .0625rem
     }
-    .blw\:thin\@md {
+    .blw\:thin\@M {
         border-left-width: .0625rem
     }
-    .bxw\:thin\@md {
+    .bxw\:thin\@M {
         border-right-width: .0625rem;
         border-left-width: .0625rem
     }
-    .byw\:thin\@md {
+    .byw\:thin\@M {
         border-top-width: .0625rem;
         border-bottom-width: .0625rem
     }
-    .bw\:medium\@md {
+    .bw\:medium\@M {
         border-width: .25rem
     }
-    .btw\:medium\@md {
+    .btw\:medium\@M {
         border-top-width: .25rem
     }
-    .brw\:medium\@md {
+    .brw\:medium\@M {
         border-right-width: .25rem
     }
-    .bbw\:medium\@md {
+    .bbw\:medium\@M {
         border-bottom-width: .25rem
     }
-    .blw\:medium\@md {
+    .blw\:medium\@M {
         border-left-width: .25rem
     }
-    .bxw\:medium\@md {
+    .bxw\:medium\@M {
         border-right-width: .25rem;
         border-left-width: .25rem
     }
-    .byw\:medium\@md {
+    .byw\:medium\@M {
         border-top-width: .25rem;
         border-bottom-width: .25rem
     }
-    .bw\:thick\@md {
+    .bw\:thick\@M {
         border-width: .5rem
     }
-    .btw\:thick\@md {
+    .btw\:thick\@M {
         border-top-width: .5rem
     }
-    .brw\:thick\@md {
+    .brw\:thick\@M {
         border-right-width: .5rem
     }
-    .bbw\:thick\@md {
+    .bbw\:thick\@M {
         border-bottom-width: .5rem
     }
-    .blw\:thick\@md {
+    .blw\:thick\@M {
         border-left-width: .5rem
     }
-    .bxw\:thick\@md {
+    .bxw\:thick\@M {
         border-right-width: .5rem;
         border-left-width: .5rem
     }
-    .byw\:thick\@md {
+    .byw\:thick\@M {
         border-top-width: .5rem;
         border-bottom-width: .5rem
     }
@@ -5497,95 +5512,95 @@ a {
 
 
 @media screen and (min-width: 60rem) {
-    .bw\:0\@lg {
+    .bw\:0\@L {
         border-width: 0
     }
-    .btw\:0\@lg {
+    .btw\:0\@L {
         border-top-width: 0
     }
-    .brw\:0\@lg {
+    .brw\:0\@L {
         border-right-width: 0
     }
-    .bbw\:0\@lg {
+    .bbw\:0\@L {
         border-bottom-width: 0
     }
-    .blw\:0\@lg {
+    .blw\:0\@L {
         border-left-width: 0
     }
-    .bxw\:0\@lg {
+    .bxw\:0\@L {
         border-right-width: 0;
         border-left-width: 0
     }
-    .byw\:0\@lg {
+    .byw\:0\@L {
         border-top-width: 0;
         border-bottom-width: 0
     }
-    .bw\:thin\@lg {
+    .bw\:thin\@L {
         border-width: .0625rem
     }
-    .btw\:thin\@lg {
+    .btw\:thin\@L {
         border-top-width: .0625rem
     }
-    .brw\:thin\@lg {
+    .brw\:thin\@L {
         border-right-width: .0625rem
     }
-    .bbw\:thin\@lg {
+    .bbw\:thin\@L {
         border-bottom-width: .0625rem
     }
-    .blw\:thin\@lg {
+    .blw\:thin\@L {
         border-left-width: .0625rem
     }
-    .bxw\:thin\@lg {
+    .bxw\:thin\@L {
         border-right-width: .0625rem;
         border-left-width: .0625rem
     }
-    .byw\:thin\@lg {
+    .byw\:thin\@L {
         border-top-width: .0625rem;
         border-bottom-width: .0625rem
     }
-    .bw\:medium\@lg {
+    .bw\:medium\@L {
         border-width: .25rem
     }
-    .btw\:medium\@lg {
+    .btw\:medium\@L {
         border-top-width: .25rem
     }
-    .brw\:medium\@lg {
+    .brw\:medium\@L {
         border-right-width: .25rem
     }
-    .bbw\:medium\@lg {
+    .bbw\:medium\@L {
         border-bottom-width: .25rem
     }
-    .blw\:medium\@lg {
+    .blw\:medium\@L {
         border-left-width: .25rem
     }
-    .bxw\:medium\@lg {
+    .bxw\:medium\@L {
         border-right-width: .25rem;
         border-left-width: .25rem
     }
-    .byw\:medium\@lg {
+    .byw\:medium\@L {
         border-top-width: .25rem;
         border-bottom-width: .25rem
     }
-    .bw\:thick\@lg {
+    .bw\:thick\@L {
         border-width: .5rem
     }
-    .btw\:thick\@lg {
+    .btw\:thick\@L {
         border-top-width: .5rem
     }
-    .brw\:thick\@lg {
+    .brw\:thick\@L {
         border-right-width: .5rem
     }
-    .bbw\:thick\@lg {
+    .bbw\:thick\@L {
         border-bottom-width: .5rem
     }
-    .blw\:thick\@lg {
+    .blw\:thick\@L {
         border-left-width: .5rem
     }
-    .bxw\:thick\@lg {
+    .bxw\:thick\@L {
         border-right-width: .5rem;
         border-left-width: .5rem
     }
-    .byw\:thick\@lg {
+    .byw\:thick\@L {
         border-top-width: .5rem;
         border-bottom-width: .5rem
     }
@@ -5593,95 +5608,95 @@ a {
 
 
 @media screen and (min-width: 80rem) {
-    .bw\:0\@xl {
+    .bw\:0\@XL {
         border-width: 0
     }
-    .btw\:0\@xl {
+    .btw\:0\@XL {
         border-top-width: 0
     }
-    .brw\:0\@xl {
+    .brw\:0\@XL {
         border-right-width: 0
     }
-    .bbw\:0\@xl {
+    .bbw\:0\@XL {
         border-bottom-width: 0
     }
-    .blw\:0\@xl {
+    .blw\:0\@XL {
         border-left-width: 0
     }
-    .bxw\:0\@xl {
+    .bxw\:0\@XL {
         border-right-width: 0;
         border-left-width: 0
     }
-    .byw\:0\@xl {
+    .byw\:0\@XL {
         border-top-width: 0;
         border-bottom-width: 0
     }
-    .bw\:thin\@xl {
+    .bw\:thin\@XL {
         border-width: .0625rem
     }
-    .btw\:thin\@xl {
+    .btw\:thin\@XL {
         border-top-width: .0625rem
     }
-    .brw\:thin\@xl {
+    .brw\:thin\@XL {
         border-right-width: .0625rem
     }
-    .bbw\:thin\@xl {
+    .bbw\:thin\@XL {
         border-bottom-width: .0625rem
     }
-    .blw\:thin\@xl {
+    .blw\:thin\@XL {
         border-left-width: .0625rem
     }
-    .bxw\:thin\@xl {
+    .bxw\:thin\@XL {
         border-right-width: .0625rem;
         border-left-width: .0625rem
     }
-    .byw\:thin\@xl {
+    .byw\:thin\@XL {
         border-top-width: .0625rem;
         border-bottom-width: .0625rem
     }
-    .bw\:medium\@xl {
+    .bw\:medium\@XL {
         border-width: .25rem
     }
-    .btw\:medium\@xl {
+    .btw\:medium\@XL {
         border-top-width: .25rem
     }
-    .brw\:medium\@xl {
+    .brw\:medium\@XL {
         border-right-width: .25rem
     }
-    .bbw\:medium\@xl {
+    .bbw\:medium\@XL {
         border-bottom-width: .25rem
     }
-    .blw\:medium\@xl {
+    .blw\:medium\@XL {
         border-left-width: .25rem
     }
-    .bxw\:medium\@xl {
+    .bxw\:medium\@XL {
         border-right-width: .25rem;
         border-left-width: .25rem
     }
-    .byw\:medium\@xl {
+    .byw\:medium\@XL {
         border-top-width: .25rem;
         border-bottom-width: .25rem
     }
-    .bw\:thick\@xl {
+    .bw\:thick\@XL {
         border-width: .5rem
     }
-    .btw\:thick\@xl {
+    .btw\:thick\@XL {
         border-top-width: .5rem
     }
-    .brw\:thick\@xl {
+    .brw\:thick\@XL {
         border-right-width: .5rem
     }
-    .bbw\:thick\@xl {
+    .bbw\:thick\@XL {
         border-bottom-width: .5rem
     }
-    .blw\:thick\@xl {
+    .blw\:thick\@XL {
         border-left-width: .5rem
     }
-    .bxw\:thick\@xl {
+    .bxw\:thick\@XL {
         border-right-width: .5rem;
         border-left-width: .5rem
     }
-    .byw\:thick\@xl {
+    .byw\:thick\@XL {
         border-top-width: .5rem;
         border-bottom-width: .5rem
     }

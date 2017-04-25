@@ -1,0 +1,11 @@
+.v\:v {
+    visibility: visible
+}
+
+.v\:h {
+    visibility: hidden
+}
+
+*:hover>.v\:v\:h {
+    visibility: visible
+}

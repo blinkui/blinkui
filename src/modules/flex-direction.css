@@ -15,46 +15,46 @@
 }
 
 @media screen and (min-width: 40rem) {
-    .fd\:c\@md {
+    .fd\:c\@M {
         flex-direction: column
     }
-    .fd\:r\@md {
+    .fd\:r\@M {
         flex-direction: row
     }
-    .fd\:cr\@md {
+    .fd\:cr\@M {
         flex-direction: column-reverse
     }
-    .fd\:rr\@md {
+    .fd\:rr\@M {
         flex-direction: row-reverse
     }
 }
 
 @media screen and (min-width: 60rem) {
-    .fd\:c\@lg {
+    .fd\:c\@L {
         flex-direction: column
     }
-    .fd\:r\@lg {
+    .fd\:r\@L {
         flex-direction: row
     }
-    .fd\:cr\@lg {
+    .fd\:cr\@L {
         flex-direction: column-reverse
     }
-    .fd\:rr\@lg {
+    .fd\:rr\@L {
         flex-direction: row-reverse
     }
 }
 
 @media screen and (min-width: 80rem) {
-    .fd\:c\@xl {
+    .fd\:c\@XL {
         flex-direction: column
     }
-    .fd\:r\@xl {
+    .fd\:r\@XL {
         flex-direction: row
     }
-    .fd\:cr\@xl {
+    .fd\:cr\@XL {
         flex-direction: column-reverse
     }
-    .fd\:rr\@xl {
+    .fd\:rr\@XL {
         flex-direction: row-reverse
     }
 }

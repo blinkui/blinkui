@@ -15,46 +15,46 @@
 }
 
 @media screen and (min-width: 40rem) {
-    .p\:s\@md {
+    .p\:s\@M {
         position: static
     }
-    .p\:r\@md {
+    .p\:r\@M {
         position: relative
     }
-    .p\:a\@md {
+    .p\:a\@M {
         position: absolute
     }
-    .p\:f\@md {
+    .p\:f\@M {
         position: fixed
     }
 }
 
 @media screen and (min-width: 60rem) {
-    .p\:s\@lg {
+    .p\:s\@L {
         position: static
     }
-    .p\:r\@lg {
+    .p\:r\@L {
         position: relative
     }
-    .p\:a\@lg {
+    .p\:a\@L {
         position: absolute
     }
-    .p\:f\@lg {
+    .p\:f\@L {
         position: fixed
     }
 }
 
 @media screen and (min-width: 80rem) {
-    .p\:s\@xl {
+    .p\:s\@XL {
         position: static
     }
-    .p\:r\@xl {
+    .p\:r\@XL {
         position: relative
     }
-    .p\:a\@xl {
+    .p\:a\@XL {
         position: absolute
     }
-    .p\:f\@xl {
+    .p\:f\@XL {
         position: fixed
     }
 }

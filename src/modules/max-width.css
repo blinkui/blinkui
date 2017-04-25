@@ -98,14 +98,14 @@
     max-width: 100vw
 }
 
-.mw\:md {
+.mw\:M {
     max-width: 40rem
 }
 
-.mw\:lg {
+.mw\:L {
     max-width: 60rem
 }
 
-.mw\:xl {
+.mw\:XL {
     max-width: 80rem
 }

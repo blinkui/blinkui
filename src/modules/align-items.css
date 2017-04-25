@@ -19,55 +19,55 @@
 }
 
 @media screen and (min-width: 40rem) {
-    .ai\:b\@md {
+    .ai\:b\@M {
         align-items: baseline
     }
-    .ai\:fs\@md {
+    .ai\:fs\@M {
         align-items: flex-start
     }
-    .ai\:c\@md {
+    .ai\:c\@M {
         align-items: center
     }
-    .ai\:fe\@md {
+    .ai\:fe\@M {
         align-items: flex-end
     }
-    .ai\:s\@md {
+    .ai\:s\@M {
         align-items: stretch
     }
 }
 
 @media screen and (min-width: 60rem) {
-    .ai\:b\@lg {
+    .ai\:b\@L {
         align-items: baseline
     }
-    .ai\:fs\@lg {
+    .ai\:fs\@L {
         align-items: flex-start
     }
-    .ai\:c\@lg {
+    .ai\:c\@L {
         align-items: center
     }
-    .ai\:fe\@lg {
+    .ai\:fe\@L {
         align-items: flex-end
     }
-    .ai\:s\@lg {
+    .ai\:s\@L {
         align-items: stretch
     }
 }
 
 @media screen and (min-width: 80rem) {
-    .ai\:b\@xl {
+    .ai\:b\@XL {
         align-items: baseline
     }
-    .ai\:fs\@xl {
+    .ai\:fs\@XL {
         align-items: flex-start
     }
-    .ai\:c\@xl {
+    .ai\:c\@XL {
         align-items: center
     }
-    .ai\:fe\@xl {
+    .ai\:fe\@XL {
         align-items: flex-end
     }
-    .ai\:s\@xl {
+    .ai\:s\@XL {
         align-items: stretch
     }
 }

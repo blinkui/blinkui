@@ -51,127 +51,127 @@
 }
 
 @media screen and (min-width: 40rem) {
-    .fw\:i\@md {
+    .fw\:i\@M {
         font-weight: initial
     }
-    .fw\:l\@md {
+    .fw\:l\@M {
         font-weight: lighter
     }
-    .fw\:n\@md {
+    .fw\:n\@M {
         font-weight: normal
     }
-    .fw\:b\@md {
+    .fw\:b\@M {
         font-weight: bold
     }
-    .fw\:100\@md {
+    .fw\:100\@M {
         font-weight: 100
     }
-    .fw\:200\@md {
+    .fw\:200\@M {
         font-weight: 200
     }
-    .fw\:300\@md {
+    .fw\:300\@M {
         font-weight: 300
     }
-    .fw\:400\@md {
+    .fw\:400\@M {
         font-weight: 400
     }
-    .fw\:500\@md {
+    .fw\:500\@M {
         font-weight: 500
     }
-    .fw\:600\@md {
+    .fw\:600\@M {
         font-weight: 600
     }
-    .fw\:700\@md {
+    .fw\:700\@M {
         font-weight: 700
     }
-    .fw\:800\@md {
+    .fw\:800\@M {
         font-weight: 800
     }
-    .fw\:900\@md {
+    .fw\:900\@M {
         font-weight: 900
     }
 }
 
 @media screen and (min-width: 60rem) {
-    .fw\:i\@lg {
+    .fw\:i\@L {
         font-weight: initial
     }
-    .fw\:l\@lg {
+    .fw\:l\@L {
         font-weight: lighter
     }
-    .fw\:n\@lg {
+    .fw\:n\@L {
         font-weight: normal
     }
-    .fw\:b\@lg {
+    .fw\:b\@L {
         font-weight: bold
     }
-    .fw\:100\@lg {
+    .fw\:100\@L {
         font-weight: 100
     }
-    .fw\:200\@lg {
+    .fw\:200\@L {
         font-weight: 200
     }
-    .fw\:300\@lg {
+    .fw\:300\@L {
         font-weight: 300
     }
-    .fw\:400\@lg {
+    .fw\:400\@L {
         font-weight: 400
     }
-    .fw\:500\@lg {
+    .fw\:500\@L {
         font-weight: 500
     }
-    .fw\:600\@lg {
+    .fw\:600\@L {
         font-weight: 600
     }
-    .fw\:700\@lg {
+    .fw\:700\@L {
         font-weight: 700
     }
-    .fw\:800\@lg {
+    .fw\:800\@L {
         font-weight: 800
     }
-    .fw\:900\@lg {
+    .fw\:900\@L {
         font-weight: 900
     }
 }
 
 @media screen and (min-width: 80rem) {
-    .fw\:i\@xl {
+    .fw\:i\@XL {
         font-weight: initial
     }
-    .fw\:l\@xl {
+    .fw\:l\@XL {
         font-weight: lighter
     }
-    .fw\:n\@xl {
+    .fw\:n\@XL {
         font-weight: normal
     }
-    .fw\:b\@xl {
+    .fw\:b\@XL {
         font-weight: bold
     }
-    .fw\:100\@xl {
+    .fw\:100\@XL {
         font-weight: 100
     }
-    .fw\:200\@xl {
+    .fw\:200\@XL {
         font-weight: 200
     }
-    .fw\:300\@xl {
+    .fw\:300\@XL {
         font-weight: 300
     }
-    .fw\:400\@xl {
+    .fw\:400\@XL {
         font-weight: 400
     }
-    .fw\:500\@xl {
+    .fw\:500\@XL {
         font-weight: 500
     }
-    .fw\:600\@xl {
+    .fw\:600\@XL {
         font-weight: 600
     }
-    .fw\:700\@xl {
+    .fw\:700\@XL {
         font-weight: 700
     }
-    .fw\:800\@xl {
+    .fw\:800\@XL {
         font-weight: 800
     }
-    .fw\:900\@xl {
+    .fw\:900\@XL {
         font-weight: 900
     }
 }
