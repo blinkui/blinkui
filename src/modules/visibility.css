@@ -6,6 +6,10 @@
     visibility: hidden
 }
 
+.v\:c {
+    visibility: collapse
+}
+
 *:hover>.v\:v\:h {
     visibility: visible
 }
