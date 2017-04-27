@@ -7,6 +7,9 @@
 
 - beginning to keep track of changes
 - moved the notes from `README.md` to this `changelog.md`
+- optimized all color modules (made heavy use of variables and color functions)
+- bigger steps in the `z-index` module
+- added black to the body in the base stylesheet
 
 ---
 
@@ -21,12 +24,16 @@
 - hyphens
 - background-blend-mode
 - cursor (pointer)
-- taking it further: filters, transitions
+- filters
 
 ### Thoughts:
 
-- Steps (8, 16) also in `z-index` and `top`, `right`… modules? (Consistency)
-- Moving away from number steps to semantic steps like: XXS › XS › S › M › L › XL › XXL?
+- Steps (1, 2, 4, 8, 16) also in `z-index` and `top`, `right`… modules? (Consistency)
+- Moving away from number steps to more semantic steps like: `xxs › xs › s › m › l › xl › xxl`?
+
+---
+
+## To do:
 
 ## Add/Improve:
 
@@ -36,7 +43,7 @@
 
 ## Make responsive:
 
-- width, max-width and height should have responsive classes (at least vh + %/vw)
+- `width`, `max-width` and `height` should have responsive classes (at least vh + %/vw)
 - `order`
 - `flex-grow`
 - `z-index`
@@ -45,12 +52,15 @@
 ## Demo:
 
 - `margin_child.css`
-- `order.css`
+
+---
+
+*Watch out for these exceptions or abbreviations.*
 
 ## Exceptions:
 
 - `bgc` (background-color) vs. `bc` (border-color)
-- font-weight: normal (`fw-n`) vs. flex-wrap: nowrap (`fw-nw` also: `ws-nw`)
+- font-weight: normal (`fw-n`) vs. flex-wrap: nowrap (`fw-nw` also for white-space: `ws-nw`)
 
 ## Duplicates:
 
@@ -58,3 +68,15 @@
 - `fw`: font-weight, flex-wrap
 - `o`: order, opacity
 - `bs`: border-style, box-shadow, box-sizing
+
+---
+
+## Breakpoint template
+
+```css
+@media screen and (min-width: 40rem) {}
+
+@media screen and (min-width: 60rem) {}
+
+@media screen and (min-width: 80rem) {}
+```

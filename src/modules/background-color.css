@@ -1,53 +1,53 @@
 .bgc\:red {
-    background-color: hsl(350, 90%, 60%)
+    background-color: var(--red)
 }
 
 .bgc\:orange {
-    background-color: hsl(50, 100%, 50%)
+    background-color: var(--orange)
 }
 
 .bgc\:yellow {
-    background-color: hsl(60, 90%, 65%)
+    background-color: var(--yellow)
 }
 
 .bgc\:lime {
-    background-color: hsl(80, 90%, 60%)
+    background-color: var(--lime)
 }
 
 .bgc\:green {
-    background-color: hsl(120, 70%, 60%)
+    background-color: var(--green)
 }
 
 .bgc\:teal {
-    background-color: hsl(160, 80%, 60%)
+    background-color: var(--teal)
 }
 
 .bgc\:cyan {
-    background-color: hsl(190, 85%, 70%)
+    background-color: var(--cyan)
 }
 
 .bgc\:blue {
-    background-color: hsl(220, 100%, 65%)
+    background-color: var(--blue)
 }
 
 .bgc\:indigo {
-    background-color: hsl(240, 70%, 60%)
+    background-color: var(--indigo)
 }
 
 .bgc\:purple {
-    background-color: hsl(270, 70%, 60%)
+    background-color: var(--purple)
 }
 
-.bgc\:rose {
-    background-color: hsl(300, 85%, 75%)
+.bgc\:violet {
+    background-color: var(--violet)
 }
 
-.bgc\:pink {
-    background-color: hsl(330, 90%, 60%)
+.bgc\:magenta {
+    background-color: var(--magenta)
 }
 
 .bgc\:brown {
-    background-color: hsl(30, 60%, 45%)
+    background-color: var(--brown)
 }
 
 .bgc\:t {
@@ -55,89 +55,89 @@
 }
 
 .bgc\:w {
-    background-color: hsl(0, 0%, 98%)
+    background-color: var(--white)
 }
 
 .bgc\:w\.9 {
-    background-color: hsla(0, 0%, 98%, .9)
+    background-color: color(var(--white) a(.9))
 }
 
 .bgc\:w\.8 {
-    background-color: hsla(0, 0%, 98%, .8)
+    background-color: color(var(--white) a(.8))
 }
 
 .bgc\:w\.7 {
-    background-color: hsla(0, 0%, 98%, .7)
+    background-color: color(var(--white) a(.7))
 }
 
 .bgc\:w\.6 {
-    background-color: hsla(0, 0%, 98%, .6)
+    background-color: color(var(--white) a(.6))
 }
 
 .bgc\:w\.5 {
-    background-color: hsla(0, 0%, 98%, .5)
+    background-color: color(var(--white) a(.5))
 }
 
 .bgc\:w\.4 {
-    background-color: hsla(0, 0%, 98%, .4)
+    background-color: color(var(--white) a(.4))
 }
 
 .bgc\:w\.3 {
-    background-color: hsla(0, 0%, 98%, .3)
+    background-color: color(var(--white) a(.3))
 }
 
 .bgc\:w\.2 {
-    background-color: hsla(0, 0%, 98%, .2)
+    background-color: color(var(--white) a(.2))
 }
 
 .bgc\:w\.1 {
-    background-color: hsla(0, 0%, 98%, .1)
+    background-color: color(var(--white) a(.1))
 }
 
 .bgc\:b {
-    background-color: hsl(0, 0%, 15%)
+    background-color: var(--black)
 }
 
 .bgc\:b\.9 {
-    background-color: hsla(0, 0%, 15%, .9)
+    background-color: color(var(--black) a(.9))
 }
 
 .bgc\:b\.8 {
-    background-color: hsla(0, 0%, 15%, .8)
+    background-color: color(var(--black) a(.8))
 }
 
 .bgc\:b\.7 {
-    background-color: hsla(0, 0%, 15%, .7)
+    background-color: color(var(--black) a(.7))
 }
 
 .bgc\:b\.6 {
-    background-color: hsla(0, 0%, 15%, .6)
+    background-color: color(var(--black) a(.6))
 }
 
 .bgc\:b\.5 {
-    background-color: hsla(0, 0%, 15%, .5)
+    background-color: color(var(--black) a(.5))
 }
 
 .bgc\:b\.4 {
-    background-color: hsla(0, 0%, 15%, .4)
+    background-color: color(var(--black) a(.4))
 }
 
 .bgc\:b\.3 {
-    background-color: hsla(0, 0%, 15%, .3)
+    background-color: color(var(--black) a(.3))
 }
 
 .bgc\:b\.2 {
-    background-color: hsla(0, 0%, 15%, .2)
+    background-color: color(var(--black) a(.2))
 }
 
 .bgc\:b\.1 {
-    background-color: hsla(0, 0%, 15%, .1)
+    background-color: color(var(--black) a(.1))
 }
 
 .bgc\:b\.05 {
-    background-color: hsla(0, 0%, 15%, .05)
+    background-color: color(var(--black) a(.05))
 }
 
 .bgc\:b\.025 {
-    background-color: hsla(0, 0%, 15%, .025)
+    background-color: color(var(--black) a(.025))
 }

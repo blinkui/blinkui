@@ -1,53 +1,53 @@
 .bi\:red {
-    border-image: linear-gradient(15deg, hsl(350, 90%, 60%) 50%, hsl(30, 100%, 50%))
+    border-image: linear-gradient(15deg, var(--red) 50%, color(var(--orange) hue(-10deg)))
 }
 
 .bi\:orange {
-    border-image: linear-gradient(15deg, hsl(50, 100%, 50%) 50%, hsl(60, 90%, 65%))
+    border-image: linear-gradient(15deg, var(--orange) 50%, var(--yellow))
 }
 
 .bi\:yellow {
-    border-image: linear-gradient(195deg, hsl(60, 90%, 65%) 50%, hsl(50, 100%, 50%))
+    border-image: linear-gradient(195deg, var(--yellow) 50%, var(--orange))
 }
 
 .bi\:lime {
-    border-image: linear-gradient(15deg, hsl(80, 90%, 60%) 50%, hsl(60, 90%, 65%))
+    border-image: linear-gradient(15deg, var(--lime) 50%, var(--yellow))
 }
 
 .bi\:green {
-    border-image: linear-gradient(15deg, hsl(120, 70%, 60%) 50%, hsl(80, 90%, 60%))
+    border-image: linear-gradient(15deg, var(--green) 50%, var(--lime))
 }
 
 .bi\:teal {
-    border-image: linear-gradient(15deg, hsl(160, 80%, 60%) 50%, hsl(190, 85%, 70%))
+    border-image: linear-gradient(15deg, var(--teal) 50%, var(--cyan))
 }
 
 .bi\:cyan {
-    border-image: linear-gradient(15deg, hsl(190, 85%, 70%) 50%, hsl(160, 80%, 60%))
+    border-image: linear-gradient(15deg, var(--cyan) 50%, var(--teal))
 }
 
 .bi\:blue {
-    border-image: linear-gradient(15deg, hsl(220, 100%, 65%) 50%, hsl(160, 80%, 60%))
+    border-image: linear-gradient(15deg, var(--blue) 50%, var(--cyan))
 }
 
 .bi\:indigo {
-    border-image: linear-gradient(15deg, hsl(240, 70%, 60%) 50%, hsl(190, 85%, 70%))
+    border-image: linear-gradient(15deg, var(--indigo) 50%, var(--blue))
 }
 
 .bi\:purple {
-    border-image: linear-gradient(15deg, hsl(270, 70%, 60%) 50%, hsl(300, 85%, 75%))
+    border-image: linear-gradient(15deg, var(--purple) 50%, var(--violet))
 }
 
-.bi\:rose {
-    border-image: linear-gradient(195deg, hsl(300, 85%, 75%) 50%, hsl(330, 90%, 60%))
+.bi\:violet {
+    border-image: linear-gradient(15deg, var(--violet) 50%, var(--magenta))
 }
 
-.bi\:pink {
-    border-image: linear-gradient(15deg, hsl(330, 90%, 60%) 50%, hsl(300, 85%, 75%))
+.bi\:magenta {
+    border-image: linear-gradient(195deg, var(--magenta) 50%, var(--violet))
 }
 
 .bi\:brown {
-	border-image: linear-gradient(15deg, hsl(30, 60%, 45%) 50%, hsl(50, 100%, 50%))
+    border-image: linear-gradient(15deg, var(--brown) 50%, color(var(--orange) blackness(15%)))
 }
 
 [class*="bi\:"] {

@@ -1,35 +1,31 @@
-.zi\:1 {
-    z-index: 1
+.zi\:\-40 {
+    z-index: -40
 }
 
-.zi\:2 {
-    z-index: 2
+.zi\:\-30 {
+    z-index: -30
 }
 
-.zi\:3 {
-    z-index: 3
+.zi\:\-20 {
+    z-index: -20
 }
 
-.zi\:4 {
-    z-index: 4
+.zi\:\-10 {
+    z-index: -10
 }
 
-.zi\:5 {
-    z-index: 5
+.zi\:10 {
+    z-index: 10
 }
 
-.zi\:6 {
-    z-index: 6
+.zi\:20 {
+    z-index: 20
 }
 
-.zi\:7 {
-    z-index: 7
+.zi\:30 {
+    z-index: 30
 }
 
-.zi\:8 {
-    z-index: 8
-}
-
-.zi\:9 {
-    z-index: 9
+.zi\:40 {
+    z-index: 40
 }

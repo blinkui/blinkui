@@ -1,49 +1,53 @@
 .c\:red {
-    color: hsl(350, 90%, 60%)
+    color: var(--red)
 }
 
 .c\:orange {
-    color: hsl(50, 100%, 50%)
+    color: var(--orange)
 }
 
 .c\:yellow {
-    color: hsl(60, 90%, 65%)
+    color: var(--yellow)
 }
 
 .c\:lime {
-    color: hsl(80, 90%, 60%)
+    color: var(--lime)
 }
 
 .c\:green {
-    color: hsl(120, 70%, 60%)
+    color: var(--green)
 }
 
 .c\:teal {
-    color: hsl(160, 80%, 60%)
+    color: var(--teal)
 }
 
 .c\:cyan {
-    color: hsl(190, 85%, 70%)
+    color: var(--cyan)
 }
 
 .c\:blue {
-    color: hsl(220, 100%, 65%)
+    color: var(--blue)
 }
 
 .c\:indigo {
-    color: hsl(240, 70%, 60%)
+    color: var(--indigo)
 }
 
 .c\:purple {
-    color: hsl(270, 70%, 60%)
+    color: var(--purple)
 }
 
-.c\:rose {
-    color: hsl(300, 85%, 75%)
+.c\:violet {
+    color: var(--violet)
 }
 
-.c\:pink {
-    color: hsl(330, 90%, 60%)
+.c\:magenta {
+    color: var(--magenta)
+}
+
+.c\:brown {
+    color: var(--brown)
 }
 
 .c\:t {
@@ -51,89 +55,81 @@
 }
 
 .c\:w {
-    color: hsl(0, 0%, 98%)
+    color: var(--white)
 }
 
 .c\:w\.9 {
-    color: hsla(0, 0%, 98%, .9)
+    color: color(var(--white) a(.9))
 }
 
 .c\:w\.8 {
-    color: hsla(0, 0%, 98%, .8)
+    color: color(var(--white) a(.8))
 }
 
 .c\:w\.7 {
-    color: hsla(0, 0%, 98%, .7)
+    color: color(var(--white) a(.7))
 }
 
 .c\:w\.6 {
-    color: hsla(0, 0%, 98%, .6)
+    color: color(var(--white) a(.6))
 }
 
 .c\:w\.5 {
-    color: hsla(0, 0%, 98%, .5)
+    color: color(var(--white) a(.5))
 }
 
 .c\:w\.4 {
-    color: hsla(0, 0%, 98%, .4)
+    color: color(var(--white) a(.4))
 }
 
 .c\:w\.3 {
-    color: hsla(0, 0%, 98%, .3)
+    color: color(var(--white) a(.3))
 }
 
 .c\:w\.2 {
-    color: hsla(0, 0%, 98%, .2)
+    color: color(var(--white) a(.2))
 }
 
 .c\:w\.1 {
-    color: hsla(0, 0%, 98%, .1)
+    color: color(var(--white) a(.1))
 }
 
 .c\:b {
-    color: hsl(0, 0%, 15%)
+    color: var(--black)
 }
 
 .c\:b\.9 {
-    color: hsla(0, 0%, 15%, .9)
+    color: color(var(--black) a(.9))
 }
 
 .c\:b\.8 {
-    color: hsla(0, 0%, 15%, .8)
+    color: color(var(--black) a(.8))
 }
 
 .c\:b\.7 {
-    color: hsla(0, 0%, 15%, .7)
+    color: color(var(--black) a(.7))
 }
 
 .c\:b\.6 {
-    color: hsla(0, 0%, 15%, .6)
+    color: color(var(--black) a(.6))
 }
 
 .c\:b\.5 {
-    color: hsla(0, 0%, 15%, .5)
+    color: color(var(--black) a(.5))
 }
 
 .c\:b\.4 {
-    color: hsla(0, 0%, 15%, .4)
+    color: color(var(--black) a(.4))
 }
 
 .c\:b\.3 {
-    color: hsla(0, 0%, 15%, .3)
+    color: color(var(--black) a(.3))
 }
 
 .c\:b\.2 {
-    color: hsla(0, 0%, 15%, .2)
+    color: color(var(--black) a(.2))
 }
 
 .c\:b\.1 {
-    color: hsla(0, 0%, 15%, .1)
-}
-
-.c\:b\.05 {
-    color: hsla(0, 0%, 15%, .05)
-}
-
-.c\:b\.025 {
-    color: hsla(0, 0%, 15%, .025)
+    color: color(var(--black) a(.1))
 }

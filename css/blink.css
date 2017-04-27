@@ -40,6 +40,7 @@ html {
 body {
     min-height: 100%;
     font-size: 100%;
+    color: hsl(0, 0%, 15%);
 }
 
 
@@ -4263,48 +4264,43 @@ a {
 }
 
 
-.zi\:1 {
-    z-index: 1
+.zi\:\-40 {
+    z-index: -40
 }
 
 
-.zi\:2 {
-    z-index: 2
+.zi\:\-30 {
+    z-index: -30
 }
 
 
-.zi\:3 {
-    z-index: 3
+.zi\:\-20 {
+    z-index: -20
 }
 
 
-.zi\:4 {
-    z-index: 4
+.zi\:\-10 {
+    z-index: -10
 }
 
 
-.zi\:5 {
-    z-index: 5
+.zi\:10 {
+    z-index: 10
 }
 
 
-.zi\:6 {
-    z-index: 6
+.zi\:20 {
+    z-index: 20
 }
 
 
-.zi\:7 {
-    z-index: 7
+.zi\:30 {
+    z-index: 30
 }
 
 
-.zi\:8 {
-    z-index: 8
-}
-
-
-.zi\:9 {
-    z-index: 9
+.zi\:40 {
+    z-index: 40
 }
 
 
@@ -5851,17 +5847,22 @@ a {
 
 
 .c\:purple {
+    color: hsl(250, 70%, 60%)
+}
+
+
+.c\:violet {
     color: hsl(270, 70%, 60%)
 }
 
 
-.c\:rose {
-    color: hsl(300, 85%, 75%)
+.c\:magenta {
+    color: hsl(330, 90%, 60%)
 }
 
 
-.c\:pink {
-    color: hsl(330, 90%, 60%)
+.c\:brown {
+    color: hsl(30, 60%, 45%)
 }
 
 
@@ -5876,47 +5877,47 @@ a {
 
 
 .c\:w\.9 {
-    color: hsla(0, 0%, 98%, .9)
+    color: rgba(250, 250, 250, 0.9)
 }
 
 
 .c\:w\.8 {
-    color: hsla(0, 0%, 98%, .8)
+    color: rgba(250, 250, 250, 0.8)
 }
 
 
 .c\:w\.7 {
-    color: hsla(0, 0%, 98%, .7)
+    color: rgba(250, 250, 250, 0.7)
 }
 
 
 .c\:w\.6 {
-    color: hsla(0, 0%, 98%, .6)
+    color: rgba(250, 250, 250, 0.6)
 }
 
 
 .c\:w\.5 {
-    color: hsla(0, 0%, 98%, .5)
+    color: rgba(250, 250, 250, 0.5)
 }
 
 
 .c\:w\.4 {
-    color: hsla(0, 0%, 98%, .4)
+    color: rgba(250, 250, 250, 0.4)
 }
 
 
 .c\:w\.3 {
-    color: hsla(0, 0%, 98%, .3)
+    color: rgba(250, 250, 250, 0.3)
 }
 
 
 .c\:w\.2 {
-    color: hsla(0, 0%, 98%, .2)
+    color: rgba(250, 250, 250, 0.2)
 }
 
 
 .c\:w\.1 {
-    color: hsla(0, 0%, 98%, .1)
+    color: rgba(250, 250, 250, 0.1)
 }
 
 
@@ -5926,57 +5927,47 @@ a {
 
 
 .c\:b\.9 {
-    color: hsla(0, 0%, 15%, .9)
+    color: rgba(38, 38, 38, 0.9)
 }
 
 
 .c\:b\.8 {
-    color: hsla(0, 0%, 15%, .8)
+    color: rgba(38, 38, 38, 0.8)
 }
 
 
 .c\:b\.7 {
-    color: hsla(0, 0%, 15%, .7)
+    color: rgba(38, 38, 38, 0.7)
 }
 
 
 .c\:b\.6 {
-    color: hsla(0, 0%, 15%, .6)
+    color: rgba(38, 38, 38, 0.6)
 }
 
 
 .c\:b\.5 {
-    color: hsla(0, 0%, 15%, .5)
+    color: rgba(38, 38, 38, 0.5)
 }
 
 
 .c\:b\.4 {
-    color: hsla(0, 0%, 15%, .4)
+    color: rgba(38, 38, 38, 0.4)
 }
 
 
 .c\:b\.3 {
-    color: hsla(0, 0%, 15%, .3)
+    color: rgba(38, 38, 38, 0.3)
 }
 
 
 .c\:b\.2 {
-    color: hsla(0, 0%, 15%, .2)
+    color: rgba(38, 38, 38, 0.2)
 }
 
 
 .c\:b\.1 {
-    color: hsla(0, 0%, 15%, .1)
-}
-
-
-.c\:b\.05 {
-    color: hsla(0, 0%, 15%, .05)
-}
-
-
-.c\:b\.025 {
-    color: hsla(0, 0%, 15%, .025)
+    color: rgba(38, 38, 38, 0.1)
 }
 
 
@@ -6026,16 +6017,16 @@ a {
 
 
 .bgc\:purple {
+    background-color: hsl(250, 70%, 60%)
+}
+
+
+.bgc\:violet {
     background-color: hsl(270, 70%, 60%)
 }
 
 
-.bgc\:rose {
-    background-color: hsl(300, 85%, 75%)
-}
-
-
-.bgc\:pink {
+.bgc\:magenta {
     background-color: hsl(330, 90%, 60%)
 }
 
@@ -6056,47 +6047,47 @@ a {
 
 
 .bgc\:w\.9 {
-    background-color: hsla(0, 0%, 98%, .9)
+    background-color: rgba(250, 250, 250, 0.9)
 }
 
 
 .bgc\:w\.8 {
-    background-color: hsla(0, 0%, 98%, .8)
+    background-color: rgba(250, 250, 250, 0.8)
 }
 
 
 .bgc\:w\.7 {
-    background-color: hsla(0, 0%, 98%, .7)
+    background-color: rgba(250, 250, 250, 0.7)
 }
 
 
 .bgc\:w\.6 {
-    background-color: hsla(0, 0%, 98%, .6)
+    background-color: rgba(250, 250, 250, 0.6)
 }
 
 
 .bgc\:w\.5 {
-    background-color: hsla(0, 0%, 98%, .5)
+    background-color: rgba(250, 250, 250, 0.5)
 }
 
 
 .bgc\:w\.4 {
-    background-color: hsla(0, 0%, 98%, .4)
+    background-color: rgba(250, 250, 250, 0.4)
 }
 
 
 .bgc\:w\.3 {
-    background-color: hsla(0, 0%, 98%, .3)
+    background-color: rgba(250, 250, 250, 0.3)
 }
 
 
 .bgc\:w\.2 {
-    background-color: hsla(0, 0%, 98%, .2)
+    background-color: rgba(250, 250, 250, 0.2)
 }
 
 
 .bgc\:w\.1 {
-    background-color: hsla(0, 0%, 98%, .1)
+    background-color: rgba(250, 250, 250, 0.1)
 }
 
 
@@ -6106,57 +6097,57 @@ a {
 
 
 .bgc\:b\.9 {
-    background-color: hsla(0, 0%, 15%, .9)
+    background-color: rgba(38, 38, 38, 0.9)
 }
 
 
 .bgc\:b\.8 {
-    background-color: hsla(0, 0%, 15%, .8)
+    background-color: rgba(38, 38, 38, 0.8)
 }
 
 
 .bgc\:b\.7 {
-    background-color: hsla(0, 0%, 15%, .7)
+    background-color: rgba(38, 38, 38, 0.7)
 }
 
 
 .bgc\:b\.6 {
-    background-color: hsla(0, 0%, 15%, .6)
+    background-color: rgba(38, 38, 38, 0.6)
 }
 
 
 .bgc\:b\.5 {
-    background-color: hsla(0, 0%, 15%, .5)
+    background-color: rgba(38, 38, 38, 0.5)
 }
 
 
 .bgc\:b\.4 {
-    background-color: hsla(0, 0%, 15%, .4)
+    background-color: rgba(38, 38, 38, 0.4)
 }
 
 
 .bgc\:b\.3 {
-    background-color: hsla(0, 0%, 15%, .3)
+    background-color: rgba(38, 38, 38, 0.3)
 }
 
 
 .bgc\:b\.2 {
-    background-color: hsla(0, 0%, 15%, .2)
+    background-color: rgba(38, 38, 38, 0.2)
 }
 
 
 .bgc\:b\.1 {
-    background-color: hsla(0, 0%, 15%, .1)
+    background-color: rgba(38, 38, 38, 0.1)
 }
 
 
 .bgc\:b\.05 {
-    background-color: hsla(0, 0%, 15%, .05)
+    background-color: rgba(38, 38, 38, 0.05)
 }
 
 
 .bgc\:b\.025 {
-    background-color: hsla(0, 0%, 15%, .025)
+    background-color: rgba(38, 38, 38, 0.025)
 }
 
 
@@ -6206,16 +6197,16 @@ a {
 
 
 .bc\:purple {
+    border-color: hsl(250, 70%, 60%)
+}
+
+
+.bc\:violet {
     border-color: hsl(270, 70%, 60%)
 }
 
 
-.bc\:rose {
-    border-color: hsl(300, 85%, 75%)
-}
-
-
-.bc\:pink {
+.bc\:magenta {
     border-color: hsl(330, 90%, 60%)
 }
 
@@ -6236,47 +6227,47 @@ a {
 
 
 .bc\:w\.9 {
-    border-color: hsla(0, 0%, 98%, .9)
+    border-color: rgba(250, 250, 250, 0.9)
 }
 
 
 .bc\:w\.8 {
-    border-color: hsla(0, 0%, 98%, .8)
+    border-color: rgba(250, 250, 250, 0.8)
 }
 
 
 .bc\:w\.7 {
-    border-color: hsla(0, 0%, 98%, .7)
+    border-color: rgba(250, 250, 250, 0.7)
 }
 
 
 .bc\:w\.6 {
-    border-color: hsla(0, 0%, 98%, .6)
+    border-color: rgba(250, 250, 250, 0.6)
 }
 
 
 .bc\:w\.5 {
-    border-color: hsla(0, 0%, 98%, .5)
+    border-color: rgba(250, 250, 250, 0.5)
 }
 
 
 .bc\:w\.4 {
-    border-color: hsla(0, 0%, 98%, .4)
+    border-color: rgba(250, 250, 250, 0.4)
 }
 
 
 .bc\:w\.3 {
-    border-color: hsla(0, 0%, 98%, .3)
+    border-color: rgba(250, 250, 250, 0.3)
 }
 
 
 .bc\:w\.2 {
-    border-color: hsla(0, 0%, 98%, .2)
+    border-color: rgba(250, 250, 250, 0.2)
 }
 
 
 .bc\:w\.1 {
-    border-color: hsla(0, 0%, 98%, .1)
+    border-color: rgba(250, 250, 250, 0.1)
 }
 
 
@@ -6286,57 +6277,47 @@ a {
 
 
 .bc\:b\.9 {
-    border-color: hsla(0, 0%, 15%, .9)
+    border-color: rgba(38, 38, 38, 0.9)
 }
 
 
 .bc\:b\.8 {
-    border-color: hsla(0, 0%, 15%, .8)
+    border-color: rgba(38, 38, 38, 0.8)
 }
 
 
 .bc\:b\.7 {
-    border-color: hsla(0, 0%, 15%, .7)
+    border-color: rgba(38, 38, 38, 0.7)
 }
 
 
 .bc\:b\.6 {
-    border-color: hsla(0, 0%, 15%, .6)
+    border-color: rgba(38, 38, 38, 0.6)
 }
 
 
 .bc\:b\.5 {
-    border-color: hsla(0, 0%, 15%, .5)
+    border-color: rgba(38, 38, 38, 0.5)
 }
 
 
 .bc\:b\.4 {
-    border-color: hsla(0, 0%, 15%, .4)
+    border-color: rgba(38, 38, 38, 0.4)
 }
 
 
 .bc\:b\.3 {
-    border-color: hsla(0, 0%, 15%, .3)
+    border-color: rgba(38, 38, 38, 0.3)
 }
 
 
 .bc\:b\.2 {
-    border-color: hsla(0, 0%, 15%, .2)
+    border-color: rgba(38, 38, 38, 0.2)
 }
 
 
 .bc\:b\.1 {
-    border-color: hsla(0, 0%, 15%, .1)
-}
-
-
-.bc\:b\.05 {
-    border-color: hsla(0, 0%, 15%, .05)
-}
-
-
-.bc\:b\.025 {
-    border-color: hsla(0, 0%, 15%, .025)
+    border-color: rgba(38, 38, 38, 0.1)
 }
 
 
@@ -6344,7 +6325,7 @@ a {
 
 
 .bgi\:red {
-    background-image: linear-gradient(15deg, hsl(350, 90%, 60%) 50%, hsl(30, 100%, 50%))
+    background-image: linear-gradient(15deg, hsl(350, 90%, 60%) 50%, rgb(255, 170, 0))
 }
 
 
@@ -6379,38 +6360,78 @@ a {
 
 
 .bgi\:blue {
-    background-image: linear-gradient(15deg, hsl(220, 100%, 65%) 50%, hsl(160, 80%, 60%))
+    background-image: linear-gradient(15deg, hsl(220, 100%, 65%) 50%, hsl(190, 85%, 70%))
 }
 
 
 .bgi\:indigo {
-    background-image: linear-gradient(15deg, hsl(240, 70%, 60%) 50%, hsl(190, 85%, 70%))
+    background-image: linear-gradient(15deg, hsl(240, 70%, 60%) 50%, hsl(220, 100%, 65%))
 }
 
 
 .bgi\:purple {
-    background-image: linear-gradient(15deg, hsl(270, 70%, 60%) 50%, hsl(300, 85%, 75%))
+    background-image: linear-gradient(15deg, hsl(250, 70%, 60%) 50%, hsl(270, 70%, 60%))
 }
 
 
-.bgi\:rose {
-    background-image: linear-gradient(195deg, hsl(300, 85%, 75%) 50%, hsl(330, 90%, 60%))
+.bgi\:violet {
+    background-image: linear-gradient(15deg, hsl(270, 70%, 60%) 50%, hsl(330, 90%, 60%))
 }
 
 
-.bgi\:pink {
-    background-image: linear-gradient(15deg, hsl(330, 90%, 60%) 50%, hsl(300, 85%, 75%))
+.bgi\:magenta {
+    background-image: linear-gradient(195deg, hsl(330, 90%, 60%) 50%, hsl(270, 70%, 60%))
 }
 
 
 .bgi\:brown {
-	background-image: linear-gradient(15deg, hsl(30, 60%, 45%) 50%, hsl(50, 100%, 50%))
+    background-image: linear-gradient(15deg, hsl(30, 60%, 45%) 50%, rgb(217, 181, 0))
+}
+
+
+.bgi\:b\.25 {
+    background-image: linear-gradient(0deg, rgba(38, 38, 38, 0.25), rgba(38, 38, 38, 0) 50%)
+}
+
+
+.bgi\:b\.5 {
+    background-image: linear-gradient(0deg, rgba(38, 38, 38, 0.5), rgba(38, 38, 38, 0) 50%)
+}
+
+
+.bgi\:b\.75 {
+    background-image: linear-gradient(0deg, rgba(38, 38, 38, 0.75), rgba(38, 38, 38, 0) 50%)
+}
+
+
+.bgi\:b {
+    background-image: linear-gradient(0deg, hsl(0, 0%, 15%), rgba(38, 38, 38, 0) 50%)
+}
+
+
+.bgi\:w\.25 {
+    background-image: linear-gradient(0deg, rgba(250, 250, 250, 0.25), rgba(250, 250, 250, 0) 50%)
+}
+
+
+.bgi\:w\.5 {
+    background-image: linear-gradient(0deg, rgba(250, 250, 250, 0.5), rgba(250, 250, 250, 0) 50%)
+}
+
+
+.bgi\:w\.75 {
+    background-image: linear-gradient(0deg, rgba(250, 250, 250, 0.75), rgba(250, 250, 250, 0) 50%)
+}
+
+
+.bgi\:w {
+    background-image: linear-gradient(0deg, hsl(0, 0%, 98%), rgba(250, 250, 250, 0) 50%)
 }
 
 
 .bi\:red {
-    -o-border-image: linear-gradient(15deg, hsl(350, 90%, 60%) 50%, hsl(30, 100%, 50%));
-       border-image: linear-gradient(15deg, hsl(350, 90%, 60%) 50%, hsl(30, 100%, 50%))
+    -o-border-image: linear-gradient(15deg, hsl(350, 90%, 60%) 50%, rgb(255, 170, 0));
+       border-image: linear-gradient(15deg, hsl(350, 90%, 60%) 50%, rgb(255, 170, 0))
 }
 
 
@@ -6451,38 +6472,38 @@ a {
 
 
 .bi\:blue {
-    -o-border-image: linear-gradient(15deg, hsl(220, 100%, 65%) 50%, hsl(160, 80%, 60%));
-       border-image: linear-gradient(15deg, hsl(220, 100%, 65%) 50%, hsl(160, 80%, 60%))
+    -o-border-image: linear-gradient(15deg, hsl(220, 100%, 65%) 50%, hsl(190, 85%, 70%));
+       border-image: linear-gradient(15deg, hsl(220, 100%, 65%) 50%, hsl(190, 85%, 70%))
 }
 
 
 .bi\:indigo {
-    -o-border-image: linear-gradient(15deg, hsl(240, 70%, 60%) 50%, hsl(190, 85%, 70%));
-       border-image: linear-gradient(15deg, hsl(240, 70%, 60%) 50%, hsl(190, 85%, 70%))
+    -o-border-image: linear-gradient(15deg, hsl(240, 70%, 60%) 50%, hsl(220, 100%, 65%));
+       border-image: linear-gradient(15deg, hsl(240, 70%, 60%) 50%, hsl(220, 100%, 65%))
 }
 
 
 .bi\:purple {
-    -o-border-image: linear-gradient(15deg, hsl(270, 70%, 60%) 50%, hsl(300, 85%, 75%));
-       border-image: linear-gradient(15deg, hsl(270, 70%, 60%) 50%, hsl(300, 85%, 75%))
+    -o-border-image: linear-gradient(15deg, hsl(250, 70%, 60%) 50%, hsl(270, 70%, 60%));
+       border-image: linear-gradient(15deg, hsl(250, 70%, 60%) 50%, hsl(270, 70%, 60%))
 }
 
 
-.bi\:rose {
-    -o-border-image: linear-gradient(195deg, hsl(300, 85%, 75%) 50%, hsl(330, 90%, 60%));
-       border-image: linear-gradient(195deg, hsl(300, 85%, 75%) 50%, hsl(330, 90%, 60%))
+.bi\:violet {
+    -o-border-image: linear-gradient(15deg, hsl(270, 70%, 60%) 50%, hsl(330, 90%, 60%));
+       border-image: linear-gradient(15deg, hsl(270, 70%, 60%) 50%, hsl(330, 90%, 60%))
 }
 
 
-.bi\:pink {
-    -o-border-image: linear-gradient(15deg, hsl(330, 90%, 60%) 50%, hsl(300, 85%, 75%));
-       border-image: linear-gradient(15deg, hsl(330, 90%, 60%) 50%, hsl(300, 85%, 75%))
+.bi\:magenta {
+    -o-border-image: linear-gradient(195deg, hsl(330, 90%, 60%) 50%, hsl(270, 70%, 60%));
+       border-image: linear-gradient(195deg, hsl(330, 90%, 60%) 50%, hsl(270, 70%, 60%))
 }
 
 
 .bi\:brown {
-	-o-border-image: linear-gradient(15deg, hsl(30, 60%, 45%) 50%, hsl(50, 100%, 50%));
-	   border-image: linear-gradient(15deg, hsl(30, 60%, 45%) 50%, hsl(50, 100%, 50%))
+    -o-border-image: linear-gradient(15deg, hsl(30, 60%, 45%) 50%, rgb(217, 181, 0));
+       border-image: linear-gradient(15deg, hsl(30, 60%, 45%) 50%, rgb(217, 181, 0))
 }
 
 

@@ -2,6 +2,21 @@
     --sansfont: system-ui;
     --seriffont: "Palatino Linotype", "Book Antiqua", Palatino, serif;
     --monofont: 'Roboto Mono', 'Source Code Pro', Menlo, Consolas, 'Liberation Mono', monospace;
+    --red: hsl(350, 90%, 60%);
+    --orange: hsl(50, 100%, 50%);
+    --yellow: hsl(60, 90%, 65%);
+    --lime: hsl(80, 90%, 60%);
+    --green: hsl(120, 70%, 60%);
+    --teal: hsl(160, 80%, 60%);
+    --cyan: hsl(190, 85%, 70%);
+    --blue: hsl(220, 100%, 65%);
+    --indigo: hsl(240, 70%, 60%);
+    --purple: hsl(250, 70%, 60%);
+    --violet: hsl(270, 70%, 60%);
+    --magenta: hsl(330, 90%, 60%);
+    --brown: hsl(30, 60%, 45%);
+    --white: hsl(0, 0%, 98%);
+    --black: hsl(0, 0%, 15%);
 }
 
 html {
@@ -37,6 +52,7 @@ html {
 body {
     min-height: 100%;
     font-size: 100%;
+    color: var(--black);
 }
 
 img, video, audio, iframe {

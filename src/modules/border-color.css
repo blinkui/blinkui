@@ -1,53 +1,53 @@
 .bc\:red {
-    border-color: hsl(350, 90%, 60%)
+    border-color: var(--red)
 }
 
 .bc\:orange {
-    border-color: hsl(50, 100%, 50%)
+    border-color: var(--orange)
 }
 
 .bc\:yellow {
-    border-color: hsl(60, 90%, 65%)
+    border-color: var(--yellow)
 }
 
 .bc\:lime {
-    border-color: hsl(80, 90%, 60%)
+    border-color: var(--lime)
 }
 
 .bc\:green {
-    border-color: hsl(120, 70%, 60%)
+    border-color: var(--green)
 }
 
 .bc\:teal {
-    border-color: hsl(160, 80%, 60%)
+    border-color: var(--teal)
 }
 
 .bc\:cyan {
-    border-color: hsl(190, 85%, 70%)
+    border-color: var(--cyan)
 }
 
 .bc\:blue {
-    border-color: hsl(220, 100%, 65%)
+    border-color: var(--blue)
 }
 
 .bc\:indigo {
-    border-color: hsl(240, 70%, 60%)
+    border-color: var(--indigo)
 }
 
 .bc\:purple {
-    border-color: hsl(270, 70%, 60%)
+    border-color: var(--purple)
 }
 
-.bc\:rose {
-    border-color: hsl(300, 85%, 75%)
+.bc\:violet {
+    border-color: var(--violet)
 }
 
-.bc\:pink {
-    border-color: hsl(330, 90%, 60%)
+.bc\:magenta {
+    border-color: var(--magenta)
 }
 
 .bc\:brown {
-    border-color: hsl(30, 60%, 45%)
+    border-color: var(--brown)
 }
 
 .bc\:t {
@@ -55,89 +55,81 @@
 }
 
 .bc\:w {
-    border-color: hsl(0, 0%, 98%)
+    border-color: var(--white)
 }
 
 .bc\:w\.9 {
-    border-color: hsla(0, 0%, 98%, .9)
+    border-color: color(var(--white) a(.9))
 }
 
 .bc\:w\.8 {
-    border-color: hsla(0, 0%, 98%, .8)
+    border-color: color(var(--white) a(.8))
 }
 
 .bc\:w\.7 {
-    border-color: hsla(0, 0%, 98%, .7)
+    border-color: color(var(--white) a(.7))
 }
 
 .bc\:w\.6 {
-    border-color: hsla(0, 0%, 98%, .6)
+    border-color: color(var(--white) a(.6))
 }
 
 .bc\:w\.5 {
-    border-color: hsla(0, 0%, 98%, .5)
+    border-color: color(var(--white) a(.5))
 }
 
 .bc\:w\.4 {
-    border-color: hsla(0, 0%, 98%, .4)
+    border-color: color(var(--white) a(.4))
 }
 
 .bc\:w\.3 {
-    border-color: hsla(0, 0%, 98%, .3)
+    border-color: color(var(--white) a(.3))
 }
 
 .bc\:w\.2 {
-    border-color: hsla(0, 0%, 98%, .2)
+    border-color: color(var(--white) a(.2))
 }
 
 .bc\:w\.1 {
-    border-color: hsla(0, 0%, 98%, .1)
+    border-color: color(var(--white) a(.1))
 }
 
 .bc\:b {
-    border-color: hsl(0, 0%, 15%)
+    border-color: var(--black)
 }
 
 .bc\:b\.9 {
-    border-color: hsla(0, 0%, 15%, .9)
+    border-color: color(var(--black) a(.9))
 }
 
 .bc\:b\.8 {
-    border-color: hsla(0, 0%, 15%, .8)
+    border-color: color(var(--black) a(.8))
 }
 
 .bc\:b\.7 {
-    border-color: hsla(0, 0%, 15%, .7)
+    border-color: color(var(--black) a(.7))
 }
 
 .bc\:b\.6 {
-    border-color: hsla(0, 0%, 15%, .6)
+    border-color: color(var(--black) a(.6))
 }
 
 .bc\:b\.5 {
-    border-color: hsla(0, 0%, 15%, .5)
+    border-color: color(var(--black) a(.5))
 }
 
 .bc\:b\.4 {
-    border-color: hsla(0, 0%, 15%, .4)
+    border-color: color(var(--black) a(.4))
 }
 
 .bc\:b\.3 {
-    border-color: hsla(0, 0%, 15%, .3)
+    border-color: color(var(--black) a(.3))
 }
 
 .bc\:b\.2 {
-    border-color: hsla(0, 0%, 15%, .2)
+    border-color: color(var(--black) a(.2))
 }
 
 .bc\:b\.1 {
-    border-color: hsla(0, 0%, 15%, .1)
-}
-
-.bc\:b\.05 {
-    border-color: hsla(0, 0%, 15%, .05)
-}
-
-.bc\:b\.025 {
-    border-color: hsla(0, 0%, 15%, .025)
+    border-color: color(var(--black) a(.1))
 }
