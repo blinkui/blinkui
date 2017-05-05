@@ -1,112 +1,112 @@
 .fs\:\.75r {
-    font-size: .75rem
+  font-size: .75rem
 }
 
 .fs\:\.875r {
-    font-size: .875rem
+  font-size: .875rem
 }
 
 .fs\:1r {
-    font-size: 1rem
+  font-size: 1rem
 }
 
 .fs\:1\.5r {
-    font-size: 1.5rem
+  font-size: 1.5rem
 }
 
 .fs\:2r {
-    font-size: 2rem
+  font-size: 2rem
 }
 
 .fs\:4r {
-    font-size: 4rem
+  font-size: 4rem
 }
 
 .fs\:8r {
-    font-size: 8rem
+  font-size: 8rem
 }
 
 .fs\:16r {
-    font-size: 16rem
+  font-size: 16rem
 }
 
 @media screen and (min-width: 40rem) {
-    .fs\:\.75r\@M {
-        font-size: .75rem
-    }
-    .fs\:\.875r\@M {
-        font-size: .875rem
-    }
-    .fs\:1r\@M {
-        font-size: 1rem
-    }
-    .fs\:1\.5r\@M {
-        font-size: 1.5rem
-    }
-    .fs\:2r\@M {
-        font-size: 2rem
-    }
-    .fs\:4r\@M {
-        font-size: 4rem
-    }
-    .fs\:8r\@M {
-        font-size: 8rem
-    }
-    .fs\:16r\@M {
-        font-size: 16rem
-    }
+  .fs\:\.75r\@M {
+    font-size: .75rem
+  }
+  .fs\:\.875r\@M {
+    font-size: .875rem
+  }
+  .fs\:1r\@M {
+    font-size: 1rem
+  }
+  .fs\:1\.5r\@M {
+    font-size: 1.5rem
+  }
+  .fs\:2r\@M {
+    font-size: 2rem
+  }
+  .fs\:4r\@M {
+    font-size: 4rem
+  }
+  .fs\:8r\@M {
+    font-size: 8rem
+  }
+  .fs\:16r\@M {
+    font-size: 16rem
+  }
 }
 
 @media screen and (min-width: 60rem) {
-    .fs\:\.75r\@L {
-        font-size: .75rem
-    }
-    .fs\:\.875r\@L {
-        font-size: .875rem
-    }
-    .fs\:1r\@L {
-        font-size: 1rem
-    }
-    .fs\:1\.5r\@L {
-        font-size: 1.5rem
-    }
-    .fs\:2r\@L {
-        font-size: 2rem
-    }
-    .fs\:4r\@L {
-        font-size: 4rem
-    }
-    .fs\:8r\@L {
-        font-size: 8rem
-    }
-    .fs\:16r\@L {
-        font-size: 16rem
-    }
+  .fs\:\.75r\@L {
+    font-size: .75rem
+  }
+  .fs\:\.875r\@L {
+    font-size: .875rem
+  }
+  .fs\:1r\@L {
+    font-size: 1rem
+  }
+  .fs\:1\.5r\@L {
+    font-size: 1.5rem
+  }
+  .fs\:2r\@L {
+    font-size: 2rem
+  }
+  .fs\:4r\@L {
+    font-size: 4rem
+  }
+  .fs\:8r\@L {
+    font-size: 8rem
+  }
+  .fs\:16r\@L {
+    font-size: 16rem
+  }
 }
 
 @media screen and (min-width: 80rem) {
-    .fs\:\.75r\@XL {
-        font-size: .75rem
-    }
-    .fs\:\.875r\@XL {
-        font-size: .875rem
-    }
-    .fs\:1r\@XL {
-        font-size: 1rem
-    }
-    .fs\:1\.5r\@XL {
-        font-size: 1.5rem
-    }
-    .fs\:2r\@XL {
-        font-size: 2rem
-    }
-    .fs\:4r\@XL {
-        font-size: 4rem
-    }
-    .fs\:8r\@XL {
-        font-size: 8rem
-    }
-    .fs\:16r\@XL {
-        font-size: 16rem
-    }
+  .fs\:\.75r\@XL {
+    font-size: .75rem
+  }
+  .fs\:\.875r\@XL {
+    font-size: .875rem
+  }
+  .fs\:1r\@XL {
+    font-size: 1rem
+  }
+  .fs\:1\.5r\@XL {
+    font-size: 1.5rem
+  }
+  .fs\:2r\@XL {
+    font-size: 2rem
+  }
+  .fs\:4r\@XL {
+    font-size: 4rem
+  }
+  .fs\:8r\@XL {
+    font-size: 8rem
+  }
+  .fs\:16r\@XL {
+    font-size: 16rem
+  }
 }

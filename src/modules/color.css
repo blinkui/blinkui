@@ -1,135 +1,135 @@
 .c\:red {
-    color: var(--red)
+  color: var(--red)
 }
 
 .c\:orange {
-    color: var(--orange)
+  color: var(--orange)
 }
 
 .c\:yellow {
-    color: var(--yellow)
+  color: var(--yellow)
 }
 
 .c\:lime {
-    color: var(--lime)
+  color: var(--lime)
 }
 
 .c\:green {
-    color: var(--green)
+  color: var(--green)
 }
 
 .c\:teal {
-    color: var(--teal)
+  color: var(--teal)
 }
 
 .c\:cyan {
-    color: var(--cyan)
+  color: var(--cyan)
 }
 
 .c\:blue {
-    color: var(--blue)
+  color: var(--blue)
 }
 
 .c\:indigo {
-    color: var(--indigo)
+  color: var(--indigo)
 }
 
 .c\:purple {
-    color: var(--purple)
+  color: var(--purple)
 }
 
 .c\:violet {
-    color: var(--violet)
+  color: var(--violet)
 }
 
 .c\:magenta {
-    color: var(--magenta)
+  color: var(--magenta)
 }
 
 .c\:brown {
-    color: var(--brown)
+  color: var(--brown)
 }
 
 .c\:t {
-    color: transparent
+  color: transparent
 }
 
 .c\:w {
-    color: var(--white)
+  color: var(--white)
 }
 
 .c\:w\.9 {
-    color: color(var(--white) a(.9))
+  color: color(var(--white) a(.9))
 }
 
 .c\:w\.8 {
-    color: color(var(--white) a(.8))
+  color: color(var(--white) a(.8))
 }
 
 .c\:w\.7 {
-    color: color(var(--white) a(.7))
+  color: color(var(--white) a(.7))
 }
 
 .c\:w\.6 {
-    color: color(var(--white) a(.6))
+  color: color(var(--white) a(.6))
 }
 
 .c\:w\.5 {
-    color: color(var(--white) a(.5))
+  color: color(var(--white) a(.5))
 }
 
 .c\:w\.4 {
-    color: color(var(--white) a(.4))
+  color: color(var(--white) a(.4))
 }
 
 .c\:w\.3 {
-    color: color(var(--white) a(.3))
+  color: color(var(--white) a(.3))
 }
 
 .c\:w\.2 {
-    color: color(var(--white) a(.2))
+  color: color(var(--white) a(.2))
 }
 
 .c\:w\.1 {
-    color: color(var(--white) a(.1))
+  color: color(var(--white) a(.1))
 }
 
 .c\:b {
-    color: var(--black)
+  color: var(--black)
 }
 
 .c\:b\.9 {
-    color: color(var(--black) a(.9))
+  color: color(var(--black) a(.9))
 }
 
 .c\:b\.8 {
-    color: color(var(--black) a(.8))
+  color: color(var(--black) a(.8))
 }
 
 .c\:b\.7 {
-    color: color(var(--black) a(.7))
+  color: color(var(--black) a(.7))
 }
 
 .c\:b\.6 {
-    color: color(var(--black) a(.6))
+  color: color(var(--black) a(.6))
 }
 
 .c\:b\.5 {
-    color: color(var(--black) a(.5))
+  color: color(var(--black) a(.5))
 }
 
 .c\:b\.4 {
-    color: color(var(--black) a(.4))
+  color: color(var(--black) a(.4))
 }
 
 .c\:b\.3 {
-    color: color(var(--black) a(.3))
+  color: color(var(--black) a(.3))
 }
 
 .c\:b\.2 {
-    color: color(var(--black) a(.2))
+  color: color(var(--black) a(.2))
 }
 
 .c\:b\.1 {
-    color: color(var(--black) a(.1))
+  color: color(var(--black) a(.1))
 }

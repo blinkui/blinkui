@@ -1,86 +1,86 @@
 .lh\:\.875 {
-    line-height: .875
+  line-height: .875
 }
 
 .lh\:1 {
-    line-height: 1
+  line-height: 1
 }
 
 .lh\:1\.125 {
-    line-height: 1.125
+  line-height: 1.125
 }
 
 .lh\:1\.25 {
-    line-height: 1.25
+  line-height: 1.25
 }
 
 .lh\:1\.5 {
-    line-height: 1.5
+  line-height: 1.5
 }
 
 .lh\:1\.75 {
-    line-height: 1.75
+  line-height: 1.75
 }
 
 @media screen and (min-width: 40rem) {
-    .lh\:\.875\@M {
-        line-height: .875
-    }
-    .lh\:1\@M {
-        line-height: 1
-    }
-    .lh\:1\.125\@M {
-        line-height: 1.125
-    }
-    .lh\:1\.25\@M {
-        line-height: 1.25
-    }
-    .lh\:1\.5\@M {
-        line-height: 1.5
-    }
-    .lh\:1\.75\@M {
-        line-height: 1.75
-    }
+  .lh\:\.875\@M {
+    line-height: .875
+  }
+  .lh\:1\@M {
+    line-height: 1
+  }
+  .lh\:1\.125\@M {
+    line-height: 1.125
+  }
+  .lh\:1\.25\@M {
+    line-height: 1.25
+  }
+  .lh\:1\.5\@M {
+    line-height: 1.5
+  }
+  .lh\:1\.75\@M {
+    line-height: 1.75
+  }
 }
 
 @media screen and (min-width: 60rem) {
-    .lh\:\.875\@L {
-        line-height: .875
-    }
-    .lh\:1\@L {
-        line-height: 1
-    }
-    .lh\:1\.125\@L {
-        line-height: 1.125
-    }
-    .lh\:1\.25\@L {
-        line-height: 1.25
-    }
-    .lh\:1\.5\@L {
-        line-height: 1.5
-    }
-    .lh\:1\.75\@L {
-        line-height: 1.75
-    }
+  .lh\:\.875\@L {
+    line-height: .875
+  }
+  .lh\:1\@L {
+    line-height: 1
+  }
+  .lh\:1\.125\@L {
+    line-height: 1.125
+  }
+  .lh\:1\.25\@L {
+    line-height: 1.25
+  }
+  .lh\:1\.5\@L {
+    line-height: 1.5
+  }
+  .lh\:1\.75\@L {
+    line-height: 1.75
+  }
 }
 
 @media screen and (min-width: 80rem) {
-    .lh\:\.875\@XL {
-        line-height: .875
-    }
-    .lh\:1\@XL {
-        line-height: 1
-    }
-    .lh\:1\.125\@XL {
-        line-height: 1.125
-    }
-    .lh\:1\.25\@XL {
-        line-height: 1.25
-    }
-    .lh\:1\.5\@XL {
-        line-height: 1.5
-    }
-    .lh\:1\.75\@XL {
-        line-height: 1.75
-    }
+  .lh\:\.875\@XL {
+    line-height: .875
+  }
+  .lh\:1\@XL {
+    line-height: 1
+  }
+  .lh\:1\.125\@XL {
+    line-height: 1.125
+  }
+  .lh\:1\.25\@XL {
+    line-height: 1.25
+  }
+  .lh\:1\.5\@XL {
+    line-height: 1.5
+  }
+  .lh\:1\.75\@XL {
+    line-height: 1.75
+  }
 }

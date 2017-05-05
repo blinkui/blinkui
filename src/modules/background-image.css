@@ -1,83 +1,83 @@
 .bgi\:red {
-    background-image: linear-gradient(15deg, var(--red) 50%, color(var(--orange) hue(-10deg)))
+  background-image: linear-gradient(15deg, var(--red) 50%, color(var(--orange) hue(-10deg)))
 }
 
 .bgi\:orange {
-    background-image: linear-gradient(15deg, var(--orange) 50%, var(--yellow))
+  background-image: linear-gradient(15deg, var(--orange) 50%, var(--yellow))
 }
 
 .bgi\:yellow {
-    background-image: linear-gradient(195deg, var(--yellow) 50%, var(--orange))
+  background-image: linear-gradient(195deg, var(--yellow) 50%, var(--orange))
 }
 
 .bgi\:lime {
-    background-image: linear-gradient(15deg, var(--lime) 50%, var(--yellow))
+  background-image: linear-gradient(15deg, var(--lime) 50%, var(--yellow))
 }
 
 .bgi\:green {
-    background-image: linear-gradient(15deg, var(--green) 50%, var(--lime))
+  background-image: linear-gradient(15deg, var(--green) 50%, var(--lime))
 }
 
 .bgi\:teal {
-    background-image: linear-gradient(15deg, var(--teal) 50%, var(--cyan))
+  background-image: linear-gradient(15deg, var(--teal) 50%, var(--cyan))
 }
 
 .bgi\:cyan {
-    background-image: linear-gradient(15deg, var(--cyan) 50%, var(--teal))
+  background-image: linear-gradient(15deg, var(--cyan) 50%, var(--teal))
 }
 
 .bgi\:blue {
-    background-image: linear-gradient(15deg, var(--blue) 50%, var(--cyan))
+  background-image: linear-gradient(15deg, var(--blue) 50%, var(--cyan))
 }
 
 .bgi\:indigo {
-    background-image: linear-gradient(15deg, var(--indigo) 50%, var(--blue))
+  background-image: linear-gradient(15deg, var(--indigo) 50%, var(--blue))
 }
 
 .bgi\:purple {
-    background-image: linear-gradient(15deg, var(--purple) 50%, var(--violet))
+  background-image: linear-gradient(15deg, var(--purple) 50%, var(--violet))
 }
 
 .bgi\:violet {
-    background-image: linear-gradient(15deg, var(--violet) 50%, var(--magenta))
+  background-image: linear-gradient(15deg, var(--violet) 50%, var(--magenta))
 }
 
 .bgi\:magenta {
-    background-image: linear-gradient(195deg, var(--magenta) 50%, var(--violet))
+  background-image: linear-gradient(195deg, var(--magenta) 50%, var(--violet))
 }
 
 .bgi\:brown {
-    background-image: linear-gradient(15deg, var(--brown) 50%, color(var(--orange) blackness(15%)))
+  background-image: linear-gradient(15deg, var(--brown) 50%, color(var(--orange) blackness(15%)))
 }
 
 .bgi\:b\.25 {
-    background-image: linear-gradient(0deg, color(var(--black) a(.25)), color(var(--black) a(0)) 50%)
+  background-image: linear-gradient(0deg, color(var(--black) a(.25)), color(var(--black) a(0)) 50%)
 }
 
 .bgi\:b\.5 {
-    background-image: linear-gradient(0deg, color(var(--black) a(.5)), color(var(--black) a(0)) 50%)
+  background-image: linear-gradient(0deg, color(var(--black) a(.5)), color(var(--black) a(0)) 50%)
 }
 
 .bgi\:b\.75 {
-    background-image: linear-gradient(0deg, color(var(--black) a(.75)), color(var(--black) a(0)) 50%)
+  background-image: linear-gradient(0deg, color(var(--black) a(.75)), color(var(--black) a(0)) 50%)
 }
 
 .bgi\:b {
-    background-image: linear-gradient(0deg, var(--black), color(var(--black) a(0)) 50%)
+  background-image: linear-gradient(0deg, var(--black), color(var(--black) a(0)) 50%)
 }
 
 .bgi\:w\.25 {
-    background-image: linear-gradient(0deg, color(var(--white) a(.25)), color(var(--white) a(0)) 50%)
+  background-image: linear-gradient(0deg, color(var(--white) a(.25)), color(var(--white) a(0)) 50%)
 }
 
 .bgi\:w\.5 {
-    background-image: linear-gradient(0deg, color(var(--white) a(.5)), color(var(--white) a(0)) 50%)
+  background-image: linear-gradient(0deg, color(var(--white) a(.5)), color(var(--white) a(0)) 50%)
 }
 
 .bgi\:w\.75 {
-    background-image: linear-gradient(0deg, color(var(--white) a(.75)), color(var(--white) a(0)) 50%)
+  background-image: linear-gradient(0deg, color(var(--white) a(.75)), color(var(--white) a(0)) 50%)
 }
 
 .bgi\:w {
-    background-image: linear-gradient(0deg, var(--white), color(var(--white) a(0)) 50%)
+  background-image: linear-gradient(0deg, var(--white), color(var(--white) a(0)) 50%)
 }

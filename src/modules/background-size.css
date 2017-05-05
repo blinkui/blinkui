@@ -1,0 +1,11 @@
+.bgs\:a {
+  background-size: auto
+}
+
+.bgs\:contain {
+  background-size: contain
+}
+
+.bgs\:cover {
+  background-size: cover
+}

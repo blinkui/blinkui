@@ -1,73 +1,73 @@
 .ai\:b {
-    align-items: baseline
+  align-items: baseline
 }
 
 .ai\:fs {
-    align-items: flex-start
+  align-items: flex-start
 }
 
 .ai\:c {
-    align-items: center
+  align-items: center
 }
 
 .ai\:fe {
-    align-items: flex-end
+  align-items: flex-end
 }
 
 .ai\:s {
-    align-items: stretch
+  align-items: stretch
 }
 
 @media screen and (min-width: 40rem) {
-    .ai\:b\@M {
-        align-items: baseline
-    }
-    .ai\:fs\@M {
-        align-items: flex-start
-    }
-    .ai\:c\@M {
-        align-items: center
-    }
-    .ai\:fe\@M {
-        align-items: flex-end
-    }
-    .ai\:s\@M {
-        align-items: stretch
-    }
+  .ai\:b\@M {
+    align-items: baseline
+  }
+  .ai\:fs\@M {
+    align-items: flex-start
+  }
+  .ai\:c\@M {
+    align-items: center
+  }
+  .ai\:fe\@M {
+    align-items: flex-end
+  }
+  .ai\:s\@M {
+    align-items: stretch
+  }
 }
 
 @media screen and (min-width: 60rem) {
-    .ai\:b\@L {
-        align-items: baseline
-    }
-    .ai\:fs\@L {
-        align-items: flex-start
-    }
-    .ai\:c\@L {
-        align-items: center
-    }
-    .ai\:fe\@L {
-        align-items: flex-end
-    }
-    .ai\:s\@L {
-        align-items: stretch
-    }
+  .ai\:b\@L {
+    align-items: baseline
+  }
+  .ai\:fs\@L {
+    align-items: flex-start
+  }
+  .ai\:c\@L {
+    align-items: center
+  }
+  .ai\:fe\@L {
+    align-items: flex-end
+  }
+  .ai\:s\@L {
+    align-items: stretch
+  }
 }
 
 @media screen and (min-width: 80rem) {
-    .ai\:b\@XL {
-        align-items: baseline
-    }
-    .ai\:fs\@XL {
-        align-items: flex-start
-    }
-    .ai\:c\@XL {
-        align-items: center
-    }
-    .ai\:fe\@XL {
-        align-items: flex-end
-    }
-    .ai\:s\@XL {
-        align-items: stretch
-    }
+  .ai\:b\@XL {
+    align-items: baseline
+  }
+  .ai\:fs\@XL {
+    align-items: flex-start
+  }
+  .ai\:c\@XL {
+    align-items: center
+  }
+  .ai\:fe\@XL {
+    align-items: flex-end
+  }
+  .ai\:s\@XL {
+    align-items: stretch
+  }
 }

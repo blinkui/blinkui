@@ -1,7 +1,7 @@
 /* blink UI | MIT license | https://github.com/blinkui/blinkui */
 
 
-/* Base styles */
+/* BASE STYLES */
 
 @import "modules/_base.css";
 
@@ -36,6 +36,7 @@
 @import "modules/display.css";
 @import "modules/position.css";
 @import "modules/z-index.css";
+@import "modules/vertical-align.css";
 @import "modules/top.css";
 @import "modules/right.css";
 @import "modules/bottom.css";
@@ -72,14 +73,15 @@
 
 @import "modules/color.css";
 @import "modules/background-color.css";
+@import "modules/background-image.css";
 @import "modules/border-color.css";
+@import "modules/border-image.css";
 
 /* Backgrounds */
 
-@import "modules/background-image.css";
-@import "modules/border-image.css";
+@import "modules/background-size.css";
 
-/* Other */
+/* Misc. */
 
 @import "modules/opacity.css";
 @import "modules/opacity_hover.css";

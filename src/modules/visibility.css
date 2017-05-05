@@ -1,15 +1,15 @@
 .v\:v {
-    visibility: visible
+  visibility: visible
 }
 
 .v\:h {
-    visibility: hidden
+  visibility: hidden
 }
 
 .v\:c {
-    visibility: collapse
+  visibility: collapse
 }
 
 *:hover>.v\:v\:h {
-    visibility: visible
+  visibility: visible
 }

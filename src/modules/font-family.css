@@ -1,11 +1,11 @@
 .ff\:s {
-    font-family: var(--seriffont)
+  font-family: var(--seriffont)
 }
 
 .ff\:ss {
-    font-family: var(--sansfont)
+  font-family: var(--sansfont)
 }
 
 .ff\:m {
-    font-family: var(--monofont)
+  font-family: var(--monofont)
 }

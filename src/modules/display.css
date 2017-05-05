@@ -1,125 +1,125 @@
 .d\:b {
-    display: block
+  display: block
 }
 
 .d\:i {
-    display: inline
+  display: inline
 }
 
 .d\:ib {
-    display: inline-block
+  display: inline-block
 }
 
 .d\:n {
-    display: none
+  display: none
 }
 
 .d\:f {
-    display: flex
+  display: flex
 }
 
 .d\:if {
-    display: inline-flex
+  display: inline-flex
 }
 
 .d\:t {
-    display: table
+  display: table
 }
 
 .d\:tc {
-    display: table-cell
+  display: table-cell
 }
 
 .d\:tr {
-    display: table-row
+  display: table-row
 }
 
 @media screen and (min-width: 40rem) {
-    .d\:b\@M {
-        display: block
-    }
-    .d\:i\@M {
-        display: inline
-    }
-    .d\:ib\@M {
-        display: inline-block
-    }
-    .d\:n\@M {
-        display: none
-    }
-    .d\:f\@M {
-        display: flex
-    }
-    .d\:if\@M {
-        display: inline-flex
-    }
-    .d\:t\@M {
-        display: table
-    }
-    .d\:tc\@M {
-        display: table-cell
-    }
-    .d\:tr\@M {
-        display: table-row
-    }
+  .d\:b\@M {
+    display: block
+  }
+  .d\:i\@M {
+    display: inline
+  }
+  .d\:ib\@M {
+    display: inline-block
+  }
+  .d\:n\@M {
+    display: none
+  }
+  .d\:f\@M {
+    display: flex
+  }
+  .d\:if\@M {
+    display: inline-flex
+  }
+  .d\:t\@M {
+    display: table
+  }
+  .d\:tc\@M {
+    display: table-cell
+  }
+  .d\:tr\@M {
+    display: table-row
+  }
 }
 
 @media screen and (min-width: 60rem) {
-    .d\:b\@L {
-        display: block
-    }
-    .d\:i\@L {
-        display: inline
-    }
-    .d\:ib\@L {
-        display: inline-block
-    }
-    .d\:n\@L {
-        display: none
-    }
-    .d\:f\@L {
-        display: flex
-    }
-    .d\:if\@L {
-        display: inline-flex
-    }
-    .d\:t\@L {
-        display: table
-    }
-    .d\:tc\@L {
-        display: table-cell
-    }
-    .d\:tr\@L {
-        display: table-row
-    }
+  .d\:b\@L {
+    display: block
+  }
+  .d\:i\@L {
+    display: inline
+  }
+  .d\:ib\@L {
+    display: inline-block
+  }
+  .d\:n\@L {
+    display: none
+  }
+  .d\:f\@L {
+    display: flex
+  }
+  .d\:if\@L {
+    display: inline-flex
+  }
+  .d\:t\@L {
+    display: table
+  }
+  .d\:tc\@L {
+    display: table-cell
+  }
+  .d\:tr\@L {
+    display: table-row
+  }
 }
 
 @media screen and (min-width: 80rem) {
-    .d\:b\@XL {
-        display: block
-    }
-    .d\:i\@XL {
-        display: inline
-    }
-    .d\:ib\@XL {
-        display: inline-block
-    }
-    .d\:n\@XL {
-        display: none
-    }
-    .d\:f\@XL {
-        display: flex
-    }
-    .d\:if\@XL {
-        display: inline-flex
-    }
-    .d\:t\@XL {
-        display: table
-    }
-    .d\:tc\@XL {
-        display: table-cell
-    }
-    .d\:tr\@XL {
-        display: table-row
-    }
+  .d\:b\@XL {
+    display: block
+  }
+  .d\:i\@XL {
+    display: inline
+  }
+  .d\:ib\@XL {
+    display: inline-block
+  }
+  .d\:n\@XL {
+    display: none
+  }
+  .d\:f\@XL {
+    display: flex
+  }
+  .d\:if\@XL {
+    display: inline-flex
+  }
+  .d\:t\@XL {
+    display: table
+  }
+  .d\:tc\@XL {
+    display: table-cell
+  }
+  .d\:tr\@XL {
+    display: table-row
+  }
 }

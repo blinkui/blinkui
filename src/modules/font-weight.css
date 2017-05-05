@@ -1,177 +1,177 @@
 .fw\:i {
-    font-weight: initial
+  font-weight: initial
 }
 
 .fw\:l {
-    font-weight: lighter
+  font-weight: lighter
 }
 
 .fw\:n {
-    font-weight: normal
+  font-weight: normal
 }
 
 .fw\:b {
-    font-weight: bold
+  font-weight: bold
 }
 
 .fw\:100 {
-    font-weight: 100
+  font-weight: 100
 }
 
 .fw\:200 {
-    font-weight: 200
+  font-weight: 200
 }
 
 .fw\:300 {
-    font-weight: 300
+  font-weight: 300
 }
 
 .fw\:400 {
-    font-weight: 400
+  font-weight: 400
 }
 
 .fw\:500 {
-    font-weight: 500
+  font-weight: 500
 }
 
 .fw\:600 {
-    font-weight: 600
+  font-weight: 600
 }
 
 .fw\:700 {
-    font-weight: 700
+  font-weight: 700
 }
 
 .fw\:800 {
-    font-weight: 800
+  font-weight: 800
 }
 
 .fw\:900 {
-    font-weight: 900
+  font-weight: 900
 }
 
 @media screen and (min-width: 40rem) {
-    .fw\:i\@M {
-        font-weight: initial
-    }
-    .fw\:l\@M {
-        font-weight: lighter
-    }
-    .fw\:n\@M {
-        font-weight: normal
-    }
-    .fw\:b\@M {
-        font-weight: bold
-    }
-    .fw\:100\@M {
-        font-weight: 100
-    }
-    .fw\:200\@M {
-        font-weight: 200
-    }
-    .fw\:300\@M {
-        font-weight: 300
-    }
-    .fw\:400\@M {
-        font-weight: 400
-    }
-    .fw\:500\@M {
-        font-weight: 500
-    }
-    .fw\:600\@M {
-        font-weight: 600
-    }
-    .fw\:700\@M {
-        font-weight: 700
-    }
-    .fw\:800\@M {
-        font-weight: 800
-    }
-    .fw\:900\@M {
-        font-weight: 900
-    }
+  .fw\:i\@M {
+    font-weight: initial
+  }
+  .fw\:l\@M {
+    font-weight: lighter
+  }
+  .fw\:n\@M {
+    font-weight: normal
+  }
+  .fw\:b\@M {
+    font-weight: bold
+  }
+  .fw\:100\@M {
+    font-weight: 100
+  }
+  .fw\:200\@M {
+    font-weight: 200
+  }
+  .fw\:300\@M {
+    font-weight: 300
+  }
+  .fw\:400\@M {
+    font-weight: 400
+  }
+  .fw\:500\@M {
+    font-weight: 500
+  }
+  .fw\:600\@M {
+    font-weight: 600
+  }
+  .fw\:700\@M {
+    font-weight: 700
+  }
+  .fw\:800\@M {
+    font-weight: 800
+  }
+  .fw\:900\@M {
+    font-weight: 900
+  }
 }
 
 @media screen and (min-width: 60rem) {
-    .fw\:i\@L {
-        font-weight: initial
-    }
-    .fw\:l\@L {
-        font-weight: lighter
-    }
-    .fw\:n\@L {
-        font-weight: normal
-    }
-    .fw\:b\@L {
-        font-weight: bold
-    }
-    .fw\:100\@L {
-        font-weight: 100
-    }
-    .fw\:200\@L {
-        font-weight: 200
-    }
-    .fw\:300\@L {
-        font-weight: 300
-    }
-    .fw\:400\@L {
-        font-weight: 400
-    }
-    .fw\:500\@L {
-        font-weight: 500
-    }
-    .fw\:600\@L {
-        font-weight: 600
-    }
-    .fw\:700\@L {
-        font-weight: 700
-    }
-    .fw\:800\@L {
-        font-weight: 800
-    }
-    .fw\:900\@L {
-        font-weight: 900
-    }
+  .fw\:i\@L {
+    font-weight: initial
+  }
+  .fw\:l\@L {
+    font-weight: lighter
+  }
+  .fw\:n\@L {
+    font-weight: normal
+  }
+  .fw\:b\@L {
+    font-weight: bold
+  }
+  .fw\:100\@L {
+    font-weight: 100
+  }
+  .fw\:200\@L {
+    font-weight: 200
+  }
+  .fw\:300\@L {
+    font-weight: 300
+  }
+  .fw\:400\@L {
+    font-weight: 400
+  }
+  .fw\:500\@L {
+    font-weight: 500
+  }
+  .fw\:600\@L {
+    font-weight: 600
+  }
+  .fw\:700\@L {
+    font-weight: 700
+  }
+  .fw\:800\@L {
+    font-weight: 800
+  }
+  .fw\:900\@L {
+    font-weight: 900
+  }
 }
 
 @media screen and (min-width: 80rem) {
-    .fw\:i\@XL {
-        font-weight: initial
-    }
-    .fw\:l\@XL {
-        font-weight: lighter
-    }
-    .fw\:n\@XL {
-        font-weight: normal
-    }
-    .fw\:b\@XL {
-        font-weight: bold
-    }
-    .fw\:100\@XL {
-        font-weight: 100
-    }
-    .fw\:200\@XL {
-        font-weight: 200
-    }
-    .fw\:300\@XL {
-        font-weight: 300
-    }
-    .fw\:400\@XL {
-        font-weight: 400
-    }
-    .fw\:500\@XL {
-        font-weight: 500
-    }
-    .fw\:600\@XL {
-        font-weight: 600
-    }
-    .fw\:700\@XL {
-        font-weight: 700
-    }
-    .fw\:800\@XL {
-        font-weight: 800
-    }
-    .fw\:900\@XL {
-        font-weight: 900
-    }
+  .fw\:i\@XL {
+    font-weight: initial
+  }
+  .fw\:l\@XL {
+    font-weight: lighter
+  }
+  .fw\:n\@XL {
+    font-weight: normal
+  }
+  .fw\:b\@XL {
+    font-weight: bold
+  }
+  .fw\:100\@XL {
+    font-weight: 100
+  }
+  .fw\:200\@XL {
+    font-weight: 200
+  }
+  .fw\:300\@XL {
+    font-weight: 300
+  }
+  .fw\:400\@XL {
+    font-weight: 400
+  }
+  .fw\:500\@XL {
+    font-weight: 500
+  }
+  .fw\:600\@XL {
+    font-weight: 600
+  }
+  .fw\:700\@XL {
+    font-weight: 700
+  }
+  .fw\:800\@XL {
+    font-weight: 800
+  }
+  .fw\:900\@XL {
+    font-weight: 900
+  }
 }

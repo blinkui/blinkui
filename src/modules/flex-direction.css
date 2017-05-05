@@ -1,60 +1,60 @@
 .fd\:c {
-    flex-direction: column
+  flex-direction: column
 }
 
 .fd\:r {
-    flex-direction: row
+  flex-direction: row
 }
 
 .fd\:cr {
-    flex-direction: column-reverse
+  flex-direction: column-reverse
 }
 
 .fd\:rr {
-    flex-direction: row-reverse
+  flex-direction: row-reverse
 }
 
 @media screen and (min-width: 40rem) {
-    .fd\:c\@M {
-        flex-direction: column
-    }
-    .fd\:r\@M {
-        flex-direction: row
-    }
-    .fd\:cr\@M {
-        flex-direction: column-reverse
-    }
-    .fd\:rr\@M {
-        flex-direction: row-reverse
-    }
+  .fd\:c\@M {
+    flex-direction: column
+  }
+  .fd\:r\@M {
+    flex-direction: row
+  }
+  .fd\:cr\@M {
+    flex-direction: column-reverse
+  }
+  .fd\:rr\@M {
+    flex-direction: row-reverse
+  }
 }
 
 @media screen and (min-width: 60rem) {
-    .fd\:c\@L {
-        flex-direction: column
-    }
-    .fd\:r\@L {
-        flex-direction: row
-    }
-    .fd\:cr\@L {
-        flex-direction: column-reverse
-    }
-    .fd\:rr\@L {
-        flex-direction: row-reverse
-    }
+  .fd\:c\@L {
+    flex-direction: column
+  }
+  .fd\:r\@L {
+    flex-direction: row
+  }
+  .fd\:cr\@L {
+    flex-direction: column-reverse
+  }
+  .fd\:rr\@L {
+    flex-direction: row-reverse
+  }
 }
 
 @media screen and (min-width: 80rem) {
-    .fd\:c\@XL {
-        flex-direction: column
-    }
-    .fd\:r\@XL {
-        flex-direction: row
-    }
-    .fd\:cr\@XL {
-        flex-direction: column-reverse
-    }
-    .fd\:rr\@XL {
-        flex-direction: row-reverse
-    }
+  .fd\:c\@XL {
+    flex-direction: column
+  }
+  .fd\:r\@XL {
+    flex-direction: row
+  }
+  .fd\:cr\@XL {
+    flex-direction: column-reverse
+  }
+  .fd\:rr\@XL {
+    flex-direction: row-reverse
+  }
 }

@@ -1,7 +1,14 @@
 # Changelog
 
-
 ## 0.8.X
+
+## 0.8.1
+
+- added `vertical-align` module
+- added check mark `list-style-type`
+- optimized white-space in raw css files
+- added `background-size` module
+
 
 ### 0.8.0
 
@@ -11,6 +18,14 @@
 - bigger steps in the `z-index` module
 - added black to the body in the base stylesheet
 
+
+---
+
+## Next up
+
+- min-height module
+- background-position
+
 ---
 
 ## Notes:
@@ -18,18 +33,18 @@
 ### Up for discussion:
 
 - grids
-- vertical-align
 - writing-mode
 - column-count (R)
 - hyphens
 - background-blend-mode
 - cursor (pointer)
 - filters
+- transform (rotate, scale)
 
 ### Thoughts:
 
-- Steps (1, 2, 4, 8, 16) also in `z-index` and `top`, `right`… modules? (Consistency)
-- Moving away from number steps to more semantic steps like: `xxs › xs › s › m › l › xl › xxl`?
+- Steps (.25, .5, 1, 2, 4, 8, 16) also in `z-index` and `top`, `right`… modules? (Consistency)
+- Moving away from number steps to more semantic/descriptive steps like: `xxs › xs › s › m › l › xl › xxl`?
 
 ---
 
@@ -40,6 +55,9 @@
 - `padding_child.css` (then, margin und padding need !important)
 - separate section for “add-ons/helpers” (like `margin_child.css`)
 - negative margins (for grids) — or is it better to go for the grid module?
+- min-height
+- background-size
+- aspect-ratio
 
 ## Make responsive:
 

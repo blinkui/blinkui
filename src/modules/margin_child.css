@@ -1,877 +1,877 @@
 .mr\>\*\:a>* {
-    margin-right: auto
+  margin-right: auto
 }
 
 .ml\>\*\:a>* {
-    margin-left: auto
+  margin-left: auto
 }
 
 .mx\>\*\:a>* {
-    margin-left: auto;
-    margin-right: auto
+  margin-left: auto;
+  margin-right: auto
 }
 
 .m\>\*\:0>* {
-    margin: 0
+  margin: 0
 }
 
 .mt\>\*\:0>* {
-    margin-top: 0
+  margin-top: 0
 }
 
 .mr\>\*\:0>* {
-    margin-right: 0
+  margin-right: 0
 }
 
 .mb\>\*\:0>* {
-    margin-bottom: 0
+  margin-bottom: 0
 }
 
 .ml\>\*\:0>* {
-    margin-left: 0
+  margin-left: 0
 }
 
 .mx\>\*\:0>* {
-    margin-right: 0;
-    margin-left: 0
+  margin-right: 0;
+  margin-left: 0
 }
 
 .my\>\*\:0>* {
-    margin-top: 0;
-    margin-bottom: 0
+  margin-top: 0;
+  margin-bottom: 0
 }
 
 .m\>\*\:\.25r>* {
-    margin: .25rem
+  margin: .25rem
 }
 
 .mt\>\*\:\.25r>* {
-    margin-top: .25rem
+  margin-top: .25rem
 }
 
 .mr\>\*\:\.25r>* {
-    margin-right: .25rem
+  margin-right: .25rem
 }
 
 .mb\>\*\:\.25r>* {
-    margin-bottom: .25rem
+  margin-bottom: .25rem
 }
 
 .ml\>\*\:\.25r>* {
-    margin-left: .25rem
+  margin-left: .25rem
 }
 
 .mx\>\*\:\.25r>* {
-    margin-right: .25rem;
-    margin-left: .25rem
+  margin-right: .25rem;
+  margin-left: .25rem
 }
 
 .my\>\*\:\.25r>* {
-    margin-top: .25rem;
-    margin-bottom: .25rem
+  margin-top: .25rem;
+  margin-bottom: .25rem
 }
 
 .m\>\*\:\.5r>* {
-    margin: .5rem
+  margin: .5rem
 }
 
 .mt\>\*\:\.5r>* {
-    margin-top: .5rem
+  margin-top: .5rem
 }
 
 .mr\>\*\:\.5r>* {
-    margin-right: .5rem
+  margin-right: .5rem
 }
 
 .mb\>\*\:\.5r>* {
-    margin-bottom: .5rem
+  margin-bottom: .5rem
 }
 
 .ml\>\*\:\.5r>* {
-    margin-left: .5rem
+  margin-left: .5rem
 }
 
 .mx\>\*\:\.5r>* {
-    margin-right: .5rem;
-    margin-left: .5rem
+  margin-right: .5rem;
+  margin-left: .5rem
 }
 
 .my\>\*\:\.5r>* {
-    margin-top: .5rem;
-    margin-bottom: .5rem
+  margin-top: .5rem;
+  margin-bottom: .5rem
 }
 
 .m\>\*\:1r>* {
-    margin: 1rem
+  margin: 1rem
 }
 
 .mt\>\*\:1r>* {
-    margin-top: 1rem
+  margin-top: 1rem
 }
 
 .mr\>\*\:1r>* {
-    margin-right: 1rem
+  margin-right: 1rem
 }
 
 .mb\>\*\:1r>* {
-    margin-bottom: 1rem
+  margin-bottom: 1rem
 }
 
 .ml\>\*\:1r>* {
-    margin-left: 1rem
+  margin-left: 1rem
 }
 
 .mx\>\*\:1r>* {
-    margin-right: 1rem;
-    margin-left: 1rem
+  margin-right: 1rem;
+  margin-left: 1rem
 }
 
 .my\>\*\:1r>* {
-    margin-top: 1rem;
-    margin-bottom: 1rem
+  margin-top: 1rem;
+  margin-bottom: 1rem
 }
 
 .m\>\*\:2r>* {
-    margin: 2rem
+  margin: 2rem
 }
 
 .mt\>\*\:2r>* {
-    margin-top: 2rem
+  margin-top: 2rem
 }
 
 .mr\>\*\:2r>* {
-    margin-right: 2rem
+  margin-right: 2rem
 }
 
 .mb\>\*\:2r>* {
-    margin-bottom: 2rem
+  margin-bottom: 2rem
 }
 
 .ml\>\*\:2r>* {
-    margin-left: 2rem
+  margin-left: 2rem
 }
 
 .mx\>\*\:2r>* {
-    margin-right: 2rem;
-    margin-left: 2rem
+  margin-right: 2rem;
+  margin-left: 2rem
 }
 
 .my\>\*\:2r>* {
-    margin-top: 2rem;
-    margin-bottom: 2rem
+  margin-top: 2rem;
+  margin-bottom: 2rem
 }
 
 .m\>\*\:4r>* {
-    margin: 4rem
+  margin: 4rem
 }
 
 .mt\>\*\:4r>* {
-    margin-top: 4rem
+  margin-top: 4rem
 }
 
 .mr\>\*\:4r>* {
-    margin-right: 4rem
+  margin-right: 4rem
 }
 
 .mb\>\*\:4r>* {
-    margin-bottom: 4rem
+  margin-bottom: 4rem
 }
 
 .ml\>\*\:4r>* {
-    margin-left: 4rem
+  margin-left: 4rem
 }
 
 .mx\>\*\:4r>* {
-    margin-right: 4rem;
-    margin-left: 4rem
+  margin-right: 4rem;
+  margin-left: 4rem
 }
 
 .my\>\*\:4r>* {
-    margin-top: 4rem;
-    margin-bottom: 4rem
+  margin-top: 4rem;
+  margin-bottom: 4rem
 }
 
 .m\>\*\:8r>* {
-    margin: 8rem
+  margin: 8rem
 }
 
 .mt\>\*\:8r>* {
-    margin-top: 8rem
+  margin-top: 8rem
 }
 
 .mr\>\*\:8r>* {
-    margin-right: 8rem
+  margin-right: 8rem
 }
 
 .mb\>\*\:8r>* {
-    margin-bottom: 8rem
+  margin-bottom: 8rem
 }
 
 .ml\>\*\:8r>* {
-    margin-left: 8rem
+  margin-left: 8rem
 }
 
 .mx\>\*\:8r>* {
-    margin-right: 8rem;
-    margin-left: 8rem
+  margin-right: 8rem;
+  margin-left: 8rem
 }
 
 .my\>\*\:8r>* {
-    margin-top: 8rem;
-    margin-bottom: 8rem
+  margin-top: 8rem;
+  margin-bottom: 8rem
 }
 
 .my\>\*\:8r>* {
-    margin-top: 8rem;
-    margin-bottom: 8rem
+  margin-top: 8rem;
+  margin-bottom: 8rem
 }
 
 .m\>\*\:16r>* {
-    margin: 16rem
+  margin: 16rem
 }
 
 .mt\>\*\:16r>* {
-    margin-top: 16rem
+  margin-top: 16rem
 }
 
 .mr\>\*\:16r>* {
-    margin-right: 16rem
+  margin-right: 16rem
 }
 
 .mb\>\*\:16r>* {
-    margin-bottom: 16rem
+  margin-bottom: 16rem
 }
 
 .ml\>\*\:16r>* {
-    margin-left: 16rem
+  margin-left: 16rem
 }
 
 .mx\>\*\:16r>* {
-    margin-right: 16rem;
-    margin-left: 16rem
+  margin-right: 16rem;
+  margin-left: 16rem
 }
 
 .my\>\*\:16r>* {
-    margin-top: 16rem;
-    margin-bottom: 16rem
+  margin-top: 16rem;
+  margin-bottom: 16rem
 }
 
 .my\>\*\:16r>* {
-    margin-top: 16rem;
-    margin-bottom: 16rem
+  margin-top: 16rem;
+  margin-bottom: 16rem
 }
 
 @media screen and (min-width: 40rem)>* {
-    .mr\>\*\:a\@M >* {
-        margin-right: auto
-    }
-    .ml\>\*\:a\@M >* {
-        margin-left: auto
-    }
-    .mx\>\*\:a\@M >* {
-        margin-left: auto;
-        margin-right: auto
-    }
-    .m\>\*\:0\@M >* {
-        margin: 0
-    }
-    .mt\>\*\:0\@M >* {
-        margin-top: 0
-    }
-    .mr\>\*\:0\@M >* {
-        margin-right: 0
-    }
-    .mb\>\*\:0\@M >* {
-        margin-bottom: 0
-    }
-    .ml\>\*\:0\@M >* {
-        margin-left: 0
-    }
-    .mx\>\*\:0\@M >* {
-        margin-right: 0;
-        margin-left: 0
-    }
-    .my\>\*\:0\@M >* {
-        margin-top: 0;
-        margin-bottom: 0
-    }
-    .m\>\*\:\.25r\@M >* {
-        margin: .25rem
-    }
-    .mt\>\*\:\.25r\@M >* {
-        margin-top: .25rem
-    }
-    .mr\>\*\:\.25r\@M >* {
-        margin-right: .25rem
-    }
-    .mb\>\*\:\.25r\@M >* {
-        margin-bottom: .25rem
-    }
-    .ml\>\*\:\.25r\@M >* {
-        margin-left: .25rem
-    }
-    .mx\>\*\:\.25r\@M >* {
-        margin-right: .25rem;
-        margin-left: .25rem
-    }
-    .my\>\*\:\.25r\@M >* {
-        margin-top: .25rem;
-        margin-bottom: .25rem
-    }
-    .m\>\*\:\.5r\@M >* {
-        margin: .5rem
-    }
-    .mt\>\*\:\.5r\@M >* {
-        margin-top: .5rem
-    }
-    .mr\>\*\:\.5r\@M >* {
-        margin-right: .5rem
-    }
-    .mb\>\*\:\.5r\@M >* {
-        margin-bottom: .5rem
-    }
-    .ml\>\*\:\.5r\@M >* {
-        margin-left: .5rem
-    }
-    .mx\>\*\:\.5r\@M >* {
-        margin-right: .5rem;
-        margin-left: .5rem
-    }
-    .my\>\*\:\.5r\@M >* {
-        margin-top: .5rem;
-        margin-bottom: .5rem
-    }
-    .m\>\*\:1r\@M >* {
-        margin: 1rem
-    }
-    .mt\>\*\:1r\@M >* {
-        margin-top: 1rem
-    }
-    .mr\>\*\:1r\@M >* {
-        margin-right: 1rem
-    }
-    .mb\>\*\:1r\@M >* {
-        margin-bottom: 1rem
-    }
-    .ml\>\*\:1r\@M >* {
-        margin-left: 1rem
-    }
-    .mx\>\*\:1r\@M >* {
-        margin-right: 1rem;
-        margin-left: 1rem
-    }
-    .my\>\*\:1r\@M >* {
-        margin-top: 1rem;
-        margin-bottom: 1rem
-    }
-    .m\>\*\:2r\@M >* {
-        margin: 2rem
-    }
-    .mt\>\*\:2r\@M >* {
-        margin-top: 2rem
-    }
-    .mr\>\*\:2r\@M >* {
-        margin-right: 2rem
-    }
-    .mb\>\*\:2r\@M >* {
-        margin-bottom: 2rem
-    }
-    .ml\>\*\:2r\@M >* {
-        margin-left: 2rem
-    }
-    .mx\>\*\:2r\@M >* {
-        margin-right: 2rem;
-        margin-left: 2rem
-    }
-    .mx\>\*\:2r\@M >* {
-        margin-top: 2rem;
-        margin-bottom: 2rem
-    }
-    .m\>\*\:4r\@M >* {
-        margin: 4rem
-    }
-    .mt\>\*\:4r\@M >* {
-        margin-top: 4rem
-    }
-    .mr\>\*\:4r\@M >* {
-        margin-right: 4rem
-    }
-    .mb\>\*\:4r\@M >* {
-        margin-bottom: 4rem
-    }
-    .ml\>\*\:4r\@M >* {
-        margin-left: 4rem
-    }
-    .mx\>\*\:4r\@M >* {
-        margin-right: 4rem;
-        margin-left: 4rem
-    }
-    .my\>\*\:4r\@M >* {
-        margin-top: 4rem;
-        margin-bottom: 4rem
-    }
-    .m\>\*\:8r\@M >* {
-        margin: 8rem
-    }
-    .mt\>\*\:8r\@M >* {
-        margin-top: 8rem
-    }
-    .mr\>\*\:8r\@M >* {
-        margin-right: 8rem
-    }
-    .mb\>\*\:8r\@M >* {
-        margin-bottom: 8rem
-    }
-    .ml\>\*\:8r\@M >* {
-        margin-left: 8rem
-    }
-    .mx\>\*\:8r\@M >* {
-        margin-right: 8rem;
-        margin-left: 8rem
-    }
-    .my\>\*\:8r\@M >* {
-        margin-top: 8rem;
-        margin-bottom: 8rem
-    }
-    .my\>\*\:8r\@M >* {
-        margin-top: 8rem;
-        margin-bottom: 8rem
-    }
-    .m\>\*\:16r\@M >* {
-        margin: 16rem
-    }
-    .mt\>\*\:16r\@M >* {
-        margin-top: 16rem
-    }
-    .mr\>\*\:16r\@M >* {
-        margin-right: 16rem
-    }
-    .mb\>\*\:16r\@M >* {
-        margin-bottom: 16rem
-    }
-    .ml\>\*\:16r\@M >* {
-        margin-left: 16rem
-    }
-    .mx\>\*\:16r\@M >* {
-        margin-right: 16rem;
-        margin-left: 16rem
-    }
-    .my\>\*\:16r\@M >* {
-        margin-top: 16rem;
-        margin-bottom: 16rem
-    }
-    .my\>\*\:16r\@M >* {
-        margin-top: 16rem;
-        margin-bottom: 16rem
-    }
+  .mr\>\*\:a\@M >* {
+    margin-right: auto
+  }
+  .ml\>\*\:a\@M >* {
+    margin-left: auto
+  }
+  .mx\>\*\:a\@M >* {
+    margin-left: auto;
+    margin-right: auto
+  }
+  .m\>\*\:0\@M >* {
+    margin: 0
+  }
+  .mt\>\*\:0\@M >* {
+    margin-top: 0
+  }
+  .mr\>\*\:0\@M >* {
+    margin-right: 0
+  }
+  .mb\>\*\:0\@M >* {
+    margin-bottom: 0
+  }
+  .ml\>\*\:0\@M >* {
+    margin-left: 0
+  }
+  .mx\>\*\:0\@M >* {
+    margin-right: 0;
+    margin-left: 0
+  }
+  .my\>\*\:0\@M >* {
+    margin-top: 0;
+    margin-bottom: 0
+  }
+  .m\>\*\:\.25r\@M >* {
+    margin: .25rem
+  }
+  .mt\>\*\:\.25r\@M >* {
+    margin-top: .25rem
+  }
+  .mr\>\*\:\.25r\@M >* {
+    margin-right: .25rem
+  }
+  .mb\>\*\:\.25r\@M >* {
+    margin-bottom: .25rem
+  }
+  .ml\>\*\:\.25r\@M >* {
+    margin-left: .25rem
+  }
+  .mx\>\*\:\.25r\@M >* {
+    margin-right: .25rem;
+    margin-left: .25rem
+  }
+  .my\>\*\:\.25r\@M >* {
+    margin-top: .25rem;
+    margin-bottom: .25rem
+  }
+  .m\>\*\:\.5r\@M >* {
+    margin: .5rem
+  }
+  .mt\>\*\:\.5r\@M >* {
+    margin-top: .5rem
+  }
+  .mr\>\*\:\.5r\@M >* {
+    margin-right: .5rem
+  }
+  .mb\>\*\:\.5r\@M >* {
+    margin-bottom: .5rem
+  }
+  .ml\>\*\:\.5r\@M >* {
+    margin-left: .5rem
+  }
+  .mx\>\*\:\.5r\@M >* {
+    margin-right: .5rem;
+    margin-left: .5rem
+  }
+  .my\>\*\:\.5r\@M >* {
+    margin-top: .5rem;
+    margin-bottom: .5rem
+  }
+  .m\>\*\:1r\@M >* {
+    margin: 1rem
+  }
+  .mt\>\*\:1r\@M >* {
+    margin-top: 1rem
+  }
+  .mr\>\*\:1r\@M >* {
+    margin-right: 1rem
+  }
+  .mb\>\*\:1r\@M >* {
+    margin-bottom: 1rem
+  }
+  .ml\>\*\:1r\@M >* {
+    margin-left: 1rem
+  }
+  .mx\>\*\:1r\@M >* {
+    margin-right: 1rem;
+    margin-left: 1rem
+  }
+  .my\>\*\:1r\@M >* {
+    margin-top: 1rem;
+    margin-bottom: 1rem
+  }
+  .m\>\*\:2r\@M >* {
+    margin: 2rem
+  }
+  .mt\>\*\:2r\@M >* {
+    margin-top: 2rem
+  }
+  .mr\>\*\:2r\@M >* {
+    margin-right: 2rem
+  }
+  .mb\>\*\:2r\@M >* {
+    margin-bottom: 2rem
+  }
+  .ml\>\*\:2r\@M >* {
+    margin-left: 2rem
+  }
+  .mx\>\*\:2r\@M >* {
+    margin-right: 2rem;
+    margin-left: 2rem
+  }
+  .mx\>\*\:2r\@M >* {
+    margin-top: 2rem;
+    margin-bottom: 2rem
+  }
+  .m\>\*\:4r\@M >* {
+    margin: 4rem
+  }
+  .mt\>\*\:4r\@M >* {
+    margin-top: 4rem
+  }
+  .mr\>\*\:4r\@M >* {
+    margin-right: 4rem
+  }
+  .mb\>\*\:4r\@M >* {
+    margin-bottom: 4rem
+  }
+  .ml\>\*\:4r\@M >* {
+    margin-left: 4rem
+  }
+  .mx\>\*\:4r\@M >* {
+    margin-right: 4rem;
+    margin-left: 4rem
+  }
+  .my\>\*\:4r\@M >* {
+    margin-top: 4rem;
+    margin-bottom: 4rem
+  }
+  .m\>\*\:8r\@M >* {
+    margin: 8rem
+  }
+  .mt\>\*\:8r\@M >* {
+    margin-top: 8rem
+  }
+  .mr\>\*\:8r\@M >* {
+    margin-right: 8rem
+  }
+  .mb\>\*\:8r\@M >* {
+    margin-bottom: 8rem
+  }
+  .ml\>\*\:8r\@M >* {
+    margin-left: 8rem
+  }
+  .mx\>\*\:8r\@M >* {
+    margin-right: 8rem;
+    margin-left: 8rem
+  }
+  .my\>\*\:8r\@M >* {
+    margin-top: 8rem;
+    margin-bottom: 8rem
+  }
+  .my\>\*\:8r\@M >* {
+    margin-top: 8rem;
+    margin-bottom: 8rem
+  }
+  .m\>\*\:16r\@M >* {
+    margin: 16rem
+  }
+  .mt\>\*\:16r\@M >* {
+    margin-top: 16rem
+  }
+  .mr\>\*\:16r\@M >* {
+    margin-right: 16rem
+  }
+  .mb\>\*\:16r\@M >* {
+    margin-bottom: 16rem
+  }
+  .ml\>\*\:16r\@M >* {
+    margin-left: 16rem
+  }
+  .mx\>\*\:16r\@M >* {
+    margin-right: 16rem;
+    margin-left: 16rem
+  }
+  .my\>\*\:16r\@M >* {
+    margin-top: 16rem;
+    margin-bottom: 16rem
+  }
+  .my\>\*\:16r\@M >* {
+    margin-top: 16rem;
+    margin-bottom: 16rem
+  }
 }
 
 @media screen and (min-width: 60rem)>* {
-    .mr\>\*\:a\@L >* {
-        margin-right: auto
-    }
-    .ml\>\*\:a\@L >* {
-        margin-left: auto
-    }
-    .mx\>\*\:a\@L >* {
-        margin-left: auto;
-        margin-right: auto
-    }
-    .m\>\*\:0\@L >* {
-        margin: 0
-    }
-    .mt\>\*\:0\@L >* {
-        margin-top: 0
-    }
-    .mr\>\*\:0\@L >* {
-        margin-right: 0
-    }
-    .mb\>\*\:0\@L >* {
-        margin-bottom: 0
-    }
-    .ml\>\*\:0\@L >* {
-        margin-left: 0
-    }
-    .mx\>\*\:0\@L >* {
-        margin-right: 0;
-        margin-left: 0
-    }
-    .my\>\*\:0\@L >* {
-        margin-top: 0;
-        margin-bottom: 0
-    }
-    .m\>\*\:\.25r\@L >* {
-        margin: .25rem
-    }
-    .mt\>\*\:\.25r\@L >* {
-        margin-top: .25rem
-    }
-    .mr\>\*\:\.25r\@L >* {
-        margin-right: .25rem
-    }
-    .mb\>\*\:\.25r\@L >* {
-        margin-bottom: .25rem
-    }
-    .ml\>\*\:\.25r\@L >* {
-        margin-left: .25rem
-    }
-    .mx\>\*\:\.25r\@L >* {
-        margin-right: .25rem;
-        margin-left: .25rem
-    }
-    .my\>\*\:\.25r\@L >* {
-        margin-top: .25rem;
-        margin-bottom: .25rem
-    }
-    .m\>\*\:\.5r\@L >* {
-        margin: .5rem
-    }
-    .mt\>\*\:\.5r\@L >* {
-        margin-top: .5rem
-    }
-    .mr\>\*\:\.5r\@L >* {
-        margin-right: .5rem
-    }
-    .mb\>\*\:\.5r\@L >* {
-        margin-bottom: .5rem
-    }
-    .ml\>\*\:\.5r\@L >* {
-        margin-left: .5rem
-    }
-    .mx\>\*\:\.5r\@L >* {
-        margin-right: .5rem;
-        margin-left: .5rem
-    }
-    .my\>\*\:\.5r\@L >* {
-        margin-top: .5rem;
-        margin-bottom: .5rem
-    }
-    .m\>\*\:1r\@L >* {
-        margin: 1rem
-    }
-    .mt\>\*\:1r\@L >* {
-        margin-top: 1rem
-    }
-    .mr\>\*\:1r\@L >* {
-        margin-right: 1rem
-    }
-    .mb\>\*\:1r\@L >* {
-        margin-bottom: 1rem
-    }
-    .ml\>\*\:1r\@L >* {
-        margin-left: 1rem
-    }
-    .mx\>\*\:1r\@L >* {
-        margin-right: 1rem;
-        margin-left: 1rem
-    }
-    .my\>\*\:1r\@L >* {
-        margin-top: 1rem;
-        margin-bottom: 1rem
-    }
-    .m\>\*\:2r\@L >* {
-        margin: 2rem
-    }
-    .mt\>\*\:2r\@L >* {
-        margin-top: 2rem
-    }
-    .mr\>\*\:2r\@L >* {
-        margin-right: 2rem
-    }
-    .mb\>\*\:2r\@L >* {
-        margin-bottom: 2rem
-    }
-    .ml\>\*\:2r\@L >* {
-        margin-left: 2rem
-    }
-    .mx\>\*\:2r\@L >* {
-        margin-right: 2rem;
-        margin-left: 2rem
-    }
-    .mx\>\*\:2r\@L >* {
-        margin-top: 2rem;
-        margin-bottom: 2rem
-    }
-    .m\>\*\:4r\@L >* {
-        margin: 4rem
-    }
-    .mt\>\*\:4r\@L >* {
-        margin-top: 4rem
-    }
-    .mr\>\*\:4r\@L >* {
-        margin-right: 4rem
-    }
-    .mb\>\*\:4r\@L >* {
-        margin-bottom: 4rem
-    }
-    .ml\>\*\:4r\@L >* {
-        margin-left: 4rem
-    }
-    .mx\>\*\:4r\@L >* {
-        margin-right: 4rem;
-        margin-left: 4rem
-    }
-    .my\>\*\:4r\@L >* {
-        margin-top: 4rem;
-        margin-bottom: 4rem
-    }
-    .m\>\*\:8r\@L >* {
-        margin: 8rem
-    }
-    .mt\>\*\:8r\@L >* {
-        margin-top: 8rem
-    }
-    .mr\>\*\:8r\@L >* {
-        margin-right: 8rem
-    }
-    .mb\>\*\:8r\@L >* {
-        margin-bottom: 8rem
-    }
-    .ml\>\*\:8r\@L >* {
-        margin-left: 8rem
-    }
-    .mx\>\*\:8r\@L >* {
-        margin-right: 8rem;
-        margin-left: 8rem
-    }
-    .my\>\*\:8r\@L >* {
-        margin-top: 8rem;
-        margin-bottom: 8rem
-    }
-    .my\>\*\:8r\@L >* {
-        margin-top: 8rem;
-        margin-bottom: 8rem
-    }
-    .m\>\*\:16r\@L >* {
-        margin: 16rem
-    }
-    .mt\>\*\:16r\@L >* {
-        margin-top: 16rem
-    }
-    .mr\>\*\:16r\@L >* {
-        margin-right: 16rem
-    }
-    .mb\>\*\:16r\@L >* {
-        margin-bottom: 16rem
-    }
-    .ml\>\*\:16r\@L >* {
-        margin-left: 16rem
-    }
-    .mx\>\*\:16r\@L >* {
-        margin-right: 16rem;
-        margin-left: 16rem
-    }
-    .my\>\*\:16r\@L >* {
-        margin-top: 16rem;
-        margin-bottom: 16rem
-    }
-    .my\>\*\:16r\@L >* {
-        margin-top: 16rem;
-        margin-bottom: 16rem
-    }
+  .mr\>\*\:a\@L >* {
+    margin-right: auto
+  }
+  .ml\>\*\:a\@L >* {
+    margin-left: auto
+  }
+  .mx\>\*\:a\@L >* {
+    margin-left: auto;
+    margin-right: auto
+  }
+  .m\>\*\:0\@L >* {
+    margin: 0
+  }
+  .mt\>\*\:0\@L >* {
+    margin-top: 0
+  }
+  .mr\>\*\:0\@L >* {
+    margin-right: 0
+  }
+  .mb\>\*\:0\@L >* {
+    margin-bottom: 0
+  }
+  .ml\>\*\:0\@L >* {
+    margin-left: 0
+  }
+  .mx\>\*\:0\@L >* {
+    margin-right: 0;
+    margin-left: 0
+  }
+  .my\>\*\:0\@L >* {
+    margin-top: 0;
+    margin-bottom: 0
+  }
+  .m\>\*\:\.25r\@L >* {
+    margin: .25rem
+  }
+  .mt\>\*\:\.25r\@L >* {
+    margin-top: .25rem
+  }
+  .mr\>\*\:\.25r\@L >* {
+    margin-right: .25rem
+  }
+  .mb\>\*\:\.25r\@L >* {
+    margin-bottom: .25rem
+  }
+  .ml\>\*\:\.25r\@L >* {
+    margin-left: .25rem
+  }
+  .mx\>\*\:\.25r\@L >* {
+    margin-right: .25rem;
+    margin-left: .25rem
+  }
+  .my\>\*\:\.25r\@L >* {
+    margin-top: .25rem;
+    margin-bottom: .25rem
+  }
+  .m\>\*\:\.5r\@L >* {
+    margin: .5rem
+  }
+  .mt\>\*\:\.5r\@L >* {
+    margin-top: .5rem
+  }
+  .mr\>\*\:\.5r\@L >* {
+    margin-right: .5rem
+  }
+  .mb\>\*\:\.5r\@L >* {
+    margin-bottom: .5rem
+  }
+  .ml\>\*\:\.5r\@L >* {
+    margin-left: .5rem
+  }
+  .mx\>\*\:\.5r\@L >* {
+    margin-right: .5rem;
+    margin-left: .5rem
+  }
+  .my\>\*\:\.5r\@L >* {
+    margin-top: .5rem;
+    margin-bottom: .5rem
+  }
+  .m\>\*\:1r\@L >* {
+    margin: 1rem
+  }
+  .mt\>\*\:1r\@L >* {
+    margin-top: 1rem
+  }
+  .mr\>\*\:1r\@L >* {
+    margin-right: 1rem
+  }
+  .mb\>\*\:1r\@L >* {
+    margin-bottom: 1rem
+  }
+  .ml\>\*\:1r\@L >* {
+    margin-left: 1rem
+  }
+  .mx\>\*\:1r\@L >* {
+    margin-right: 1rem;
+    margin-left: 1rem
+  }
+  .my\>\*\:1r\@L >* {
+    margin-top: 1rem;
+    margin-bottom: 1rem
+  }
+  .m\>\*\:2r\@L >* {
+    margin: 2rem
+  }
+  .mt\>\*\:2r\@L >* {
+    margin-top: 2rem
+  }
+  .mr\>\*\:2r\@L >* {
+    margin-right: 2rem
+  }
+  .mb\>\*\:2r\@L >* {
+    margin-bottom: 2rem
+  }
+  .ml\>\*\:2r\@L >* {
+    margin-left: 2rem
+  }
+  .mx\>\*\:2r\@L >* {
+    margin-right: 2rem;
+    margin-left: 2rem
+  }
+  .mx\>\*\:2r\@L >* {
+    margin-top: 2rem;
+    margin-bottom: 2rem
+  }
+  .m\>\*\:4r\@L >* {
+    margin: 4rem
+  }
+  .mt\>\*\:4r\@L >* {
+    margin-top: 4rem
+  }
+  .mr\>\*\:4r\@L >* {
+    margin-right: 4rem
+  }
+  .mb\>\*\:4r\@L >* {
+    margin-bottom: 4rem
+  }
+  .ml\>\*\:4r\@L >* {
+    margin-left: 4rem
+  }
+  .mx\>\*\:4r\@L >* {
+    margin-right: 4rem;
+    margin-left: 4rem
+  }
+  .my\>\*\:4r\@L >* {
+    margin-top: 4rem;
+    margin-bottom: 4rem
+  }
+  .m\>\*\:8r\@L >* {
+    margin: 8rem
+  }
+  .mt\>\*\:8r\@L >* {
+    margin-top: 8rem
+  }
+  .mr\>\*\:8r\@L >* {
+    margin-right: 8rem
+  }
+  .mb\>\*\:8r\@L >* {
+    margin-bottom: 8rem
+  }
+  .ml\>\*\:8r\@L >* {
+    margin-left: 8rem
+  }
+  .mx\>\*\:8r\@L >* {
+    margin-right: 8rem;
+    margin-left: 8rem
+  }
+  .my\>\*\:8r\@L >* {
+    margin-top: 8rem;
+    margin-bottom: 8rem
+  }
+  .my\>\*\:8r\@L >* {
+    margin-top: 8rem;
+    margin-bottom: 8rem
+  }
+  .m\>\*\:16r\@L >* {
+    margin: 16rem
+  }
+  .mt\>\*\:16r\@L >* {
+    margin-top: 16rem
+  }
+  .mr\>\*\:16r\@L >* {
+    margin-right: 16rem
+  }
+  .mb\>\*\:16r\@L >* {
+    margin-bottom: 16rem
+  }
+  .ml\>\*\:16r\@L >* {
+    margin-left: 16rem
+  }
+  .mx\>\*\:16r\@L >* {
+    margin-right: 16rem;
+    margin-left: 16rem
+  }
+  .my\>\*\:16r\@L >* {
+    margin-top: 16rem;
+    margin-bottom: 16rem
+  }
+  .my\>\*\:16r\@L >* {
+    margin-top: 16rem;
+    margin-bottom: 16rem
+  }
 }
 
 @media screen and (min-width: 80rem)>* {
-    .mr\>\*\:a\@XL >* {
-        margin-right: auto
-    }
-    .ml\>\*\:a\@XL >* {
-        margin-left: auto
-    }
-    .mx\>\*\:a\@XL >* {
-        margin-left: auto;
-        margin-right: auto
-    }
-    .m\>\*\:0\@XL >* {
-        margin: 0
-    }
-    .mt\>\*\:0\@XL >* {
-        margin-top: 0
-    }
-    .mr\>\*\:0\@XL >* {
-        margin-right: 0
-    }
-    .mb\>\*\:0\@XL >* {
-        margin-bottom: 0
-    }
-    .ml\>\*\:0\@XL >* {
-        margin-left: 0
-    }
-    .mx\>\*\:0\@XL >* {
-        margin-right: 0;
-        margin-left: 0
-    }
-    .my\>\*\:0\@XL >* {
-        margin-top: 0;
-        margin-bottom: 0
-    }
-    .m\>\*\:\.25r\@XL >* {
-        margin: .25rem
-    }
-    .mt\>\*\:\.25r\@XL >* {
-        margin-top: .25rem
-    }
-    .mr\>\*\:\.25r\@XL >* {
-        margin-right: .25rem
-    }
-    .mb\>\*\:\.25r\@XL >* {
-        margin-bottom: .25rem
-    }
-    .ml\>\*\:\.25r\@XL >* {
-        margin-left: .25rem
-    }
-    .mx\>\*\:\.25r\@XL >* {
-        margin-right: .25rem;
-        margin-left: .25rem
-    }
-    .my\>\*\:\.25r\@XL >* {
-        margin-top: .25rem;
-        margin-bottom: .25rem
-    }
-    .m\>\*\:\.5r\@XL >* {
-        margin: .5rem
-    }
-    .mt\>\*\:\.5r\@XL >* {
-        margin-top: .5rem
-    }
-    .mr\>\*\:\.5r\@XL >* {
-        margin-right: .5rem
-    }
-    .mb\>\*\:\.5r\@XL >* {
-        margin-bottom: .5rem
-    }
-    .ml\>\*\:\.5r\@XL >* {
-        margin-left: .5rem
-    }
-    .mx\>\*\:\.5r\@XL >* {
-        margin-right: .5rem;
-        margin-left: .5rem
-    }
-    .my\>\*\:\.5r\@XL >* {
-        margin-top: .5rem;
-        margin-bottom: .5rem
-    }
-    .m\>\*\:1r\@XL >* {
-        margin: 1rem
-    }
-    .mt\>\*\:1r\@XL >* {
-        margin-top: 1rem
-    }
-    .mr\>\*\:1r\@XL >* {
-        margin-right: 1rem
-    }
-    .mb\>\*\:1r\@XL >* {
-        margin-bottom: 1rem
-    }
-    .ml\>\*\:1r\@XL >* {
-        margin-left: 1rem
-    }
-    .mx\>\*\:1r\@XL >* {
-        margin-right: 1rem;
-        margin-left: 1rem
-    }
-    .my\>\*\:1r\@XL >* {
-        margin-top: 1rem;
-        margin-bottom: 1rem
-    }
-    .m\>\*\:2r\@XL >* {
-        margin: 2rem
-    }
-    .mt\>\*\:2r\@XL >* {
-        margin-top: 2rem
-    }
-    .mr\>\*\:2r\@XL >* {
-        margin-right: 2rem
-    }
-    .mb\>\*\:2r\@XL >* {
-        margin-bottom: 2rem
-    }
-    .ml\>\*\:2r\@XL >* {
-        margin-left: 2rem
-    }
-    .mx\>\*\:2r\@XL >* {
-        margin-right: 2rem;
-        margin-left: 2rem
-    }
-    .mx\>\*\:2r\@XL >* {
-        margin-top: 2rem;
-        margin-bottom: 2rem
-    }
-    .m\>\*\:4r\@XL >* {
-        margin: 4rem
-    }
-    .mt\>\*\:4r\@XL >* {
-        margin-top: 4rem
-    }
-    .mr\>\*\:4r\@XL >* {
-        margin-right: 4rem
-    }
-    .mb\>\*\:4r\@XL >* {
-        margin-bottom: 4rem
-    }
-    .ml\>\*\:4r\@XL >* {
-        margin-left: 4rem
-    }
-    .mx\>\*\:4r\@XL >* {
-        margin-right: 4rem;
-        margin-left: 4rem
-    }
-    .my\>\*\:4r\@XL >* {
-        margin-top: 4rem;
-        margin-bottom: 4rem
-    }
-    .m\>\*\:8r\@XL >* {
-        margin: 8rem
-    }
-    .mt\>\*\:8r\@XL >* {
-        margin-top: 8rem
-    }
-    .mr\>\*\:8r\@XL >* {
-        margin-right: 8rem
-    }
-    .mb\>\*\:8r\@XL >* {
-        margin-bottom: 8rem
-    }
-    .ml\>\*\:8r\@XL >* {
-        margin-left: 8rem
-    }
-    .mx\>\*\:8r\@XL >* {
-        margin-right: 8rem;
-        margin-left: 8rem
-    }
-    .my\>\*\:8r\@XL >* {
-        margin-top: 8rem;
-        margin-bottom: 8rem
-    }
-    .my\>\*\:8r\@XL >* {
-        margin-top: 8rem;
-        margin-bottom: 8rem
-    }
-    .m\>\*\:16r\@XL >* {
-        margin: 16rem
-    }
-    .mt\>\*\:16r\@XL >* {
-        margin-top: 16rem
-    }
-    .mr\>\*\:16r\@XL >* {
-        margin-right: 16rem
-    }
-    .mb\>\*\:16r\@XL >* {
-        margin-bottom: 16rem
-    }
-    .ml\>\*\:16r\@XL >* {
-        margin-left: 16rem
-    }
-    .mx\>\*\:16r\@XL >* {
-        margin-right: 16rem;
-        margin-left: 16rem
-    }
-    .my\>\*\:16r\@XL >* {
-        margin-top: 16rem;
-        margin-bottom: 16rem
-    }
-    .my\>\*\:16r\@XL >* {
-        margin-top: 16rem;
-        margin-bottom: 16rem
-    }
+  .mr\>\*\:a\@XL >* {
+    margin-right: auto
+  }
+  .ml\>\*\:a\@XL >* {
+    margin-left: auto
+  }
+  .mx\>\*\:a\@XL >* {
+    margin-left: auto;
+    margin-right: auto
+  }
+  .m\>\*\:0\@XL >* {
+    margin: 0
+  }
+  .mt\>\*\:0\@XL >* {
+    margin-top: 0
+  }
+  .mr\>\*\:0\@XL >* {
+    margin-right: 0
+  }
+  .mb\>\*\:0\@XL >* {
+    margin-bottom: 0
+  }
+  .ml\>\*\:0\@XL >* {
+    margin-left: 0
+  }
+  .mx\>\*\:0\@XL >* {
+    margin-right: 0;
+    margin-left: 0
+  }
+  .my\>\*\:0\@XL >* {
+    margin-top: 0;
+    margin-bottom: 0
+  }
+  .m\>\*\:\.25r\@XL >* {
+    margin: .25rem
+  }
+  .mt\>\*\:\.25r\@XL >* {
+    margin-top: .25rem
+  }
+  .mr\>\*\:\.25r\@XL >* {
+    margin-right: .25rem
+  }
+  .mb\>\*\:\.25r\@XL >* {
+    margin-bottom: .25rem
+  }
+  .ml\>\*\:\.25r\@XL >* {
+    margin-left: .25rem
+  }
+  .mx\>\*\:\.25r\@XL >* {
+    margin-right: .25rem;
+    margin-left: .25rem
+  }
+  .my\>\*\:\.25r\@XL >* {
+    margin-top: .25rem;
+    margin-bottom: .25rem
+  }
+  .m\>\*\:\.5r\@XL >* {
+    margin: .5rem
+  }
+  .mt\>\*\:\.5r\@XL >* {
+    margin-top: .5rem
+  }
+  .mr\>\*\:\.5r\@XL >* {
+    margin-right: .5rem
+  }
+  .mb\>\*\:\.5r\@XL >* {
+    margin-bottom: .5rem
+  }
+  .ml\>\*\:\.5r\@XL >* {
+    margin-left: .5rem
+  }
+  .mx\>\*\:\.5r\@XL >* {
+    margin-right: .5rem;
+    margin-left: .5rem
+  }
+  .my\>\*\:\.5r\@XL >* {
+    margin-top: .5rem;
+    margin-bottom: .5rem
+  }
+  .m\>\*\:1r\@XL >* {
+    margin: 1rem
+  }
+  .mt\>\*\:1r\@XL >* {
+    margin-top: 1rem
+  }
+  .mr\>\*\:1r\@XL >* {
+    margin-right: 1rem
+  }
+  .mb\>\*\:1r\@XL >* {
+    margin-bottom: 1rem
+  }
+  .ml\>\*\:1r\@XL >* {
+    margin-left: 1rem
+  }
+  .mx\>\*\:1r\@XL >* {
+    margin-right: 1rem;
+    margin-left: 1rem
+  }
+  .my\>\*\:1r\@XL >* {
+    margin-top: 1rem;
+    margin-bottom: 1rem
+  }
+  .m\>\*\:2r\@XL >* {
+    margin: 2rem
+  }
+  .mt\>\*\:2r\@XL >* {
+    margin-top: 2rem
+  }
+  .mr\>\*\:2r\@XL >* {
+    margin-right: 2rem
+  }
+  .mb\>\*\:2r\@XL >* {
+    margin-bottom: 2rem
+  }
+  .ml\>\*\:2r\@XL >* {
+    margin-left: 2rem
+  }
+  .mx\>\*\:2r\@XL >* {
+    margin-right: 2rem;
+    margin-left: 2rem
+  }
+  .mx\>\*\:2r\@XL >* {
+    margin-top: 2rem;
+    margin-bottom: 2rem
+  }
+  .m\>\*\:4r\@XL >* {
+    margin: 4rem
+  }
+  .mt\>\*\:4r\@XL >* {
+    margin-top: 4rem
+  }
+  .mr\>\*\:4r\@XL >* {
+    margin-right: 4rem
+  }
+  .mb\>\*\:4r\@XL >* {
+    margin-bottom: 4rem
+  }
+  .ml\>\*\:4r\@XL >* {
+    margin-left: 4rem
+  }
+  .mx\>\*\:4r\@XL >* {
+    margin-right: 4rem;
+    margin-left: 4rem
+  }
+  .my\>\*\:4r\@XL >* {
+    margin-top: 4rem;
+    margin-bottom: 4rem
+  }
+  .m\>\*\:8r\@XL >* {
+    margin: 8rem
+  }
+  .mt\>\*\:8r\@XL >* {
+    margin-top: 8rem
+  }
+  .mr\>\*\:8r\@XL >* {
+    margin-right: 8rem
+  }
+  .mb\>\*\:8r\@XL >* {
+    margin-bottom: 8rem
+  }
+  .ml\>\*\:8r\@XL >* {
+    margin-left: 8rem
+  }
+  .mx\>\*\:8r\@XL >* {
+    margin-right: 8rem;
+    margin-left: 8rem
+  }
+  .my\>\*\:8r\@XL >* {
+    margin-top: 8rem;
+    margin-bottom: 8rem
+  }
+  .my\>\*\:8r\@XL >* {
+    margin-top: 8rem;
+    margin-bottom: 8rem
+  }
+  .m\>\*\:16r\@XL >* {
+    margin: 16rem
+  }
+  .mt\>\*\:16r\@XL >* {
+    margin-top: 16rem
+  }
+  .mr\>\*\:16r\@XL >* {
+    margin-right: 16rem
+  }
+  .mb\>\*\:16r\@XL >* {
+    margin-bottom: 16rem
+  }
+  .ml\>\*\:16r\@XL >* {
+    margin-left: 16rem
+  }
+  .mx\>\*\:16r\@XL >* {
+    margin-right: 16rem;
+    margin-left: 16rem
+  }
+  .my\>\*\:16r\@XL >* {
+    margin-top: 16rem;
+    margin-bottom: 16rem
+  }
+  .my\>\*\:16r\@XL >* {
+    margin-top: 16rem;
+    margin-bottom: 16rem
+  }
 }
