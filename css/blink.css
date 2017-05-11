@@ -31,7 +31,6 @@ html {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
-  vertical-align: baseline;
   color: currentColor;
   background-color: transparent;
   background-repeat: no-repeat;
@@ -45,7 +44,7 @@ body {
 }
 
 
-img, video, audio, iframe {
+audio, embed, iframe, img, input, object, video, table {
   max-width: 100%;
 }
 
@@ -660,7 +659,7 @@ a {
 }
 
 
-/* dot */
+/* disc/dot */
 
 
 .lst\:d {
@@ -4718,17 +4717,20 @@ a {
 
 
 .v\:h {
-  visibility: hidden
+  visibility: hidden;
+  opacity: 0
 }
 
 
 .v\:c {
-  visibility: collapse
+  visibility: collapse;
+  opacity: 0
 }
 
 
 *:hover>.v\:v\:h {
-  visibility: visible
+  visibility: visible;
+  opacity: 1
 }
 
 

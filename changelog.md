@@ -2,6 +2,10 @@
 
 ## 0.8.X
 
+## 0.8.2
+
+- visibility on hover is now working with the `transition` module
+
 ## 0.8.1
 
 - added `vertical-align` module
@@ -24,7 +28,8 @@
 ## Next up
 
 - min-height module
-- background-position
+
+- fractions `fb:33%` > `fb:1/3`
 
 ---
 
@@ -40,6 +45,7 @@
 - cursor (pointer)
 - filters
 - transform (rotate, scale)
+- background-position
 
 ### Thoughts:
 
@@ -75,16 +81,16 @@
 
 *Watch out for these exceptions or abbreviations.*
 
-## Exceptions:
+## Naming exceptions:
 
 - `bgc` (background-color) vs. `bc` (border-color)
-- font-weight: normal (`fw-n`) vs. flex-wrap: nowrap (`fw-nw` also for white-space: `ws-nw`)
+- font-weight: normal (`fw-n`) vs. flex-wrap: nowrap (`fw-nw`, also for white-space: `ws-nw`)
 
 ## Duplicates:
 
 - `fs`: flex-shrink, font-size, font-style
 - `fw`: font-weight, flex-wrap
-- `o`: order, opacity
+- `o`: order, opacity, overflow
 - `bs`: border-style, box-shadow, box-sizing
 
 ---

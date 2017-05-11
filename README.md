@@ -35,22 +35,22 @@ If you should encounter problems with `node` or `npm`, you might have to [update
 
 ---
 
-To start fresh, clone *blinkUI* into a new project and remove its git directory.
+To start fresh, clone *blinkUI* into a new project and remove its git directory:
 
-``` bash
+```bash
 git clone https://github.com/blinkUI/blinkUI.git new-project
 cd new-project
 rm -rf .git
 ```
 
-Install the dependencies.
+Install the dependencies:
 
-``` bash
+```bash
 npm install
 ```
 
-Use `index.html` as a starting point, and edit `src/blink.css` and its included modules under `src/modules/` to customize blinkUI, then recompile the source files to the `css` folder.
+Use `index.html` as a starting point, and edit `src/blink.css` and its included modules under `src/modules/` to customize blinkUI, then recompile the source files to the `css` folder:
 
-``` bash
+```bash
 npm start
 ```

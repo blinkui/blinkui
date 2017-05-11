@@ -3,13 +3,16 @@
 }
 
 .v\:h {
-  visibility: hidden
+  visibility: hidden;
+  opacity: 0
 }
 
 .v\:c {
-  visibility: collapse
+  visibility: collapse;
+  opacity: 0
 }
 
 *:hover>.v\:v\:h {
-  visibility: visible
+  visibility: visible;
+  opacity: 1
 }
