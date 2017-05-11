@@ -5,6 +5,7 @@
 ## 0.8.2
 
 - visibility on hover is now working with the `transition` module
+- slight changes to the base styles
 
 ## 0.8.1
 
@@ -29,8 +30,6 @@
 
 - min-height module
 
-- fractions `fb:33%` > `fb:1/3`
-
 ---
 
 ## Notes:
@@ -51,6 +50,7 @@
 
 - Steps (.25, .5, 1, 2, 4, 8, 16) also in `z-index` and `top`, `right`… modules? (Consistency)
 - Moving away from number steps to more semantic/descriptive steps like: `xxs › xs › s › m › l › xl › xxl`?
+- fractions for values like `fb:33%` > `fb:1/3`
 
 ---
 
