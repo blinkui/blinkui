@@ -29,6 +29,8 @@
 ## Next up
 
 - min-height module
+- background-position
+
 
 ---
 
@@ -44,7 +46,7 @@
 - cursor (pointer)
 - filters
 - transform (rotate, scale)
-- background-position
+
 
 ### Thoughts:
 

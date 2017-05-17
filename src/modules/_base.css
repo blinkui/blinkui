@@ -26,7 +26,7 @@ html {
   font-size: 1rem;
   line-height: 1.5;
   font-family: var(--sansfont);
-  height: 100%;
+  min-height: 100%;
   -webkit-overflow-scrolling: touch;
   /* › smooth scrolling on overflow */
   -ms-overflow-style: -ms-autohiding-scrollbar;
