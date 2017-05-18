@@ -2,6 +2,12 @@
 
 ## 0.8.X
 
+## 0.8.3
+
+- added placeholder text color fix to base styles
+- removed min-height on html and body from base styles
+
+
 ## 0.8.2
 
 - visibility on hover is now working with the `transition` module
