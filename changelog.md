@@ -5,7 +5,7 @@
 ## 0.8.3
 
 - added placeholder text color fix to base styles
-- removed min-height on html and body from base styles
+- added min-height to html element in the base styles
 
 
 ## 0.8.2
