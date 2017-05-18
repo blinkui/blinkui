@@ -17,15 +17,15 @@ Start prototyping right away by simply adding a link to the latest blinkUI versi
 
 ---
 
-## Features
+## What's included?
 
-- Basic `index.html` template with asset links and responsive viewport meta tag
-- Starter folder structure
-- npm run scripts for processing with postcss
+- *blinkUI* source files and folder structure
+- basic `index.html` template with asset links and responsive viewport meta tag
+- npm run scripts for processing with *postcss*
 - postcss plugins
   - import (combines the single modules into one css file)
   - cssnext (including autoprefixer; makes sure older browsers understand our state-of-the-art css)
-  - cssnano (reduces the filesize)
+  - cssnano (minifies the css file / reduces the filesize)
 
 ## Getting Started
 
