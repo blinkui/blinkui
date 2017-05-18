@@ -26,7 +26,6 @@ html {
   font-size: 1rem;
   line-height: 1.5;
   font-family: var(--sansfont);
-  min-height: 100vh;
   -webkit-overflow-scrolling: touch;
   /* › smooth scrolling on overflow */
   -ms-overflow-style: -ms-autohiding-scrollbar;
@@ -52,6 +51,7 @@ html {
 body {
   font-size: 100%;
   color: var(--black);
+  min-height: 100vh;
 }
 
 audio, embed, iframe, img, input, object, video, table {
