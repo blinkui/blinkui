@@ -1,0 +1,25 @@
+.ls\:n {
+  list-style: none
+}
+
+/* dash */
+
+.ls\:d {
+  list-style: none
+}
+
+.ls\:d li::before {
+  content: "\2013";
+  margin-right: .5em;
+}
+
+/* bullet */
+
+.ls\:b {
+  list-style: none
+}
+
+.ls\:b li::before {
+  content: "\00B7";
+  margin-right: .5em;
+}

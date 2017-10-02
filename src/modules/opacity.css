@@ -2,40 +2,24 @@
   opacity: initial
 }
 
-.o\:\.9 {
-  opacity: .9
+.o\:xl {
+  opacity: .875
 }
 
-.o\:\.8 {
-  opacity: .8
+.o\:l {
+  opacity: .75
 }
 
-.o\:\.7 {
-  opacity: .7
-}
-
-.o\:\.6 {
-  opacity: .6
-}
-
-.o\:\.5 {
+.o\:m {
   opacity: .5
 }
 
-.o\:\.4 {
-  opacity: .4
+.o\:s {
+  opacity: .25
 }
 
-.o\:\.3 {
-  opacity: .3
-}
-
-.o\:\.2 {
-  opacity: .2
-}
-
-.o\:\.1 {
-  opacity: .1
+.o\:xs {
+  opacity: .125
 }
 
 .o\:0 {

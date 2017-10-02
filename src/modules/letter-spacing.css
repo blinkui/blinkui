@@ -1,27 +1,11 @@
-.ls\:-\.0625e {
+.ls\:s {
   letter-spacing: -.0625em
 }
 
-.ls\:n {
+.ls\:m {
   letter-spacing: normal
 }
 
-.ls\:\.0625e {
-  letter-spacing: .0625em
-}
-
-.ls\:\.125e {
+.ls\:l {
   letter-spacing: .125em
-}
-
-.ls\:\.25e {
-  letter-spacing: .25em
-}
-
-.ls\:\.5e {
-  letter-spacing: .5em
-}
-
-.ls\:1e {
-  letter-spacing: 1em
 }

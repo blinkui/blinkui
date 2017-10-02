@@ -50,34 +50,10 @@
   background-image: linear-gradient(15deg, var(--brown) 50%, color(var(--orange) blackness(15%)))
 }
 
-.bgi\:b\.25 {
-  background-image: linear-gradient(0deg, color(var(--black) a(.25)), color(var(--black) a(0)) 50%)
-}
-
-.bgi\:b\.5 {
-  background-image: linear-gradient(0deg, color(var(--black) a(.5)), color(var(--black) a(0)) 50%)
-}
-
-.bgi\:b\.75 {
+.bgi\:b {
   background-image: linear-gradient(0deg, color(var(--black) a(.75)), color(var(--black) a(0)) 50%)
 }
 
-.bgi\:b {
-  background-image: linear-gradient(0deg, var(--black), color(var(--black) a(0)) 50%)
-}
-
-.bgi\:w\.25 {
-  background-image: linear-gradient(0deg, color(var(--white) a(.25)), color(var(--white) a(0)) 50%)
-}
-
-.bgi\:w\.5 {
-  background-image: linear-gradient(0deg, color(var(--white) a(.5)), color(var(--white) a(0)) 50%)
-}
-
-.bgi\:w\.75 {
-  background-image: linear-gradient(0deg, color(var(--white) a(.75)), color(var(--white) a(0)) 50%)
-}
-
 .bgi\:w {
-  background-image: linear-gradient(0deg, var(--white), color(var(--white) a(0)) 50%)
+  background-image: linear-gradient(0deg, color(var(--white) a(.75)), color(var(--white) a(0)) 50%)
 }

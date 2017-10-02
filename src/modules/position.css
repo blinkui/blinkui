@@ -1,4 +1,4 @@
-.p\:s {
+.p\:st {
   position: static
 }
 
@@ -15,7 +15,7 @@
 }
 
 @media screen and (min-width: 40rem) {
-  .p\:s\@M {
+  .p\:st\@M {
     position: static
   }
   .p\:r\@M {
@@ -29,8 +29,8 @@
   }
 }
 
-@media screen and (min-width: 60rem) {
-  .p\:s\@L {
+@media screen and (min-width: 80rem) {
+  .p\:st\@L {
     position: static
   }
   .p\:r\@L {
@@ -44,8 +44,8 @@
   }
 }
 
-@media screen and (min-width: 80rem) {
-  .p\:s\@XL {
+@media screen and (min-width: 120rem) {
+  .p\:st\@XL {
     position: static
   }
   .p\:r\@XL {

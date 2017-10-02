@@ -1,20 +1,28 @@
-.h\:1r {
+.h\:a {
+  height: auto
+}
+
+.h\:0 {
+  height: 0
+}
+
+.h\:xs {
   height: 1rem
 }
 
-.h\:2r {
+.h\:s {
   height: 2rem
 }
 
-.h\:4r {
+.h\:m {
   height: 4rem
 }
 
-.h\:8r {
+.h\:l {
   height: 8rem
 }
 
-.h\:16r {
+.h\:xl {
   height: 16rem
 }
 

@@ -2,10 +2,6 @@
   background-size: auto
 }
 
-.bgs\:contain {
-  background-size: contain
-}
-
-.bgs\:cover {
+.bgs\:c {
   background-size: cover
 }

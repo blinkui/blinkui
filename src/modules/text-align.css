@@ -29,7 +29,7 @@
   }
 }
 
-@media screen and (min-width: 60rem) {
+@media screen and (min-width: 80rem) {
   .ta\:c\@L {
     text-align: center
   }
@@ -44,7 +44,7 @@
   }
 }
 
-@media screen and (min-width: 80rem) {
+@media screen and (min-width: 120rem) {
   .ta\:c\@XL {
     text-align: center
   }

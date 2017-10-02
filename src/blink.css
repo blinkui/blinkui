@@ -1,10 +1,8 @@
 /* blink UI | MIT license | https://github.com/blinkui/blinkui */
 
-
 /* BASE STYLES */
 
 @import "modules/_base.css";
-
 /* TYPOGRAPHY */
 
 @import "modules/font-family.css";
@@ -16,10 +14,8 @@
 @import "modules/text-transform.css";
 @import "modules/text-decoration.css";
 @import "modules/letter-spacing.css";
-@import "modules/list-style-type.css";
-
+@import "modules/list-style.css";
 /* LAYOUT */
-
 
 /* Spacing and Dimensions */
 
@@ -30,7 +26,6 @@
 @import "modules/max-width.css";
 @import "modules/height.css";
 @import "modules/box-sizing.css";
-
 /* Positioning */
 
 @import "modules/display.css";
@@ -45,7 +40,6 @@
 @import "modules/overflow.css";
 @import "modules/white-space.css";
 @import "modules/visibility.css";
-
 /* Flexbox */
 
 @import "modules/flex-direction.css";
@@ -57,9 +51,7 @@
 @import "modules/flex-shrink.css";
 @import "modules/flex-basis.css";
 @import "modules/order.css";
-
 /* THEMING */
-
 
 /* Borders */
 
@@ -68,7 +60,6 @@
 @import "modules/border-radius.css";
 @import "modules/box-shadow.css";
 @import "modules/box-shadow_hover.css";
-
 /* Colors */
 
 @import "modules/color.css";
@@ -76,11 +67,9 @@
 @import "modules/background-image.css";
 @import "modules/border-color.css";
 @import "modules/border-image.css";
-
 /* Backgrounds */
 
 @import "modules/background-size.css";
-
 /* Misc. */
 
 @import "modules/opacity.css";

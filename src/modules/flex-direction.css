@@ -29,7 +29,7 @@
   }
 }
 
-@media screen and (min-width: 60rem) {
+@media screen and (min-width: 80rem) {
   .fd\:c\@L {
     flex-direction: column
   }
@@ -44,7 +44,7 @@
   }
 }
 
-@media screen and (min-width: 80rem) {
+@media screen and (min-width: 120rem) {
   .fd\:c\@XL {
     flex-direction: column
   }

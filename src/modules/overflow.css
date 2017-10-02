@@ -6,10 +6,6 @@
   overflow: hidden
 }
 
-.o\:s {
-  overflow: scroll
-}
-
 .o\:v {
   overflow: visible
 }
@@ -22,10 +18,6 @@
   overflow-x: hidden
 }
 
-.ox\:s {
-  overflow-x: scroll
-}
-
 .ox\:v {
   overflow-x: visible
 }
@@ -36,10 +28,6 @@
 
 .oy\:h {
   overflow-y: hidden
-}
-
-.oy\:s {
-  overflow-y: scroll
 }
 
 .oy\:v {

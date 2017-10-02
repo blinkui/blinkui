@@ -1,21 +1,25 @@
-.br\:\.25r {
+.br\:xs {
   border-radius: .25rem
 }
 
-.br\:\.5r {
+.br\:s {
   border-radius: .5rem
 }
 
-.br\:1r {
+.br\:m {
   border-radius: 1rem
 }
 
-.br\:2r {
+.br\:l {
   border-radius: 2rem
 }
 
-.br\:100\% {
+.br\:xl {
   border-radius: 100%
+}
+
+.br\:0 {
+  border-radius: 0
 }
 
 .btlr\:0 {

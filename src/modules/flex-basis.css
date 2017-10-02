@@ -2,20 +2,12 @@
   flex-basis: auto
 }
 
-.fb\:10\% {
-  flex-basis: 10%
-}
-
 .fb\:20\% {
   flex-basis: 20%
 }
 
 .fb\:25\% {
   flex-basis: 25%
-}
-
-.fb\:30\% {
-  flex-basis: 30%
 }
 
 .fb\:33\% {
@@ -38,20 +30,12 @@
   flex-basis: calc(2/3 * 100%)
 }
 
-.fb\:70\% {
-  flex-basis: 70%
-}
-
 .fb\:75\% {
   flex-basis: 75%
 }
 
 .fb\:80\% {
   flex-basis: 80%
-}
-
-.fb\:90\% {
-  flex-basis: 90%
 }
 
 .fb\:100\% {

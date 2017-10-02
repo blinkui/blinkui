@@ -17,7 +17,7 @@ Start prototyping right away by simply adding a link to the latest blinkUI versi
 
 ---
 
-## What's included?
+## What's included in this repository?
 
 - *blinkUI* source files and folder structure
 - basic `index.html` template with asset links and responsive viewport meta tag

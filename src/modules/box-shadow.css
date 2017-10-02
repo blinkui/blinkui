@@ -1,19 +1,19 @@
-.bs\:\.0625r {
-  box-shadow: 0 .0625rem .0625rem 0 hsla(0, 0%, 0%, .25)
+.bs\:xs {
+  box-shadow: 0 .0625rem .25rem hsla(0, 0%, 0%, .125), 0 .0625rem .125rem hsla(0, 0%, 0%, .25)
 }
 
-.bs\:\.125r {
-  box-shadow: 0 .0625rem .125rem 0 hsla(0, 0%, 0%, .25)
+.bs\:s {
+  box-shadow: 0 .25rem .5rem hsla(0, 0%, 0%, .125), 0 .125rem .25rem hsla(0, 0%, 0%, .25)
 }
 
-.bs\:\.25r {
-  box-shadow: 0 .0625rem .25rem 0 hsla(0, 0%, 0%, .25)
+.bs\:m {
+  box-shadow: 0 .5rem 1rem hsla(0, 0%, 0%, .125), 0 .25rem .5rem hsla(0, 0%, 0%, .25)
 }
 
-.bs\:\.5r {
-  box-shadow: 0 .0625rem .5rem 0 hsla(0, 0%, 0%, .25)
+.bs\:l {
+  box-shadow: 0 1rem 2rem hsla(0, 0%, 0%, .125), 0 .5rem 1rem hsla(0, 0%, 0%, .25)
 }
 
-.bs\:1r {
-  box-shadow: 0 .0625rem 1rem 0 hsla(0, 0%, 0%, .25)
+.bs\:xl {
+  box-shadow: 0 2rem 4rem hsla(0, 0%, 0%, .125), 0 1rem 2em hsla(0, 0%, 0%, .25)
 }

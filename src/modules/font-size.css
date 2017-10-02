@@ -1,112 +1,86 @@
-.fs\:\.75r {
-  font-size: .75rem
-}
-
-.fs\:\.875r {
+.fs\:xs {
   font-size: .875rem
 }
 
-.fs\:1r {
+.fs\:s {
   font-size: 1rem
 }
 
-.fs\:1\.5r {
+.fs\:m {
   font-size: 1.5rem
 }
 
-.fs\:2r {
+.fs\:l {
   font-size: 2rem
 }
 
-.fs\:4r {
+.fs\:xl {
   font-size: 4rem
 }
 
-.fs\:8r {
+.fs\:xxl {
   font-size: 8rem
 }
 
-.fs\:16r {
-  font-size: 16rem
-}
-
 @media screen and (min-width: 40rem) {
-  .fs\:\.75r\@M {
-    font-size: .75rem
-  }
-  .fs\:\.875r\@M {
+  .fs\:xs\@M {
     font-size: .875rem
   }
-  .fs\:1r\@M {
+  .fs\:s\@M {
     font-size: 1rem
   }
-  .fs\:1\.5r\@M {
+  .fs\:m\@M {
     font-size: 1.5rem
   }
-  .fs\:2r\@M {
+  .fs\:l\@M {
     font-size: 2rem
   }
-  .fs\:4r\@M {
+  .fs\:xl\@M {
     font-size: 4rem
   }
-  .fs\:8r\@M {
+  .fs\:xxl\@M {
     font-size: 8rem
-  }
-  .fs\:16r\@M {
-    font-size: 16rem
-  }
-}
-
-@media screen and (min-width: 60rem) {
-  .fs\:\.75r\@L {
-    font-size: .75rem
-  }
-  .fs\:\.875r\@L {
-    font-size: .875rem
-  }
-  .fs\:1r\@L {
-    font-size: 1rem
-  }
-  .fs\:1\.5r\@L {
-    font-size: 1.5rem
-  }
-  .fs\:2r\@L {
-    font-size: 2rem
-  }
-  .fs\:4r\@L {
-    font-size: 4rem
-  }
-  .fs\:8r\@L {
-    font-size: 8rem
-  }
-  .fs\:16r\@L {
-    font-size: 16rem
   }
 }
 
 @media screen and (min-width: 80rem) {
-  .fs\:\.75r\@XL {
-    font-size: .75rem
-  }
-  .fs\:\.875r\@XL {
+  .fs\:xs\@L {
     font-size: .875rem
   }
-  .fs\:1r\@XL {
+  .fs\:s\@L {
     font-size: 1rem
   }
-  .fs\:1\.5r\@XL {
+  .fs\:m\@L {
     font-size: 1.5rem
   }
-  .fs\:2r\@XL {
+  .fs\:l\@L {
     font-size: 2rem
   }
-  .fs\:4r\@XL {
+  .fs\:xl\@L {
     font-size: 4rem
   }
-  .fs\:8r\@XL {
+  .fs\:xxl\@L {
     font-size: 8rem
   }
-  .fs\:16r\@XL {
-    font-size: 16rem
+}
+
+@media screen and (min-width: 120rem) {
+  .fs\:xs\@XL {
+    font-size: .875rem
+  }
+  .fs\:s\@XL {
+    font-size: 1rem
+  }
+  .fs\:m\@XL {
+    font-size: 1.5rem
+  }
+  .fs\:l\@XL {
+    font-size: 2rem
+  }
+  .fs\:xl\@XL {
+    font-size: 4rem
+  }
+  .fs\:xxl\@XL {
+    font-size: 8rem
   }
 }

@@ -1,43 +1,43 @@
-.r\:-4r {
+.r\:-xl {
+  right: -8rem
+}
+
+.r\:-l {
   right: -4rem
 }
 
-.r\:-2r {
+.r\:-m {
   right: -2rem
 }
 
-.r\:-1r {
+.r\:-s {
   right: -1rem
 }
 
-.r\:-\.5r {
+.r\:-xs {
   right: -.5rem
-}
-
-.r\:-\.25r {
-  right: -.25rem
 }
 
 .r\:0 {
   right: 0
 }
 
-.r\:\.25r {
-  right: .25rem
-}
-
-.r\:\.5r {
+.r\:xs {
   right: .5rem
 }
 
-.r\:1r {
+.r\:s {
   right: 1rem
 }
 
-.r\:2r {
+.r\:m {
   right: 2rem
 }
 
-.r\:4r {
+.r\:l {
   right: 4rem
+}
+
+.r\:xl {
+  right: 8rem
 }

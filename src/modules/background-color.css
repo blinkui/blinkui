@@ -58,86 +58,50 @@
   background-color: var(--white)
 }
 
-.bgc\:w\.9 {
-  background-color: color(var(--white) a(.9))
+.bgc\:w\:xl {
+  background-color: color(var(--white) a(.875))
 }
 
-.bgc\:w\.8 {
-  background-color: color(var(--white) a(.8))
+.bgc\:w\:l {
+  background-color: color(var(--white) a(.75))
 }
 
-.bgc\:w\.7 {
-  background-color: color(var(--white) a(.7))
-}
-
-.bgc\:w\.6 {
-  background-color: color(var(--white) a(.6))
-}
-
-.bgc\:w\.5 {
+.bgc\:w\:m {
   background-color: color(var(--white) a(.5))
 }
 
-.bgc\:w\.4 {
-  background-color: color(var(--white) a(.4))
+.bgc\:w\:s {
+  background-color: color(var(--white) a(.25))
 }
 
-.bgc\:w\.3 {
-  background-color: color(var(--white) a(.3))
-}
-
-.bgc\:w\.2 {
-  background-color: color(var(--white) a(.2))
-}
-
-.bgc\:w\.1 {
-  background-color: color(var(--white) a(.1))
+.bgc\:w\:xs {
+  background-color: color(var(--white) a(.125))
 }
 
 .bgc\:b {
   background-color: var(--black)
 }
 
-.bgc\:b\.9 {
-  background-color: color(var(--black) a(.9))
+.bgc\:b\:xl {
+  background-color: color(var(--black) a(.875))
 }
 
-.bgc\:b\.8 {
-  background-color: color(var(--black) a(.8))
+.bgc\:b\:l {
+  background-color: color(var(--black) a(.75))
 }
 
-.bgc\:b\.7 {
-  background-color: color(var(--black) a(.7))
-}
-
-.bgc\:b\.6 {
-  background-color: color(var(--black) a(.6))
-}
-
-.bgc\:b\.5 {
+.bgc\:b\:m {
   background-color: color(var(--black) a(.5))
 }
 
-.bgc\:b\.4 {
-  background-color: color(var(--black) a(.4))
+.bgc\:b\:s {
+  background-color: color(var(--black) a(.25))
 }
 
-.bgc\:b\.3 {
-  background-color: color(var(--black) a(.3))
+.bgc\:b\:xs {
+  background-color: color(var(--black) a(.125))
 }
 
-.bgc\:b\.2 {
-  background-color: color(var(--black) a(.2))
-}
-
-.bgc\:b\.1 {
-  background-color: color(var(--black) a(.1))
-}
-
-.bgc\:b\.05 {
-  background-color: color(var(--black) a(.05))
-}
-
-.bgc\:b\.025 {
-  background-color: color(var(--black) a(.025))
+.bgc\:b\:xxs {
+  background-color: color(var(--black) a(.0625))
 }

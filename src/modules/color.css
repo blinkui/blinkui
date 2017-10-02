@@ -58,78 +58,46 @@
   color: var(--white)
 }
 
-.c\:w\.9 {
-  color: color(var(--white) a(.9))
+.c\:w\:xl {
+  color: color(var(--white) a(.875))
 }
 
-.c\:w\.8 {
-  color: color(var(--white) a(.8))
+.c\:w\:l {
+  color: color(var(--white) a(.75))
 }
 
-.c\:w\.7 {
-  color: color(var(--white) a(.7))
-}
-
-.c\:w\.6 {
-  color: color(var(--white) a(.6))
-}
-
-.c\:w\.5 {
+.c\:w\:m {
   color: color(var(--white) a(.5))
 }
 
-.c\:w\.4 {
-  color: color(var(--white) a(.4))
+.c\:w\:s {
+  color: color(var(--white) a(.25))
 }
 
-.c\:w\.3 {
-  color: color(var(--white) a(.3))
-}
-
-.c\:w\.2 {
-  color: color(var(--white) a(.2))
-}
-
-.c\:w\.1 {
-  color: color(var(--white) a(.1))
+.c\:w\:xs {
+  color: color(var(--white) a(.125))
 }
 
 .c\:b {
   color: var(--black)
 }
 
-.c\:b\.9 {
-  color: color(var(--black) a(.9))
+.c\:b\:xl {
+  color: color(var(--black) a(.875))
 }
 
-.c\:b\.8 {
-  color: color(var(--black) a(.8))
+.c\:b\:l {
+  color: color(var(--black) a(.75))
 }
 
-.c\:b\.7 {
-  color: color(var(--black) a(.7))
-}
-
-.c\:b\.6 {
-  color: color(var(--black) a(.6))
-}
-
-.c\:b\.5 {
+.c\:b\:m {
   color: color(var(--black) a(.5))
 }
 
-.c\:b\.4 {
-  color: color(var(--black) a(.4))
+.c\:b\:s {
+  color: color(var(--black) a(.25))
 }
 
-.c\:b\.3 {
-  color: color(var(--black) a(.3))
-}
-
-.c\:b\.2 {
-  color: color(var(--black) a(.2))
-}
-
-.c\:b\.1 {
-  color: color(var(--black) a(.1))
+.c\:b\:xs {
+  color: color(var(--black) a(.125))
 }

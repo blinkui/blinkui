@@ -1,6 +1,6 @@
 :root {
   --sansfont: system-ui;
-  --seriffont: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  --seriffont: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
   --monofont: 'Roboto Mono', 'Source Code Pro', Menlo, Consolas, 'Liberation Mono', monospace;
   --red: hsl(350, 90%, 60%);
   --orange: hsl(50, 100%, 50%);
@@ -16,16 +16,12 @@
   --magenta: hsl(330, 90%, 60%);
   --brown: hsl(30, 60%, 45%);
   --white: hsl(0, 0%, 98%);
-  --black: hsl(0, 0%, 15%);
+  --black: hsl(0, 0%, 10%);
 }
 
 html {
-  border-style: solid;
-  outline-style: solid;
   box-sizing: border-box;
   font-size: 1rem;
-  line-height: 1.5;
-  font-family: var(--sansfont);
   -webkit-overflow-scrolling: touch;
   /* › smooth scrolling on overflow */
   -ms-overflow-style: -ms-autohiding-scrollbar;
@@ -36,10 +32,6 @@ html {
   box-sizing: inherit;
   margin: 0;
   padding: 0;
-  border-width: 0;
-  border-radius: 0;
-  border-style: inherit;
-  outline: 0;
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -50,22 +42,24 @@ html {
 
 body {
   font-size: 100%;
+  line-height: 1.25;
+  font-family: var(--sansfont);
   color: var(--black);
   min-height: 100vh;
 }
 
 audio, embed, iframe, img, input, object, video, table {
   max-width: 100%;
+  height: auto;
 }
 
 svg {
   fill: currentColor;
 }
 
-a {
-  text-decoration: none;
+table {
+  border-collapse: collapse;
 }
-
 
 /* Placeholder text color fix: */
 

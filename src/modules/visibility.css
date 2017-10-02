@@ -7,11 +7,6 @@
   opacity: 0
 }
 
-.v\:c {
-  visibility: collapse;
-  opacity: 0
-}
-
 *:hover>.v\:v\:h {
   visibility: visible;
   opacity: 1

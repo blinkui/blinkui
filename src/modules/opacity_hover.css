@@ -2,40 +2,24 @@
   opacity: initial
 }
 
-.o\:\.9\:h:hover {
-  opacity: .9
+.o\:xl\:h:hover {
+  opacity: .875
 }
 
-.o\:\.8\:h:hover {
-  opacity: .8
+.o\:l\:h:hover {
+  opacity: .75
 }
 
-.o\:\.7\:h:hover {
-  opacity: .7
-}
-
-.o\:\.6\:h:hover {
-  opacity: .6
-}
-
-.o\:\.5\:h:hover {
+.o\:m\:h:hover {
   opacity: .5
 }
 
-.o\:\.4\:h:hover {
-  opacity: .4
+.o\:s\:h:hover {
+  opacity: .25
 }
 
-.o\:\.3\:h:hover {
-  opacity: .3
-}
-
-.o\:\.2\:h:hover {
-  opacity: .2
-}
-
-.o\:\.1\:h:hover {
-  opacity: .1
+.o\:xs\:h:hover {
+  opacity: .125
 }
 
 .o\:0\:h:hover {

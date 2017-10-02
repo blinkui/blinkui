@@ -1,6 +1,14 @@
 # Changelog
 
-## 0.8.X
+## 1.0.0
+
+- mainly moved from value steps (like `p:1r`) to descriptive steps (xs, s, m, l, xl — like `p:m`)
+- simplified the base styles, optimized value steps
+- changed border-width to border (including `border-style: solid`)
+- removed x- and y-axis classes from all modules
+- `va:super` > `va:sup` (similar to html element)
+- `p:s` (position static) > `p:st` (`p:s` stands now for "padding: small")
+- improved `box-shadow` module
 
 ## 0.8.3
 
@@ -47,18 +55,11 @@
 - grids
 - writing-mode
 - column-count (R)
-- hyphens
 - background-blend-mode
 - cursor (pointer)
 - filters
 - transform (rotate, scale)
 
-
-### Thoughts:
-
-- Steps (.25, .5, 1, 2, 4, 8, 16) also in `z-index` and `top`, `right`… modules? (Consistency)
-- Moving away from number steps to more semantic/descriptive steps like: `xxs › xs › s › m › l › xl › xxl`?
-- fractions for values like `fb:33%` > `fb:1/3`
 
 ---
 
@@ -70,12 +71,14 @@
 - separate section for “add-ons/helpers” (like `margin_child.css`)
 - negative margins (for grids) — or is it better to go for the grid module?
 - min-height
-- background-size
-- aspect-ratio
+- aspect-ratios
+- transform: grow, shrink, up, down (for animations?)
+- `clear` floats
 
-## Make responsive:
+## Make responsive(?):
 
 - `width`, `max-width` and `height` should have responsive classes (at least vh + %/vw)
+- `flex-basis`
 - `order`
 - `flex-grow`
 - `z-index`
@@ -92,14 +95,13 @@
 ## Naming exceptions:
 
 - `bgc` (background-color) vs. `bc` (border-color)
-- font-weight: normal (`fw-n`) vs. flex-wrap: nowrap (`fw-nw`, also for white-space: `ws-nw`)
 
 ## Duplicates:
 
-- `fs`: flex-shrink, font-size, font-style
-- `fw`: font-weight, flex-wrap
-- `o`: order, opacity, overflow
-- `bs`: border-style, box-shadow, box-sizing
+- `fs`: flex-shrink (0–2), font-size (xs–xxl), font-style (n/i)
+- `fw`: font-weight (xs–xl), flex-wrap (w/nw/wr)
+- `o`: order (1–4), opacity (xs–xl), overflow (a/h/v)
+- `bs`: border-style (d), box-shadow (xs–xl), box-sizing (bb/cb)
 
 ---
 
@@ -108,7 +110,7 @@
 ```css
 @media screen and (min-width: 40rem) {}
 
-@media screen and (min-width: 60rem) {}
-
 @media screen and (min-width: 80rem) {}
+
+@media screen and (min-width: 120rem) {}
 ```
