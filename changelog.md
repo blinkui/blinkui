@@ -1,5 +1,11 @@
 # Changelog
 
+
+## 1.0.1
+
+- set default `line-height`to `1.5`in the base stylesheet
+- added `@viewport`definition to base stylesheet
+
 ## 1.0.0
 
 - mainly moved from value steps (like `p:1r`) to descriptive steps (xs, s, m, l, xl — like `p:m`)

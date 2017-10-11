@@ -19,6 +19,11 @@
   --black: hsl(0, 0%, 10%);
 }
 
+@viewport {
+  width: device-width;
+  initial-scale: 1;
+}
+
 html {
   box-sizing: border-box;
   font-size: 1rem;
@@ -36,21 +41,19 @@ html {
   font-size: inherit;
   line-height: inherit;
   color: currentColor;
-  background-color: transparent;
   background-repeat: no-repeat;
 }
 
 body {
   font-size: 100%;
-  line-height: 1.25;
+  line-height: 1.5;
   font-family: var(--sansfont);
   color: var(--black);
   min-height: 100vh;
 }
 
-audio, embed, iframe, img, input, object, video, table {
+img, audio, video, svg, iframe, canvas {
   max-width: 100%;
-  height: auto;
 }
 
 svg {
@@ -61,7 +64,7 @@ table {
   border-collapse: collapse;
 }
 
-/* Placeholder text color fix: */
+/* Placeholder text color fix for input fields: */
 
 ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
