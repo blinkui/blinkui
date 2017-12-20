@@ -6,13 +6,13 @@ Have a look at the docs at [blinkui.github.io](https://blinkui.github.io/).
 Start prototyping right away by simply adding a link to the latest blinkUI version to your `<head>`:
 
 ``` html
-<link rel="stylesheet" href="https://gitcdn.link/repo/blinkui/blinkui/master/css/blink.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/blinkui/blinkui/b3a04c2e/css/blink.css">
 ```
 
 (also available as a minified file:)
 
 ``` html
-<link rel="stylesheet" href="https://gitcdn.link/repo/blinkui/blinkui/master/css/blink.min.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/blinkui/blinkui/b3a04c2e/css/blink.min.css">
 ```
 
 ---

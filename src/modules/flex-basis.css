@@ -2,6 +2,30 @@
   flex-basis: auto
 }
 
+.fb\:0 {
+  flex-basis: 0
+}
+
+.fb\:xs {
+  flex-basis: 1rem
+}
+
+.fb\:s {
+  flex-basis: 2rem
+}
+
+.fb\:m {
+  flex-basis: 4rem
+}
+
+.fb\:l {
+  flex-basis: 8rem
+}
+
+.fb\:xl {
+  flex-basis: 16rem
+}
+
 .fb\:20\% {
   flex-basis: 20%
 }
@@ -40,4 +64,244 @@
 
 .fb\:100\% {
   flex-basis: 100%
+}
+
+.fb\:25vw {
+  flex-basis: 25vw
+}
+
+.fb\:33vw {
+  flex-basis: calc(1/3 * 100vw)
+}
+
+.fb\:50vw {
+  flex-basis: 50vw
+}
+
+.fb\:66vw {
+  flex-basis: calc(2/3 * 100vw)
+}
+
+.fb\:75vw {
+  flex-basis: 75vw
+}
+
+.fb\:100vw {
+  flex-basis: 100vw
+}
+
+@media screen and (min-width: 40rem) {
+  .fb\:a\@M {
+    flex-basis: auto
+  }
+  .fb\:0\@M {
+    flex-basis: 0
+  }
+  .fb\:xs\@M {
+    flex-basis: 1rem
+  }
+  .fb\:s\@M {
+    flex-basis: 2rem
+  }
+  .fb\:m\@M {
+    flex-basis: 4rem
+  }
+  .fb\:l\@M {
+    flex-basis: 8rem
+  }
+  .fb\:xl\@M {
+    flex-basis: 16rem
+  }
+  .fb\:20\%\@M {
+    flex-basis: 20%
+  }
+  .fb\:25\%\@M {
+    flex-basis: 25%
+  }
+  .fb\:33\%\@M {
+    flex-basis: calc(1/3 * 100%)
+  }
+  .fb\:40\%\@M {
+    flex-basis: 40%
+  }
+  .fb\:50\%\@M {
+    flex-basis: 50%
+  }
+  .fb\:60\%\@M {
+    flex-basis: 60%
+  }
+  .fb\:66\%\@M {
+    flex-basis: calc(2/3 * 100%)
+  }
+  .fb\:75\%\@M {
+    flex-basis: 75%
+  }
+  .fb\:80\%\@M {
+    flex-basis: 80%
+  }
+  .fb\:100\%\@M {
+    flex-basis: 100%
+  }
+  .fb\:25vw\@M {
+    flex-basis: 25vw
+  }
+  .fb\:33vw\@M {
+    flex-basis: calc(1/3 * 100vw)
+  }
+  .fb\:50vw\@M {
+    flex-basis: 50vw
+  }
+  .fb\:66vw\@M {
+    flex-basis: calc(2/3 * 100vw)
+  }
+  .fb\:75vw\@M {
+    flex-basis: 75vw
+  }
+  .fb\:100vw\@M {
+    flex-basis: 100vw
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .fb\:a\@L {
+    flex-basis: auto
+  }
+  .fb\:0\@L {
+    flex-basis: 0
+  }
+  .fb\:xs\@L {
+    flex-basis: 1rem
+  }
+  .fb\:s\@L {
+    flex-basis: 2rem
+  }
+  .fb\:m\@L {
+    flex-basis: 4rem
+  }
+  .fb\:l\@L {
+    flex-basis: 8rem
+  }
+  .fb\:xl\@L {
+    flex-basis: 16rem
+  }
+  .fb\:20\%\@L {
+    flex-basis: 20%
+  }
+  .fb\:25\%\@L {
+    flex-basis: 25%
+  }
+  .fb\:33\%\@L {
+    flex-basis: calc(1/3 * 100%)
+  }
+  .fb\:40\%\@L {
+    flex-basis: 40%
+  }
+  .fb\:50\%\@L {
+    flex-basis: 50%
+  }
+  .fb\:60\%\@L {
+    flex-basis: 60%
+  }
+  .fb\:66\%\@L {
+    flex-basis: calc(2/3 * 100%)
+  }
+  .fb\:75\%\@L {
+    flex-basis: 75%
+  }
+  .fb\:80\%\@L {
+    flex-basis: 80%
+  }
+  .fb\:100\%\@L {
+    flex-basis: 100%
+  }
+  .fb\:25vw\@L {
+    flex-basis: 25vw
+  }
+  .fb\:33vw\@L {
+    flex-basis: calc(1/3 * 100vw)
+  }
+  .fb\:50vw\@L {
+    flex-basis: 50vw
+  }
+  .fb\:66vw\@L {
+    flex-basis: calc(2/3 * 100vw)
+  }
+  .fb\:75vw\@L {
+    flex-basis: 75vw
+  }
+  .fb\:100vw\@L {
+    flex-basis: 100vw
+  }
+}
+
+@media screen and (min-width: 120rem) {
+  .fb\:a\@XL {
+    flex-basis: auto
+  }
+  .fb\:0\@XL {
+    flex-basis: 0
+  }
+  .fb\:xs\@XL {
+    flex-basis: 1rem
+  }
+  .fb\:s\@XL {
+    flex-basis: 2rem
+  }
+  .fb\:m\@XL {
+    flex-basis: 4rem
+  }
+  .fb\:l\@XL {
+    flex-basis: 8rem
+  }
+  .fb\:xl\@XL {
+    flex-basis: 16rem
+  }
+  .fb\:20\%\@XL {
+    flex-basis: 20%
+  }
+  .fb\:25\%\@XL {
+    flex-basis: 25%
+  }
+  .fb\:33\%\@XL {
+    flex-basis: calc(1/3 * 100%)
+  }
+  .fb\:40\%\@XL {
+    flex-basis: 40%
+  }
+  .fb\:50\%\@XL {
+    flex-basis: 50%
+  }
+  .fb\:60\%\@XL {
+    flex-basis: 60%
+  }
+  .fb\:66\%\@XL {
+    flex-basis: calc(2/3 * 100%)
+  }
+  .fb\:75\%\@XL {
+    flex-basis: 75%
+  }
+  .fb\:80\%\@XL {
+    flex-basis: 80%
+  }
+  .fb\:100\%\@XL {
+    flex-basis: 100%
+  }
+  .fb\:25vw\@XL {
+    flex-basis: 25vw
+  }
+  .fb\:33vw\@XL {
+    flex-basis: calc(1/3 * 100vw)
+  }
+  .fb\:50vw\@XL {
+    flex-basis: 50vw
+  }
+  .fb\:66vw\@XL {
+    flex-basis: calc(2/3 * 100vw)
+  }
+  .fb\:75vw\@XL {
+    flex-basis: 75vw
+  }
+  .fb\:100vw\@XL {
+    flex-basis: 100vw
+  }
 }

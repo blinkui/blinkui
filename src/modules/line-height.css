@@ -1,3 +1,7 @@
+.lh\:0 {
+  line-height: 0
+}
+
 .lh\:xs {
   line-height: 1
 }
@@ -19,6 +23,9 @@
 }
 
 @media screen and (min-width: 40rem) {
+  .lh\:0\@M {
+    line-height: 0
+  }
   .lh\:xs\@M {
     line-height: 1
   }
@@ -37,6 +44,9 @@
 }
 
 @media screen and (min-width: 80rem) {
+  .lh\:0\@L {
+    line-height: 0
+  }
   .lh\:xs\@L {
     line-height: 1
   }
@@ -55,6 +65,9 @@
 }
 
 @media screen and (min-width: 120rem) {
+  .lh\:0\@XL {
+    line-height: 0
+  }
   .lh\:xs\@XL {
     line-height: 1
   }

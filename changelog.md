@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2
+
+- added `lh:0` to line-height module
+- added responsive classes to `width` and `flex-basis` modules
+- changed the cdn link to RawGit
+
 
 ## 1.0.1
 

@@ -1,5 +1,6 @@
 .ls\:n {
-  list-style: none
+  list-style: none;
+  padding-left: 0;
 }
 
 /* dash */

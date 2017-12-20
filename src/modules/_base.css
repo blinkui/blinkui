@@ -36,7 +36,6 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
   margin: 0;
-  padding: 0;
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -54,6 +53,7 @@ body {
 
 img, audio, video, svg, iframe, canvas {
   max-width: 100%;
+  height: auto;
 }
 
 svg {
@@ -62,6 +62,11 @@ svg {
 
 table {
   border-collapse: collapse;
+}
+
+nav ul, nav ol {
+  list-style: none;
+  padding-left: 0;
 }
 
 /* Placeholder text color fix for input fields: */
