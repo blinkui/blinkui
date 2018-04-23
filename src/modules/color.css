@@ -54,6 +54,10 @@
   color: transparent
 }
 
+.c\:cc {
+  color: currentColor
+}
+
 .c\:w {
   color: var(--white)
 }

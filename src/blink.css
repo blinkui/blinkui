@@ -28,6 +28,7 @@
 @import "modules/box-sizing.css";
 /* Positioning */
 
+@import "modules/column-count.css";
 @import "modules/display.css";
 @import "modules/position.css";
 @import "modules/z-index.css";

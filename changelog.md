@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.0.3
+
+- simplified the base stylesheet (removed opinionated reset styles)
+- added 'SFMono-Regular' to monospace font-stack
+- added two `letter-spacing` classes (xs and xl)
+- added `column-count` module
+- default `line-height` is now `1.25` instead of `1.5`
+- simplified the max-width module (now contains only breakpoint related classes)
+- added `c:cc` (color: currentColor) to color module
+- removed padding reset from `ls:n`(list-style: none) class (set `pl:0` to reset padding manually)
+- fixed naming mistake in `z-index` module
+
 ## 1.0.2
 
 - added `lh:0` to line-height module
@@ -9,7 +21,7 @@
 
 ## 1.0.1
 
-- set default `line-height`to `1.5`in the base stylesheet
+- set default `line-height`to `1.5` in the base stylesheet
 - added `@viewport`definition to base stylesheet
 
 ## 1.0.0
@@ -56,7 +68,7 @@
 
 - min-height module
 - background-position
-
+- object-fit
 
 ---
 
@@ -66,7 +78,6 @@
 
 - grids
 - writing-mode
-- column-count (R)
 - background-blend-mode
 - cursor (pointer)
 - filters
@@ -84,17 +95,14 @@
 - negative margins (for grids) — or is it better to go for the grid module?
 - min-height
 - aspect-ratios
-- transform: grow, shrink, up, down (for animations?)
+- transform: scale-up, scale-down, translate-up, translate-down (for animations?), rotate-left, rotate-right
 - `clear` floats
 
 ## Make responsive(?):
 
-- `width`, `max-width` and `height` should have responsive classes (at least vh + %/vw)
-- `flex-basis`
 - `order`
 - `flex-grow`
 - `z-index`
-- `position`
 
 ## Demo:
 

@@ -1,3 +1,7 @@
+.ls\:xs {
+  letter-spacing: -.125em
+}
+
 .ls\:s {
   letter-spacing: -.0625em
 }
@@ -8,4 +12,8 @@
 
 .ls\:l {
   letter-spacing: .125em
+}
+
+.ls\:xl {
+  letter-spacing: .25em
 }

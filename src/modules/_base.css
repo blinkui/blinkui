@@ -1,7 +1,7 @@
 :root {
   --sansfont: system-ui;
   --seriffont: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-  --monofont: 'Roboto Mono', 'Source Code Pro', Menlo, Consolas, 'Liberation Mono', monospace;
+  --monofont: 'SFMono-Regular', 'Roboto Mono', 'Source Code Pro', Menlo, Consolas, 'Liberation Mono', monospace;
   --red: hsl(350, 90%, 60%);
   --orange: hsl(50, 100%, 50%);
   --yellow: hsl(60, 90%, 65%);
@@ -27,46 +27,40 @@
 html {
   box-sizing: border-box;
   font-size: 1rem;
+  /* Smooth scrolling on overflow */
   -webkit-overflow-scrolling: touch;
-  /* › smooth scrolling on overflow */
+  /* Automatically hide scrollbars in Edge and IE10/11 */
   -ms-overflow-style: -ms-autohiding-scrollbar;
-  /* › automatically hide scrollbars in Edge and IE10/11 */
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
-  margin: 0;
-  font-family: inherit;
-  font-size: inherit;
   line-height: inherit;
-  color: currentColor;
-  background-repeat: no-repeat;
 }
 
 body {
   font-size: 100%;
-  line-height: 1.5;
+  line-height: 1.25;
   font-family: var(--sansfont);
   color: var(--black);
-  min-height: 100vh;
+  background-color: var(--white);
 }
 
-img, audio, video, svg, iframe, canvas {
+img, svg, audio, video, iframe, canvas, embed, object {
   max-width: 100%;
   height: auto;
 }
 
-svg {
-  fill: currentColor;
+pre {
+  overflow-x: auto;
+}
+
+input, label, select, button, textarea {
+  font-size: inherit;
 }
 
 table {
   border-collapse: collapse;
-}
-
-nav ul, nav ol {
-  list-style: none;
-  padding-left: 0;
 }
 
 /* Placeholder text color fix for input fields: */
@@ -85,12 +79,6 @@ nav ul, nav ol {
 
 :-ms-input-placeholder {
   /* IE 10+ */
-  color: currentColor;
-  opacity: .5
-}
-
-:-moz-placeholder {
-  /* Firefox 18- */
   color: currentColor;
   opacity: .5
 }
