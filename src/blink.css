@@ -25,6 +25,7 @@
 @import "modules/width.css";
 @import "modules/max-width.css";
 @import "modules/height.css";
+@import "modules/min-height.css";
 @import "modules/box-sizing.css";
 /* Positioning */
 

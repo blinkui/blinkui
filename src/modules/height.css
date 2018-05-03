@@ -73,3 +73,183 @@
 .h\:100vh {
   height: 100vh
 }
+
+@media screen and (min-width: 40rem) {
+  .h\:a\@M {
+    height: auto
+  }
+  .h\:0\@M {
+    height: 0
+  }
+  .h\:xs\@M {
+    height: 1rem
+  }
+  .h\:s\@M {
+    height: 2rem
+  }
+  .h\:m\@M {
+    height: 4rem
+  }
+  .h\:l\@M {
+    height: 8rem
+  }
+  .h\:xl\@M {
+    height: 16rem
+  }
+  .h\:25\%\@M {
+    height: 25\%
+  }
+  .h\:33\% {
+    height: calc(1/3 * 100%)
+  }
+  .h\:50\%\@M {
+    height: 50%
+  }
+  .h\:66\%\@M {
+    height: calc(2/3 * 100%)
+  }
+  .h\:75\%\@M {
+    height: 75%
+  }
+  .h\:100\%\@M {
+    height: 100%
+  }
+  .h\:25vh\@M {
+    height: 25vh
+  }
+  .h\:33vh\@M {
+    height: calc(1/3 * 100vh)
+  }
+  .h\:50vh\@M {
+    height: 50vh
+  }
+  .h\:66vh\@M {
+    height: calc(2/3 * 100vh)
+  }
+  .h\:75vh\@M {
+    height: 75vh
+  }
+  .h\:100vh\@M {
+    height: 100vh
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .h\:a\@L {
+    height: auto
+  }
+  .h\:0\@L {
+    height: 0
+  }
+  .h\:xs\@L {
+    height: 1rem
+  }
+  .h\:s\@L {
+    height: 2rem
+  }
+  .h\:m\@L {
+    height: 4rem
+  }
+  .h\:l\@L {
+    height: 8rem
+  }
+  .h\:xl\@L {
+    height: 16rem
+  }
+  .h\:25\%\@L {
+    height: 25\%
+  }
+  .h\:33\% {
+    height: calc(1/3 * 100%)
+  }
+  .h\:50\%\@L {
+    height: 50%
+  }
+  .h\:66\%\@L {
+    height: calc(2/3 * 100%)
+  }
+  .h\:75\%\@L {
+    height: 75%
+  }
+  .h\:100\%\@L {
+    height: 100%
+  }
+  .h\:25vh\@L {
+    height: 25vh
+  }
+  .h\:33vh\@L {
+    height: calc(1/3 * 100vh)
+  }
+  .h\:50vh\@L {
+    height: 50vh
+  }
+  .h\:66vh\@L {
+    height: calc(2/3 * 100vh)
+  }
+  .h\:75vh\@L {
+    height: 75vh
+  }
+  .h\:100vh\@L {
+    height: 100vh
+  }
+}
+
+@media screen and (min-width: 120rem) {
+  .h\:a\@XL {
+    height: auto
+  }
+  .h\:0\@XL {
+    height: 0
+  }
+  .h\:xs\@XL {
+    height: 1rem
+  }
+  .h\:s\@XL {
+    height: 2rem
+  }
+  .h\:m\@XL {
+    height: 4rem
+  }
+  .h\:l\@XL {
+    height: 8rem
+  }
+  .h\:xl\@XL {
+    height: 16rem
+  }
+  .h\:25\%\@XL {
+    height: 25\%
+  }
+  .h\:33\% {
+    height: calc(1/3 * 100%)
+  }
+  .h\:50\%\@XL {
+    height: 50%
+  }
+  .h\:66\%\@XL {
+    height: calc(2/3 * 100%)
+  }
+  .h\:75\%\@XL {
+    height: 75%
+  }
+  .h\:100\%\@XL {
+    height: 100%
+  }
+  .h\:25vh\@XL {
+    height: 25vh
+  }
+  .h\:33vh\@XL {
+    height: calc(1/3 * 100vh)
+  }
+  .h\:50vh\@XL {
+    height: 50vh
+  }
+  .h\:66vh\@XL {
+    height: calc(2/3 * 100vh)
+  }
+  .h\:75vh\@XL {
+    height: 75vh
+  }
+  .h\:100vh\@XL {
+    height: 100vh
+  }
+}

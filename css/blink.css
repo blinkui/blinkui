@@ -29,10 +29,10 @@ html {
 
 *, *::before, *::after {
   box-sizing: inherit;
-  line-height: inherit;
 }
 
 body {
+  margin: 0;
   font-size: 100%;
   line-height: 1.25;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue;
@@ -40,21 +40,129 @@ body {
   background-color: hsl(0, 0%, 98%);
 }
 
+h1, h2, h3, h4, h5, h6, input, label, select, button, textarea {
+  font-size: inherit;
+}
+
+p, li {
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+a[href]:not([class]) {
+  color: hsl(350, 90%, 60%);
+}
+
+a:hover {
+  opacity: 0.75;
+}
+
+a:active {
+  opacity: 1;
+  opacity: initial;
+}
+
+/* Vertical margin reset (vertical rhythm) */
+
+h1, h2, h3, h4, h5, h6, p, blockquote, dl, fieldset, figure, hr, legend, menu, ol, pre, table, ul {
+  margin-top: 0;
+  margin-bottom: 8px;
+  margin-bottom: 0.5rem;
+}
+
+/* Horizontal margin reset */
+
+blockquote, figure, fieldset {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+blockquote>p {
+  font-style: italic;
+}
+
+figcaption {
+  opacity: 0.5;
+}
+
+kbd, code, samp, pre {
+  font-family: "SFMono-Regular", "Roboto Mono", "Source Code Pro", Menlo, Consolas, "Liberation Mono", monospace;
+}
+
+pre {
+  background-color: hsl(0, 0%, 10%);
+  color: hsl(0, 0%, 98%);
+  padding: 8px;
+  padding: 0.5rem;
+  overflow-x: auto;
+}
+
+iframe {
+  border-width: 0;
+}
+
+fieldset {
+  border-width: 0;
+  padding: 0;
+}
+
+legend {
+  padding: 0;
+}
+
+textarea {
+  resize: vertical;
+}
+
+hr {
+  border-top-width: 0;
+  border-bottom-width: 1px;
+  border-bottom-width: 0.0625rem;
+  border-color: currentColor;
+  border-style: solid;
+}
+
 img, svg, audio, video, iframe, canvas, embed, object {
   max-width: 100%;
   height: auto;
 }
 
-pre {
-  overflow-x: auto;
+svg {
+  fill: currentColor;
 }
 
-input, label, select, button, textarea {
-  font-size: inherit;
-}
+/* Tables */
 
 table {
   border-collapse: collapse;
+}
+
+caption, th {
+  text-align: left;
+}
+
+th, td {
+  padding: 8px;
+  padding: 0.5rem;
+}
+
+th:first-of-type, td:first-of-type {
+  padding-left: 0;
+}
+
+th:last-of-type, td:last-of-type {
+  padding-right: 0;
+}
+
+/* Forms */
+
+input, select, button, textarea {
+  color: currentColor;
+  background-color: transparent;
 }
 
 /* Placeholder text color fix for input fields: */
@@ -62,25 +170,25 @@ table {
 ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
   color: currentColor;
-  opacity: .5
+  opacity: 0.5;
 }
 
 ::-moz-placeholder {
   /* Firefox 19+ */
   color: currentColor;
-  opacity: .5
+  opacity: 0.5;
 }
 
 :-ms-input-placeholder {
   /* IE 10+ */
   color: currentColor;
-  opacity: .5
+  opacity: 0.5;
 }
 
 /* TYPOGRAPHY */
 
 .ff\:s {
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
 }
 
 .ff\:ss {
@@ -88,7 +196,7 @@ table {
 }
 
 .ff\:m {
-  font-family: 'SFMono-Regular', 'Roboto Mono', 'Source Code Pro', Menlo, Consolas, 'Liberation Mono', monospace
+  font-family: "SFMono-Regular", "Roboto Mono", "Source Code Pro", Menlo, Consolas, "Liberation Mono", monospace
 }
 
 .fs\:xs {
@@ -2174,6 +2282,447 @@ table {
   height: 100vh
 }
 
+@media screen and (min-width: 40rem) {
+  .h\:a\@M {
+    height: auto
+  }
+  .h\:0\@M {
+    height: 0
+  }
+  .h\:xs\@M {
+    height: 1rem
+  }
+  .h\:s\@M {
+    height: 2rem
+  }
+  .h\:m\@M {
+    height: 4rem
+  }
+  .h\:l\@M {
+    height: 8rem
+  }
+  .h\:xl\@M {
+    height: 16rem
+  }
+  .h\:25\%\@M {
+    height: 25\%
+  }
+  .h\:33\% {
+    height: 33.33333%
+  }
+  .h\:50\%\@M {
+    height: 50%
+  }
+  .h\:66\%\@M {
+    height: 66.66667%
+  }
+  .h\:75\%\@M {
+    height: 75%
+  }
+  .h\:100\%\@M {
+    height: 100%
+  }
+  .h\:25vh\@M {
+    height: 25vh
+  }
+  .h\:33vh\@M {
+    height: 33.33333vh
+  }
+  .h\:50vh\@M {
+    height: 50vh
+  }
+  .h\:66vh\@M {
+    height: 66.66667vh
+  }
+  .h\:75vh\@M {
+    height: 75vh
+  }
+  .h\:100vh\@M {
+    height: 100vh
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .h\:a\@L {
+    height: auto
+  }
+  .h\:0\@L {
+    height: 0
+  }
+  .h\:xs\@L {
+    height: 1rem
+  }
+  .h\:s\@L {
+    height: 2rem
+  }
+  .h\:m\@L {
+    height: 4rem
+  }
+  .h\:l\@L {
+    height: 8rem
+  }
+  .h\:xl\@L {
+    height: 16rem
+  }
+  .h\:25\%\@L {
+    height: 25\%
+  }
+  .h\:33\% {
+    height: 33.33333%
+  }
+  .h\:50\%\@L {
+    height: 50%
+  }
+  .h\:66\%\@L {
+    height: 66.66667%
+  }
+  .h\:75\%\@L {
+    height: 75%
+  }
+  .h\:100\%\@L {
+    height: 100%
+  }
+  .h\:25vh\@L {
+    height: 25vh
+  }
+  .h\:33vh\@L {
+    height: 33.33333vh
+  }
+  .h\:50vh\@L {
+    height: 50vh
+  }
+  .h\:66vh\@L {
+    height: 66.66667vh
+  }
+  .h\:75vh\@L {
+    height: 75vh
+  }
+  .h\:100vh\@L {
+    height: 100vh
+  }
+}
+
+@media screen and (min-width: 120rem) {
+  .h\:a\@XL {
+    height: auto
+  }
+  .h\:0\@XL {
+    height: 0
+  }
+  .h\:xs\@XL {
+    height: 1rem
+  }
+  .h\:s\@XL {
+    height: 2rem
+  }
+  .h\:m\@XL {
+    height: 4rem
+  }
+  .h\:l\@XL {
+    height: 8rem
+  }
+  .h\:xl\@XL {
+    height: 16rem
+  }
+  .h\:25\%\@XL {
+    height: 25\%
+  }
+  .h\:33\% {
+    height: 33.33333%
+  }
+  .h\:50\%\@XL {
+    height: 50%
+  }
+  .h\:66\%\@XL {
+    height: 66.66667%
+  }
+  .h\:75\%\@XL {
+    height: 75%
+  }
+  .h\:100\%\@XL {
+    height: 100%
+  }
+  .h\:25vh\@XL {
+    height: 25vh
+  }
+  .h\:33vh\@XL {
+    height: 33.33333vh
+  }
+  .h\:50vh\@XL {
+    height: 50vh
+  }
+  .h\:66vh\@XL {
+    height: 66.66667vh
+  }
+  .h\:75vh\@XL {
+    height: 75vh
+  }
+  .h\:100vh\@XL {
+    height: 100vh
+  }
+}
+
+.mh\:a {
+  min-height: auto
+}
+
+.mh\:0 {
+  min-height: 0
+}
+
+.mh\:xs {
+  min-height: 16px;
+  min-height: 1rem
+}
+
+.mh\:s {
+  min-height: 32px;
+  min-height: 2rem
+}
+
+.mh\:m {
+  min-height: 64px;
+  min-height: 4rem
+}
+
+.mh\:l {
+  min-height: 128px;
+  min-height: 8rem
+}
+
+.mh\:xl {
+  min-height: 256px;
+  min-height: 16rem
+}
+
+.mh\:25\% {
+  min-height: 25\%
+}
+
+.mh\:33\% {
+  min-height: 33.33333%
+}
+
+.mh\:50\% {
+  min-height: 50%
+}
+
+.mh\:66\% {
+  min-height: 66.66667%
+}
+
+.mh\:75\% {
+  min-height: 75%
+}
+
+.mh\:100\% {
+  min-height: 100%
+}
+
+.mh\:25vh {
+  min-height: 25vh
+}
+
+.mh\:33vh {
+  min-height: 33.33333vh
+}
+
+.mh\:50vh {
+  min-height: 50vh
+}
+
+.mh\:66vh {
+  min-height: 66.66667vh
+}
+
+.mh\:75vh {
+  min-height: 75vh
+}
+
+.mh\:100vh {
+  min-height: 100vh
+}
+
+@media screen and (min-width: 40rem) {
+  .mh\:a\@M {
+    min-height: auto
+  }
+  .mh\:0\@M {
+    min-height: 0
+  }
+  .mh\:xs\@M {
+    min-height: 1rem
+  }
+  .mh\:s\@M {
+    min-height: 2rem
+  }
+  .mh\:m\@M {
+    min-height: 4rem
+  }
+  .mh\:l\@M {
+    min-height: 8rem
+  }
+  .mh\:xl\@M {
+    min-height: 16rem
+  }
+  .mh\:25\%\@M {
+    min-height: 25\%
+  }
+  .mh\:33\% {
+    min-height: 33.33333%
+  }
+  .mh\:50\%\@M {
+    min-height: 50%
+  }
+  .mh\:66\%\@M {
+    min-height: 66.66667%
+  }
+  .mh\:75\%\@M {
+    min-height: 75%
+  }
+  .mh\:100\%\@M {
+    min-height: 100%
+  }
+  .mh\:25vh\@M {
+    min-height: 25vh
+  }
+  .mh\:33vh\@M {
+    min-height: 33.33333vh
+  }
+  .mh\:50vh\@M {
+    min-height: 50vh
+  }
+  .mh\:66vh\@M {
+    min-height: 66.66667vh
+  }
+  .mh\:75vh\@M {
+    min-height: 75vh
+  }
+  .mh\:100vh\@M {
+    min-height: 100vh
+  }
+}
+
+@media screen and (min-width: 80rem) {
+  .mh\:a\@L {
+    min-height: auto
+  }
+  .mh\:0\@L {
+    min-height: 0
+  }
+  .mh\:xs\@L {
+    min-height: 1rem
+  }
+  .mh\:s\@L {
+    min-height: 2rem
+  }
+  .mh\:m\@L {
+    min-height: 4rem
+  }
+  .mh\:l\@L {
+    min-height: 8rem
+  }
+  .mh\:xl\@L {
+    min-height: 16rem
+  }
+  .mh\:25\%\@L {
+    min-height: 25\%
+  }
+  .mh\:33\% {
+    min-height: 33.33333%
+  }
+  .mh\:50\%\@L {
+    min-height: 50%
+  }
+  .mh\:66\%\@L {
+    min-height: 66.66667%
+  }
+  .mh\:75\%\@L {
+    min-height: 75%
+  }
+  .mh\:100\%\@L {
+    min-height: 100%
+  }
+  .mh\:25vh\@L {
+    min-height: 25vh
+  }
+  .mh\:33vh\@L {
+    min-height: 33.33333vh
+  }
+  .mh\:50vh\@L {
+    min-height: 50vh
+  }
+  .mh\:66vh\@L {
+    min-height: 66.66667vh
+  }
+  .mh\:75vh\@L {
+    min-height: 75vh
+  }
+  .mh\:100vh\@L {
+    min-height: 100vh
+  }
+}
+
+@media screen and (min-width: 120rem) {
+  .mh\:a\@XL {
+    min-height: auto
+  }
+  .mh\:0\@XL {
+    min-height: 0
+  }
+  .mh\:xs\@XL {
+    min-height: 1rem
+  }
+  .mh\:s\@XL {
+    min-height: 2rem
+  }
+  .mh\:m\@XL {
+    min-height: 4rem
+  }
+  .mh\:l\@XL {
+    min-height: 8rem
+  }
+  .mh\:xl\@XL {
+    min-height: 16rem
+  }
+  .mh\:25\%\@XL {
+    min-height: 25\%
+  }
+  .mh\:33\% {
+    min-height: 33.33333%
+  }
+  .mh\:50\%\@XL {
+    min-height: 50%
+  }
+  .mh\:66\%\@XL {
+    min-height: 66.66667%
+  }
+  .mh\:75\%\@XL {
+    min-height: 75%
+  }
+  .mh\:100\%\@XL {
+    min-height: 100%
+  }
+  .mh\:25vh\@XL {
+    min-height: 25vh
+  }
+  .mh\:33vh\@XL {
+    min-height: 33.33333vh
+  }
+  .mh\:50vh\@XL {
+    min-height: 50vh
+  }
+  .mh\:66vh\@XL {
+    min-height: 66.66667vh
+  }
+  .mh\:75vh\@XL {
+    min-height: 75vh
+  }
+  .mh\:100vh\@XL {
+    min-height: 100vh
+  }
+}
+
 .bs\:cb {
   box-sizing: content-box
 }
@@ -2419,8 +2968,14 @@ table {
   }
 }
 
+.p\:i {
+  position: static;
+  position: initial
+}
+
 .p\:st {
-  position: static
+  position: -webkit-sticky;
+  position: sticky
 }
 
 .p\:r {
@@ -2436,8 +2991,13 @@ table {
 }
 
 @media screen and (min-width: 40rem) {
+  .p\:i\@M {
+    position: static;
+    position: initial
+  }
   .p\:st\@M {
-    position: static
+    position: -webkit-sticky;
+    position: sticky
   }
   .p\:r\@M {
     position: relative
@@ -2451,8 +3011,13 @@ table {
 }
 
 @media screen and (min-width: 80rem) {
+  .p\:i\@L {
+    position: static;
+    position: initial
+  }
   .p\:st\@L {
-    position: static
+    position: -webkit-sticky;
+    position: sticky
   }
   .p\:r\@L {
     position: relative
@@ -2466,8 +3031,13 @@ table {
 }
 
 @media screen and (min-width: 120rem) {
+  .p\:i\@XL {
+    position: static;
+    position: initial
+  }
   .p\:st\@XL {
-    position: static
+    position: -webkit-sticky;
+    position: sticky
   }
   .p\:r\@XL {
     position: relative

@@ -1,5 +1,14 @@
 # Changelog
 
+
+## 1.0.4
+
+- added common sense element style resets to the base stylesheet
+- added `min-height` module
+- added responsive classes to `height` module
+- position:static is now `p:i` (position: initial)
+- added position:sticky `p:st` to position module
+
 ## 1.0.3
 
 - simplified the base stylesheet (removed opinionated reset styles)

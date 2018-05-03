@@ -1,5 +1,9 @@
+.p\:i {
+  position: initial
+}
+
 .p\:st {
-  position: static
+  position: sticky
 }
 
 .p\:r {
@@ -15,8 +19,11 @@
 }
 
 @media screen and (min-width: 40rem) {
+  .p\:i\@M {
+    position: initial
+  }
   .p\:st\@M {
-    position: static
+    position: sticky
   }
   .p\:r\@M {
     position: relative
@@ -30,8 +37,11 @@
 }
 
 @media screen and (min-width: 80rem) {
+  .p\:i\@L {
+    position: initial
+  }
   .p\:st\@L {
-    position: static
+    position: sticky
   }
   .p\:r\@L {
     position: relative
@@ -45,8 +55,11 @@
 }
 
 @media screen and (min-width: 120rem) {
+  .p\:i\@XL {
+    position: initial
+  }
   .p\:st\@XL {
-    position: static
+    position: sticky
   }
   .p\:r\@XL {
     position: relative
